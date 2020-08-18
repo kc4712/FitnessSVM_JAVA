@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--메인화면-->
+    <string name="main_basic">初級トレーニング</string>
+    <string name="main_theme">上級トレーニング</string>
+    <!--메인화면-->
+
+    <!--수면측정-->
+    <string name="seep_minute">分</string>
+    <string name="seep_Times">回</string>
+    <!--수면측정-->
+
+    <!--알림-->
+    <string name="call">着信通知</string>
+    <string name="messages">メッセージ受信</string>
+    <!--알림-->
+
+    <string name="app_name">iBODY24</string>
+    <!-- 추가 부분 -->
+
+    <string name="accuracy">正確度</string>
+    <string name="maximum_heartrate">心拍数</string>
+    <string name="exercise_number">運動\n回数</string>
+    <string name="consume_calorie">諸費\nカロリー</string>
+    <string name="support_ibody">iBODY24が提供する無料運動です。\n運動をする前に必ず５分以上準備運動を\n実施してください。</string>
+    <string name="prepare_exercise_comment">iBODY24が推薦する準備運動です。\n運動をする前に準備運動をすることは非常に\n重要です。 必ず５分以上実施してください。\n 準備運動は負傷を防止することができます。\n各映像をクリックすると準備運動が始まります。</string>
+    <string name="support_ibody2">iBODY24 提供する専門フィットネス運動です。\n時間と場所に制約を受けず、トレーナーと\n1対1映像トレーニングが可能です。</string>
+    <string name="personal_information">個人情報取扱方針 </string>
+    <string name="weight_setting">体重設定</string>
+    <string name="now_weight">現体重</string>
+    <string name="target_weight">目標体重</string>
+    <string name="diet_period">減量期間</string>
+    <string name="week">&#160; 週</string>
+    <string name="day_consume_calorie">1日の消費カロリ</string>
+    <string name="setting">設定 </string>
+    <string name="speciality_field">專門分野</string>
+    <string name="trainer_title_1">トレーナー</string>
+    <string name="watch_exercise">運動を見る </string>
+    <string name="fitness">フィットネス </string>
+    <string name="trainer_name_1">イ・ジュヨン</string>
+    <string name="year">年</string>
+    <string name="month">月 </string>
+    <string name="day">日</string>
+    <string name="input_gender">性別を入力してください。</string>
+    <string name="input_height">身長を入力してください。</string>
+    <string name="input_birth">生年月日を入力してください。 </string>
+    <string name="input_name">名前を入力してください。</string>
+    <string name="count">回数</string>
+    <string name="yes">OK</string>
+    <string name="no">キャンセル </string>
+    <string name="program_001_001">高速腹筋完成ピラティス</string>
+    <string name="over_work">無理</string>
+    <string name="fit">適当</string>
+    <string name="enough">十分 </string>
+    <string name="BMI_above">標準以上</string>
+    <string name="BMI_below">標準以下</string>
+    <string name="BMI_standard">標準</string>
+    <string name="action_settings">Settings</string>
+    <string name="agree_term">使用者利用約款に同意してください。</string>
+    <string name="coach_basic_title_001">準備運動</string>
+    <string name="coach_basic_title_002">１５分全身運動</string>
+    <string name="coach_basic_title_003">マット運動</string>
+    <string name="coach_basic_title_004">アクティブ運動</string>
+    <string name="email_not_valid">間違ったメールです。正しいメールを入力してください。</string>
+    <string name="enter_email">メールを入力してください。</string>
+    <string name="enter_pass">パスワードを入力してください。</string>
+    <string name="enter_pass_confirm">パスワードを確認してください。</string>
+    <string name="error_bluetooth">スマートホンの ブルートゥース装置が活性化してないのでアプリを終了します。</string>
+    <string name="error_exists_email">既に登録されたメールアドレスです。</string>
+    <string name="error_not_account">メールアドレスまたはパスワードが一致しません。\ nもう一度確認してください。</string>
+    <string name="error_program">予想していないエラーです。</string>
+    <string name="find_device">機器検索</string>
+    <string name="find_id">ログインメール/パスワードを忘れた時</string>
+    <!--<string name="find_pw">パスワードを忘れた時</string>-->
+    <string name="joinus">Join us</string>
+    <string name="login">Login</string>
+    <string name="login_check_agreement">使用者利用約款に同意します。</string>
+    <string name="login_confirm_hint"><font size="9">もう一度パスワードを確認してください。</font></string>
+    <string name="login_confirm_title">パスワード確認</string>
+    <string name="login_email_hint"><font size="9">メールアドレスを入力してください。</font></string>
+    <string name="login_email_title">E-mail</string>
+    <string name="login_password_hint"><font size="9">パスワードを入力してください。(１６文字以下)</font></string>
+    <string name="login_password_title">パスワード</string>
+    <string name="login_read_agreement"><font size="8">使用者利用約款を見る。</font></string>
+    <string name="logo_text">The first wearable to be\nyour personal trainer</string>
+    <string name="menu_chart">Chart</string>
+    <string name="menu_coach">My Coach</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_setting">Setting</string>
+    <string name="network_error">ネットワークに接続されていません。</string>
+    <string name="ok">確認</string>
+    <string name="pass_not_match">パスワードとパスワードの確認が違います。</string>
+    <string name="pass_not_valid">パスワードは英数字混合8～16桁の設定が必要です。</string>
+    <string name="register_complete">iBODY24に登録できました。</string>
+    <string name="register_user">登録完了</string>
+    <string name="select_device_title">iBODY24 %sに登録できました。</string>
+    <string name="start_app">始める</string>
+    <string name="support_bluetooth_title">デバイス接続。</string>
+    <string name="support_msg1">iBODY24デバイスの電源が正常に入っていることを\ n確認してください。</string>
+    <string name="support_msg2">スマートホンのブルートゥース装置を活性化してください。</string>
+    <string name="support_msg3">iBODY24デバイスをスマートフォンに近いところへ置いて、\ n実行してください。</string>
+    <string name="support_msg4">近くに同じ製品があるかを確認してください。</string>
+    <string name="support_title">iBODY24が見つかりませんか。\n以下の項目を確認してください。</string>
+    <string name="total_point">Total Point</string>
+    <string name="comment_accuracy">運動フォームに対する正確度です。正確度が高いほど運動中正しいフォームを取ったと判断し, カロリー 諸費量も増えます。</string>
+    <string name="comment_consume_calorie">目標諸費カロリー対本日諸費したカロリー量を表示します。目標カロリーを１００％達ると、 体重減量や運動誠実度がよいと判断します。</string>
+    <string name="comment_exercise_number">どのくらい運動回数を成功させたか%で表示します。 回数が上がるほど運動正確度と体力が上がると判断します。</string>
+    <string name="comment_maximum_heartrate">使用者の最大心拍数に比べ、運動時の現在心拍数がどれぐらいであるかを表示します。このグラフは低くなるほど心肺機能は上がるが、カロリー消費量は減ります。また、80%以上を維持している場合、身体に負担がかかっていると考えられます。</string>
+    <string name="comment_total_point">チャートで表示する各数値の平均点数です。 点数が上がると身体健康と 運動神経がよいと判断します。</string>
+    <string name="whole_body_comment">iBODY24が提供する全身 &lt;font color="RED"&gt;初級&lt;/font&gt; 運動です。\n&lt;br /&gt; 10つの動作を２セット繰り返します。\n&lt;br /&gt;個人身体能力範囲内で実施してください！</string>
+    <string name="mat_exercise_comment">コアーを刺激するバランス中心の&lt;font color="RED"&gt; 初級 &lt;/font&gt; 運動です。&lt;br /&gt;運動をする時 トレーナーと 同一の速度で実行してくださると 運動効果がさらに上昇されます！</string>
+    <string name="active_exercise_comment">アクティブな動きで心拍数を上昇させ、持久力と筋力増加に良い高級運動です。 早い脂肪燃焼を起こし、 体重減量に卓越した運動です。</string>
+    <string name="program_comment_001_001">超高速腹筋完成ピラティスはプロレベルの運動で、\n腹筋運動中心に全体的なコアーを発達させることが\nできるプログラムです。男女区分なしで腹筋作りに\n効率的なプログラムです。\nトレーナーの正しいフォームを\n良く見て正確に運動してください。</string>
+    <string name="program_001_002">完璧Hip-Line作りピラティス</string>
+    <string name="program_comment_001_002">完璧Hip-Line作りピラティスはプロレベル運動でHipと脊椎起立筋の発達に良い運動です。 Hip運動はビジュアル的な部分だけではなく、全体的な身体のバランスを強化します。正確なフォームを維持しなければボディバランスが崩れることがありますので注意してください。</string>
+    <string name="program_002_001">Total Body Training 1</string>
+    <string name="program_002_002">Total Body Training 2</string>
+    <string name="program_comment_002_001">Total Body Training 1は全身を&lt;br/&gt;利用するアマチュア&#40;&lt;font color="RED"&gt;初級&lt;/font&gt;&#41;運動で性別関係なく&lt;br/&gt;全体的な筋肉増加や脂肪燃焼にも良いです。&lt;br/&gt;トレーナの正しいフォームの説明を聞いてから&lt;br/&gt;楽しく運動してください。</string>
+    <string name="program_comment_002_002">Total Body Training 2は PRO&#40;&lt;font color="RED"&gt;高級&lt;/font&gt;&#41;運動で,&lt;br/&gt;TBT 1より高いレベルに設定されています。&lt;br/&gt;腹部と内股に脂肪燃焼が出きる全身筋肉増加運動です。&lt;br/&gt;トレーナの正しいフォームの説明を聞いてから&lt;br/&gt;楽しく運動してください。</string>
+    <string name="trainer_spec_1">ピラティス</string>
+    <string name="trainer_spec_2">マッスル</string>
+    <string name="trainer_name_2">ホンドゥハン</string>
+    <string name="trainer_comment_1">ピラティスはストレッチングと筋力運動が一緒にでき弾力ある体つきを作ってくれます。\nまた良く使わない筋肉や体の中心になるパワーハウスをきたえ日常的な生活で悪い姿勢で傾いた脊椎と骨盤を直してくれます。\n私と一緒にピラティスを Go Go Go！ 腹部、ヒップ、内股が弾力あるスタイル。 Hip-Line美人に！ ビューティフルな体を作って見ましょう。</string>
+    <string name="trainer_career_1">- 韓国体育大学　 社会体育大学院 　 生活体育学科　 \n&#160;&#160;修士学位\n- Line Dance Director Certification\n- University of Nevada, D.K Body Balancing pilates\n &#160;&#160;(Mat work) international Certification\n- University of Nevada, D.K Body Balancing pilates\n &#160;&#160;(Equipment) international Certification\n- 英国皇室舞踊 ISTD Dance Sports international Director\n- ピラティス指導者過程\n- 多数の芸能人ピラティス指導\n- ２０１５ Muscle Mania　スポーツモデル４位\n- ２０１５ Nava wff スポーツモデル Top10\n- ２０１５ Nava wff ビキニ Top10</string>
+    <string name="trainer_comment_2">はじめまして。 コリホン　ホンドゥハン　トレーナーです。 正しい運動は健康になるが、間違った運動は体を壊します。\nTBTプログラムは、100歳まで健康に生きることができる解決策です。 また、機能改善と筋力と筋持久力の向上やダイエットに焦点を当てたプログラムです。\n今まで、間違ったフィットネス運動切向け、科学を基礎に置いた正しい運動をしてください。</string>
+    <string name="trainer_career_2">&#160;- 生活体育指導者3級　 ボディービル \n - 韓国人材教育院　運動処方者過程教育修了 \n - KINESY-THERAPY SPECIALIST Level 1 資格取得 \n - TEAM AVERNGERS ACADAMY　\n &#160;&#160; パーソナルトレーナー資格取得 \n - 顧客管理指導者1級　レクリイション指導者1級 \n - 前） 韓方充電10minutes出演 \n - 前）キョンサンナムド体育会 全国体育大会\n &#160;&#160; パク・ジョンストレーナー \n - 現)LGTWINSチェウンソン選手の \n &#160;&#160;フィジカルトレーナー \n - 現)ボディーチャンネルSupervisor \n - 2013、安養市ボディービル協会会長杯-75kgの入賞 \n - 2014 WFF UNIVERSE FITNESS 入賞 \n - 2015キョンギ道民体育大会-80kg 入賞</string>
+    <string name="male">男性</string>
+    <string name="female">女性</string>
+    <string name="please_all_information">すべての情報を入力してください</string>
+    <string name="select_gender">性別選択</string>
+    <string name="height_input">身長入力</string>
+    <string name="not_connect_band">バンドとの連結していません。</string>
+    <string name="not_prepare_video">運動用のビデオファイルが準備していません。</string>
+    <string name="not_prepare_wifi">通信網あるいはWi-fiが繋がっていません。連結の後、再び実行してください</string>
+    <string name="confirm_delete_coach">コーチプログラムを本当に削除しますか。削除されたプログラムは復旧できません。</string>
+    <string name="success_connect">連結が成功しました。</string>
+    <string name="setting_menu1">iBODY24 %s用語辞典</string>
+    <string name="setting_menu2">iBODY24 %sの使い方</string>
+    <string name="setting_menu3">プロフィール</string>
+    <string name="setting_menu4">お知らせ、イベント</string>
+    <string name="setting_menu5">目標体重設定</string>
+    <string name="setting_menu6">２人プレー</string>
+    <string name="setting_menu7">Log-out</string>
+    <string name="confirm_logout">Log-outしますか。</string>
+    <string name="confirm_back_close">バック バトンをもう一度タッチすると終了します</string>
+    <string name="BMI_WHO">&lt;font color="#777777"&gt;WHO BMI 公式によると、あなたの身長を基準にした適正体重は&lt;/font&gt; &lt;font color="#45c383"&gt;%1$d ~ %2$d kg&lt;/font&gt; &lt;font color="#777777"&gt;です。&lt;/font&gt;</string>
+    <string name="chart_title_accuracy">正確度</string>
+    <string name="chart_title_exercise_number">運動回数</string>
+    <string name="chart_title_maximum_heartrate">心拍数</string>
+    <string name="chart_title_consume_calorie">諸費カロリー</string>
+    <string name="caution_diet_period">ダイエット機関は１週以上に設定して下さい。</string>
+    <string name="caution_weight">目標体重は現在の体重より低く設定してください。</string>
+    <string name="terms_of_use">iBODY24利用約款</string>
+    <string name="close">キャンセル</string>
+    <string name="minute">分</string>
+    <string name="exer1">Neck Stretch</string>
+    <string name="exer2">Wrist Stretch</string>
+    <string name="exer3">Waist and Biceps Stretch</string>
+    <string name="exer4">Side Stretch</string>
+    <string name="exer5">Shoulder Stretch 1</string>
+    <string name="exer6">Shoulder Stretch 2</string>
+    <string name="exer7">Arm Circles</string>
+    <string name="exer8">Bending at the Waist</string>
+    <string name="exer9">Wrist and Ankle Circles</string>
+    <string name="exer10">Push-up</string>
+    <string name="exer11">Standing High Jump</string>
+    <string name="exer12">Squats</string>
+    <string name="exer13">Running in Space</string>
+    <string name="exer14">Crunches</string>
+    <string name="exer15">Side Kicks</string>
+    <string name="exer16">Side Lunges</string>
+    <string name="exer17">Jumping Jacks</string>
+    <string name="exer18">Abs and back Workout</string>
+    <string name="recommend_calorie_comment">&lt;font color="#777777"&gt;適切な一日カロリー消費量は&lt;/font&gt;&lt;font color="#45c383&gt;%1$d kcal&lt;font&gt;&lt;font color="#777777"です。&lt;/font&gt;</string>
+    <string name="four_week">4週</string>
+    <string name="eight_week">8週</string>
+    <string name="point_title_small">Pts</string>
+
+    <!--출산 후 운동 번역본-->
+    <string name="program_comment_003_001">
+        <![CDATA[
+        出産後約1~4週間から可能な出産後専用運動です。<br/>
+        出産後体の回復状態によって優しく始めるのが重要です。<br/>
+        出産後運動Step.1は、 ヨガとウェートトレーニング(体の全体的なバランスを作ってくれる運動法)
+        合わせた運動で特に出産後曲がった骨盤の矯正と弱くなった腹部の筋肉を発達させるのに良い運動です。<br/>
+
+        運動を始める前に十分なストレッチングをしてください。
+        無理に実行するよりは少しずつ習って行くという考えで初めてください。<br /><br />
+
+        <font color=red>帝王切開分娩産婦は約2ヵ月後から実行してください。<br />
+        また、自然分娩の場合も体の回復状態によって運動を始めてください。<br />
+       *iBODY24の出産後運動は、産婦人科専門医の監修を受けた専用運動であることをお知らせいたします。</font>
+        ]]>
+    </string>
+
+    <string name="program_comment_003_002">
+        <![CDATA[
+        出産後約５~８週間から可能な出産後専用運動です。<br/>
+        Step.１よりももっとアクティブで、全身の筋肉発達及び<br/>
+        バランス向上に重点を持つ運動です。<br/>
+        特に下半身脊椎起立筋、腹部の筋肉の発達に<br/>
+        いい運動で構成されています。
+        完全な回復期に入った産婦が、美しいボディーラインを作るに、効果的な運動です。<br /><br />
+
+        運動を始める前に十分なストレッチグをしてください。出産前の美しい体を取り戻してください!<br /><br />
+
+        <font color=red>帝王切開分娩産婦は約３～４ヵ月後から実行してください。
+        また、自然分娩の場合も体の回復状態によって運動を始めてください。<br />
+       *iBODY24の出産後運動は、産婦人科専門医の監修を受けた専用運動であることをお知らせいたします。</font>
+        ]]>
+    </string>
+
+    <string name="pointis">pointです。</string>
+    <string name="program_003_001">出産後運動 Step.1</string>
+    <string name="program_003_002">出産後運動 Step.2</string>
+    <string name="thisset">今回のポイントは</string>
+    <string name="trainer_career_3">
+        <![CDATA[
+        - 2013 マッスルマニア世界大会・\n
+           ユニバースフィットネスモデルグランプリ\n
+        - 2013 マッスルマニア世界大会・\n
+           ユニバースミスビキニグランプリ\n
+        - 2013 bbmc選定今年最優秀選手賞\n
+        - 2014 モンストジムオールスター\n
+           クラシックベストスェイブ受賞\n
+        - 2015 ismcマッスルボディコリアミスビキニ1位\n
+        - 2015 第23回大韓民国文化、\n
+           芸能大賞授賞式フィットネスモデル部分受賞\n
+        - 2015 アジアモデル協会\n
+           フィットネスモデル部分委員長の任命\n
+        - 2015 新韓流文化事業団フィットネスモデル部分受賞\n
+        - 2015 京畿道のナム・ギョンピル道知事感謝の牌受賞\n
+           (女性向けフィットネス)
+        ]]>
+    </string>
+
+    <string name="trainer_comment_3">はじめまして。\n体つき陶芸家グォンドイェです。\n出産後変わった体つきのせいで悩みが多いと\n思います。先に十分な休息とバランスが取れた\n食事と一緒に体の回復をさらに\n早くする方法は！出産後運動です！\n\n
+
+       1. 産後憂鬱症が治まるし、\n
+       2. 出産後に弱くなった筋肉を緊張させれるし、\n
+       3. 体に重なっている老廃物を除去できるし、\n
+       4. 美しいボディーラインを作れる運動が\n
+       出産後産婦の悩みを救うでしょう。\n
+       これからあなたの個人コーチになってくれる\n
+       iBODY24と一緒に家で簡単にできる\n
+       グォンドイェの出産後運動。\n
+       今すぐ始めましょう。
+    </string>
+    <string name="trainer_name_3">グォンドイェ</string>
+    <string name="trainer_spec_3">ヨガ、フィットネス</string>
+    <string name="trainer_title_3">Eagleship</string>
+    <string name="Step_0_2000_1">気持ちの良い朝です！今日も10000歩に向かって頑張りましょう！</string>
+    <string name="Step_0_2000_2">ウォーキングから始める爽快な１日！</string>
+    <string name="Step_0_2000_3">歩くことは生活習慣病やうつ病、ストレス緩和の助けになることをご存知ですか？ 今日も力いっぱい歩いてみましょう。</string>
+    <string name="Step_0_2000_4">１日10000歩歩くと、健康を取り戻すことができます。</string>
+    <string name="Step_2001_3000_1">運動としてウォーキングをしなくても、日常生活の中で１日に2~3000歩ほど歩くことができます。 私たちの目標は10000歩です。今晩30分ほど歩いてみるのはいかがですか？</string>
+    <string name="Step_2001_3000_2">まだ目標の半分にも到達していません。もう少し頑張って10000歩まで歩いてみましょう。</string>
+    <string name="Step_3001_5000_1">夜にこのメッセージをご覧になっていらっしゃるなら、今すぐに運動を始めてください。もし午前中であれば、今日１日が活動的に始まりましたね！</string>
+    <string name="Step_5001_7000_1">まだ半分ぐらい残っています。今日もう１度ウォーキングをしてみましょう。5000歩は30分ほど歩けば達成できます。</string>
+    <string name="Step_7001_8000_1">3000歩ほど残っています。バス停や駅から自宅まで歩いてみましょう。 明日の朝、体が軽くなりますよ。</string>
+    <string name="Step_8001_9000_1">1日を終える前に軽く歩いてみるのはいかがですか？2000歩は10分ほど歩くだけで達成できます。</string>
+    <string name="Step_9001_9999_1">1000歩は5分ほど歩くだけで達成できます。</string>
+    <string name="Step_9001_9999_2">10000歩がもう目の前です！</string>
+    <string name="Step_9001_9999_3">今日も目標に向かって一歩近づきましたね。</string>
+    <string name="Step_Extra_1">速歩で歩いてみましょう。速歩は1分あたり3.5kcal以上のエネルギーを消費し、心肺機能が良くなり、骨と筋肉を丈夫にすると言われています！</string>
+    <string name="Step_Extra_2">急歩という言葉をお聞きになったことがありますか？言葉のとおり、急いで歩く運動です。１分あたり4.5kcalほどのエネルギーを消費し、有酸素性の運動能力向上を最大化し、生活習慣病の予防や治療に効果的な歩き方です。</string>
+    <string name="Step_Extra_3">強歩で力いっぱい歩いてみてください！強歩は１分あたり7.5kcalのエネルギーを消費し、運動効果がとても高いです。</string>
+    <string name="Step_Extra_4">ウォーキングは体脂肪を減少させ、肥満を改善し、糖尿、高血圧、高脂血症などの生活習慣病を予防・治療するのに役立ちます。残りの歩数も達成し、健康に１歩ずつ近づいてください。</string>
+    <string name="accumulate_calorie">累積カロリー</string>
+    <string name="achievement">達成度</string>
+    <string name="avg_workout_intensity">活动来提高心率，增强耐力和肌肉的&lt;font color=\"RED\"&gt;高级&lt;/font&gt; 运动。快速燃烧脂肪，减轻体重。</string>
+    <string name="bad">悪い</string>
+    <string name="battery_voltage">バッテリー残量</string>
+    <string name="awaken">目覚め</string>
+    <string name="complete_step">達成完了</string>
+    <string name="connected_my_device">機器を接続する</string>
+    <string name="connecting_device">接続中です。</string>
+    <string name="data_sync">同期化中です。</string>
+    <string name="delete_device">本当に機器を削除しますか？</string>
+    <string name="device_initial_waiting">同期化中です。しばらくお待ちください。</string>
+    <string name="device_not_connected">機器が接続されませんでした。</string>
+    <string name="empty_stress_index">ストレス状態を測定してください。</string>
+    <string name="fail_connect_device_confirm">接続できませんでした。しばらく経ってから再度実行してください。</string>
+    <string name="fail_connect_device_retry">接続できませんでした。しばらく経ってから再度実行してください。</string>
+    <string name="find_account_url">http://www.ibody24.com/jp/idfind.asp</string>
+    <string name="good">良い</string>
+    <string name="graph_legend_activity">活動</string>
+    <string name="graph_legend_coach">コーチ運動</string>
+    <string name="graph_legend_sleep">睡眠</string>
+    <string name="graph_legend_daily">日常生活</string>
+    <string name="graph_title_calorie">カロリーグラフ</string>
+    <string name="graph_title_exer_count">運動回数グラフ</string>
+    <string name="graph_title_heartrate">心拍数グラフ</string>
+    <string name="graph_title_total">総点グラフ</string>
+    <string name="graph_title_accuracy">正確度グラフ</string>
+    <string name="height">身長</string>
+    <string name="input_confirm_password">パスワード（確認用）</string>
+    <string name="input_email">E-mail</string>
+    <string name="input_password">パスワード</string>
+    <string name="firm_update">ファームウェア アップデート</string>
+    <string name="input_weight">体重を入力してください。</string>
+    <string name="loading_stress_index">測定中です。</string>
+    <string name="measure_cancel">測定中止</string>
+    <string name="measure_start">測定開始</string>
+    <string name="measure_end">測定終了</string>
+    <string name="my_level">現在のレベル</string>
+    <string name="next_year_chart">年間</string>
+    <string name="normal">普通</string>
+    <string name="notice_firm_update">現在最新バージョンです。</string>
+    <string name="device_disconnect">未接続</string>
+    <string name="name">氏名</string>
+    <string name="my_register_device">登録済の機器</string>
+    <string name="notice_work_out">運動量を\n測定してみてください。</string>
+    <string name="notice_status_sleep">睡眠状態を\n測定してみてください。</string>
+    <string name="notice_stress_index">ストレス指数を\n測定してみてください。</string>
+    <string name="raise_disconnect">接続が切断されました。</string>
+    <string name="program_name_tbt2">Total Body Training 2</string>
+    <string name="program_name_tbt1">Total Body Training 1</string>
+    <string name="register_device">機器設定</string>
+    <string name="setting_device_manager">装置管理</string>
+    <string name="remain_step">残りの歩数</string>
+    <string name="expected_consumption_of_calories">期待消費カロリー</string>
+    <string name="setting_edit_device">機器設定</string>
+    <string name="setting_logout">ログアウト</string>
+    <string name="rolled">寝返り</string>
+    <string name="select_device">iBODY24デバイスを選択してください。</string>
+    <string name="setting_notice">お知らせ、イベント</string>
+    <string name="web_event">http://ibody24.com/jp/03_update.asp</string>
+    <string name="setting_profile">プロフィール</string>
+    <string name="setting_weight">目標体重設定</string>
+    <string name="sex">性別</string>
+    <string name="stability_heartrate">安定心拍数</string>
+    <string name="workout_max_heartrate">最高心拍数</string>
+    <string name="workout_min_heartrate">最低心拍数</string>
+    <string name="workout_ratio_heartrate">平均/最大心拍数</string>
+    <string name="workout_time">活動時間</string>
+    <string name="workout_heartrate_warnning">警告 : 心拍数危険区間の比率が高い場合、心臓に負担がかかっていることが考えられますので、注意してください。</string>
+    <string name="workout_heartrate">心拍数</string>
+    <string name="workout_graph_low">準備運動</string>
+    <string name="workout_graph_mid">脂肪燃焼運動</string>
+    <string name="workout_graph_high">有酸素運動</string>
+    <string name="workout_graph_danger">最大強度運動</string>
+    <string name="workout_consume_calorie">消費カロリー</string>
+    <string name="workout_avg_heartrate">平均心拍数</string>
+    <string name="work_out_time">運動時間</string>
+    <string name="work_out">活動測定</string>
+    <string name="weight_input">体重入力</string>
+    <string name="weight">体重</string>
+    <string name="warnning_download">データ通信量が大きくなるため、Wi-Fi 環境でのダウンロードをお勧めします。このまま続けますか？</string>
+    <string name="very_good">非常に良い</string>
+    <string name="state_not_idle">既に違う測定を実行中です。</string>
+    <string name="stress_measure_exit">測定が終了しました。</string>
+    <string name="status_sleep">睡眠状態</string>
+    <string name="step_count">歩数</string>
+    <string name="stress_index">ストレス指数</string>
+    <string name="terms">利用規約</string>
+    <string name="terms_text">に同意します。</string>
+    <string name="today_goal">今日の目標</string>
+    <string name="total_sleep_time">睡眠時間</string>
+    <string name="warnning_stress_index">（測定中は動かないでください）</string>
+    <string name="program_name_abdominal_muscles">超高速腹筋完成ピラティス</string>
+    <string name="program_name_backside">美Hipピラティス</string>
+    <string name="program_name_baby_1">出産後運動 Step.1</string>
+    <string name="program_name_baby_2">出産後運動 Step.2</string>
+    <string name="html_15min">exer_15min_jp</string>
+    <string name="html_abdominal_muscles">lee_joo_young_abdominal_muscles_jp</string>
+    <string name="html_active">active_jp</string>
+    <string name="html_baby_1">kwon_do_ye_baby_1_jp</string>
+    <string name="html_baby_2">kwon_do_ye_baby_2_jp</string>
+    <string name="html_backside">lee_joo_young_backside_jp</string>
+    <string name="html_hong_doo_han_profile_name">hong_doo_han_profile_jp</string>
+    <string name="html_kwon_do_ye_profile_name">kwon_do_ye_profile_jp</string>
+    <string name="html_lee_joo_young_profile_name">lee_joo_young_profile_jp</string>
+    <string name="html_mat">mat_jp</string>
+    <string name="html_name_glossary">glossary_jp</string>
+    <string name="html_name_graph_comment_accuracy">graph_comment_accuracy_jp</string>
+    <string name="html_name_graph_comment_calorie">graph_comment_calorie_jp</string>
+    <string name="html_name_graph_comment_exer_count">graph_comment_exercount_jp</string>
+    <string name="html_name_graph_comment_heartrate">graph_comment_heartrate_jp</string>
+    <string name="html_name_graph_comment_total">graph_comment_total_jp</string>
+    <string name="html_name_manual">manual_jp</string>
+    <string name="html_name_terms">terms_jp</string>
+    <string name="html_prepare_exer">prepare_jp</string>
+    <string name="html_tbt1">hong_doo_han_tbt1_jp</string>
+    <string name="html_tbt2">hong_doo_han_tbt2_jp</string>
+    <string name="birthday">生年月日</string>
+    <string name="find_account_title">E-mail/パスワード検索</string>
+    <string name="step_format">%d 歩</string>
+    <string name="danger">危険</string>
+    <string name="device_charging">充電中</string>
+    <string name="device_connect">機器を接続する</string>
+    <string name="device_connecting">機器接続中</string>
+    <string name="device_connected">機器接続完了</string>
+    <string name="error_permission">アクセス許可がないため、終了いたします。</string>
+    <string name="permission_contacts_rationale">permissions are needed to demonstrate access.</string>
+    <string name="permision_available_contacts">Permissions have been granted.</string>
+    <string name="permissions_not_granted">Permissions were not granted.</string>
+    <string name="few">少ない</string>
+    <string name="high">強</string>
+    <string name="lack">不足</string>
+    <string name="low">弱い</string>
+    <string name="mid">普通</string>
+    <string name="html_name_glossary_fit">glossary_fit_jp</string>
+    <string name="html_name_manual_fit">manual_fit_jp</string>
+    <string name="html_name_terms_fit">terms_fit_jp</string>
+    <string name="error_measure">測定ができませんでした。デバイスを正しく装着してから再度測定してください。</string>
+    <string name="notice_firmup">ファームウェアアップデートが必要です。続きますか。</string>
+    <string name="start_firm_warnning">ファームウェアアップデートを開始します。保存されていない測定データは削除されます。</string>
+    <string name="firm_progress">ファームウェアアップデート中です。</string>
+    <string name="failed_firmup">ファームウェアアップデートに失敗しました。次の接続で再試行します。</string>
+    <string name="success_firmup">ファームウェアアップデートが完了しました。</string>
+    <string name="html_name_workout_measure">workout_measure_jp</string>
+    <string name="cancel">キャンセル</string>
+
+
+    <!--까지-->
+</resources>

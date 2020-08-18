@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                android:gravity="center">
+
+                <ImageView
+                    android:id="@+id/device_manager_img_battery"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/coachplus_battery_none" />
+
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="0.25dp"
+                android:background="#A7A9AC" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:paddingStart="30dp"
+                android:paddingEnd="30dp">
+
+                <TextView
+                    android:layout_width="30dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:text="@string/battery_voltage"
+                    style="@style/title_text" />
+
+                <TextView
+                    android:id="@+id/device_manager_txt_voltage"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:textColor="#EC6C2C"
+                    android:text="@string/device_disconnect"
+                    android:textSize="26dp" />
+
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="0.25dp"
+                android:background="#A7A9AC" />
+
+            <LinearLayout
+                android:id="@+id/device_manager_layout_connect"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:paddingStart="30dp"
+                android:paddingEnd="30dp">
+
+                <TextView
+                    android:id="@+id/device_manager_txt_conn_state"
+                    android:layout_width="30dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:text="@string/connected_my_device"
+                    style="@style/title_text" />
+
+                <TextView
+                    android:id="@+id/device_manager_txt_dev_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:textColor="#EC6C2C"
+                    android:textSize="22dp"
+                    android:layout_alignParentEnd="true" />
+
+                <ImageView
+                    android:id="@+id/device_manager_img_connect"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:src="@drawable/coachplus_connect_01"
+                    android:layout_alignParentEnd="true" />
+
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="0.25dp"
+                android:background="#A7A9AC" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:paddingStart="30dp"
+                android:paddingEnd="30dp">
+
+                <TextView
+                    android:layout_width="30dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:text="@string/firm_update"
+                    style="@style/title_text" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/notice_firm_update"
+                    android:textColor="#EC6C2C"
+                    android:textSize="16dp"
+                    android:layout_marginStart="10dp"
+                    android:gravity="right" />
+
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="0.25dp"
+                android:background="#A7A9AC" />
+
+            <LinearLayout
+                android:id="@+id/device_manager_layout_phone_sw"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:paddingStart="30dp"
+                android:paddingEnd="30dp">
+
+                <TextView
+                    android:layout_width="30dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:text="@string/call"
+                    style="@style/title_text" />
+
+                <Switch
+                    android:id="@+id/device_manager_switch_phone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:gravity="right"
+                    android:checked="false" />
+
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/device_manager_layout_line_1"
+                android:layout_width="match_parent"
+                android:layout_height="0.25dp"
+                android:background="#A7A9AC" />
+
+            <LinearLayout
+                android:id="@+id/device_manager_layout_sms_sw"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:paddingStart="30dp"
+                android:paddingEnd="30dp">
+
+                <TextView
+                    android:layout_width="30dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:text="@string/messages"
+                    style="@style/title_text" />
+
+                <Switch
+                    android:id="@+id/device_manager_switch_sms"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:gravity="right"
+                    android:checked="false"
+                    />
+
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/device_manager_layout_line_2"
+                android:layout_width="match_parent"
+                android:layout_height="0.25dp"
+                android:background="#A7A9AC" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

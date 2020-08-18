@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/BLOOD/Desktop/FitnessSVM/Project/middleware/src/main/assets"/><source path="/Users/BLOOD/Desktop/FitnessSVM/Project/middleware/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/BLOOD/Desktop/FitnessSVM/Project/middleware/src/debug/assets"/></dataSet></merger>

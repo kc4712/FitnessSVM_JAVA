@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/stress_index"
+            android:textSize="16dp"
+            android:layout_marginStart="20dp"
+            />
+
+        <TextView
+            android:visibility="gone"
+            android:id="@+id/stress_txt_state"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/velue_text"
+            android:layout_marginStart="120dp"
+            />
+
+        <TextView
+            android:id="@+id/stress_txt_state_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/empty_stress_index"
+            android:textColor="#808284"
+            android:textSize="12dp"
+            android:layout_marginStart="20dp"
+            />
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#A7A9AC"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <ImageView
+            android:id="@+id/stress_img_graph"
+            android:layout_width="match_parent"
+            android:layout_height="220dp"
+            android:src="@drawable/coachplus_s_img_02"
+            />
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#A7A9AC"
+        />
+
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:id="@+id/stress_layout_counter"
+        android:visibility="invisible" >
+
+        <!--<AdapterViewFlipper
+            android:id="@+id/stress_img_counter"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="center"
+            android:flipInterval="5000"
+            /> -->
+        <ImageView
+        android:id="@+id/stress_img_counter"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="center"
+        />
+
+        <TextView
+            android:id="@+id/stress_txt_counter"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal|top"
+            android:layout_marginTop="14dp"
+            android:text="0"
+            android:textSize="20dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal|bottom"
+            android:layout_marginBottom="12dp"
+            android:text="sec"
+            android:textSize="14dp" />
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        >
+
+        <Button
+            android:id="@+id/stress_btn_start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_coachplus_c_change"
+            android:layout_marginTop="10dp"
+            android:text="@string/measure_start"
+            style="@style/측정_버튼"
+            />
+
+        <TextView
+            android:visibility="gone"
+            android:id="@+id/stress_txt_warnning"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/warnning_stress_index"
+            android:textSize="14dp"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>

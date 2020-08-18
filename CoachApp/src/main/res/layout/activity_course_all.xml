@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fillViewport="true"
+    android:background="#FFFFFF"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        >
+
+        <TextView
+            android:id="@+id/course_all_titleText"
+            android:layout_marginTop="20dp"
+            android:layout_width="280dp"
+            android:layout_height="45dp"
+            android:background="@drawable/balloon_red_001"
+            android:text="@string/coach_basic_title_001"
+            android:textSize="20dp"
+            android:gravity="center_horizontal|center_vertical"
+            android:paddingBottom="8dp"
+            android:textColor="#ffffff"
+            />
+
+        <Button
+            android:id="@+id/course_all_startButton"
+            android:layout_marginTop="20dp"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:background="@drawable/button_integrated"
+            android:text="START"
+            android:textSize="20dp"
+            style="@style/grcomm_button_large"
+            />
+
+        <WebView
+            android:id="@+id/course_all_webView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp">
+
+        </WebView>
+
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#F26263"
+            />
+
+        <kr.co.greencomm.ibody24.coach.widget.ExpandableHeightGridView
+            android:id="@+id/course_all_item_list"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:numColumns="2"
+            android:verticalSpacing="20dp"
+            android:choiceMode="none"
+            android:clickable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            />
+
+    </LinearLayout>
+
+</ScrollView>

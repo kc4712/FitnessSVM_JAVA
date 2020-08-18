@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      >
+
+    <item android:id="@+id/tab01"
+        android:title="@string/menu_home"
+        android:orderInCategory="100"
+        android:showAsAction="always|withText"
+        android:icon="@drawable/main_menu_home"
+        />
+
+      <item android:id="@+id/tab02"
+          android:title="@string/menu_chart"
+          android:orderInCategory="100"
+          android:showAsAction="always|withText"
+          android:icon="@drawable/main_menu_chart"
+          />
+
+</menu>

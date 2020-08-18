@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_marginTop="60dp"
+        >
+
+        <ImageView
+            android:id="@+id/activity_measure_img_main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/coachplus_activity_01" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="62dp"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+
+        <AdapterViewFlipper
+            android:id="@+id/activity_measure_img_loading"
+            android:visibility="invisible"
+            android:layout_width="100dp"
+            android:layout_height="20dp"
+            android:flipInterval="1500"
+            android:layout_marginTop="10dp"
+            />
+        <!-- android:src="@drawable/coachplus_activity_icon_n_01"
+            -->
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        >
+
+        <Button
+            android:id="@+id/activity_measure_btn_start_end"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_coachplus_c_change"
+            android:layout_marginTop="30dp"
+            android:text="@string/measure_start"
+            style="@style/측정_버튼"
+            />
+
+        <Button
+            android:id="@+id/actvivity_measure_btn_list"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_list"
+            android:layout_marginTop="30dp"
+            android:text="LIST"
+            android:textSize="16dp"
+            android:textColor="@color/button_text_color"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>

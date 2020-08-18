@@ -1,0 +1,793 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:2:1-169:12
+	package
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:6:5-80
+MERGED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:7:5-67
+MERGED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:8:5-79
+MERGED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:8:22-76
+uses-permission#kr.co.greencomm.ibody24.permission.READ_PROVIDER
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:9:5-88
+MERGED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:21:5-88
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:9:22-85
+uses-permission#kr.co.greencomm.ibody24.permission.WRITE_PROVIDER
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:10:5-89
+MERGED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:22:5-89
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:10:22-86
+application
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:12:5-167:19
+MERGED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:27:5-111:19
+MERGED from [com.android.support:support-v4:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/design/24.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:30:9-35
+	android:allowBackup
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:14:9-39
+	android:largeHeap
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:16:9-33
+	android:theme
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:17:9-40
+activity#kr.co.greencomm.ibody24.coach.activity.ActivityIntro
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:19:9-27:20
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:22:13-49
+	android:label
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:20:13-80
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:25:27-74
+activity#kr.co.greencomm.ibody24.coach.activity.ActivityStart
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:30:9-32:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:32:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:31:13-80
+activity#kr.co.greencomm.ibody24.coach.activity.register.ActivityRegisterMember
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:33:9-35:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:34:13-98
+activity#kr.co.greencomm.ibody24.coach.activity.register.ActivityRegisterComplete
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:36:9-38:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:37:13-100
+activity#kr.co.greencomm.ibody24.coach.activity.register.ActivityLogin
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:39:9-41:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:40:13-89
+activity#kr.co.greencomm.ibody24.coach.activity.register.ActivitySelectDevice
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:42:9-44:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:44:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:43:13-96
+activity#kr.co.greencomm.ibody24.coach.activity.register.ActivityConnectionFailed
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:45:9-47:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:47:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:46:13-100
+activity#kr.co.greencomm.ibody24.coach.activity.register.ActivitySettingProfile
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:48:9-50:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:50:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:49:13-98
+activity#kr.co.greencomm.ibody24.coach.activity.register.ActivitySettingWeight
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:51:9-53:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:53:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:52:13-97
+activity#kr.co.greencomm.ibody24.coach.activity.register.ActivityProductSelect
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:54:9-56:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:56:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:55:13-97
+activity#kr.co.greencomm.ibody24.coach.activity.ActivityMain
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:59:9-61:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:61:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:60:13-79
+activity#kr.co.greencomm.ibody24.coach.tab.ActivityTabHome
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:64:9-66:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:66:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:65:13-77
+activity#kr.co.greencomm.ibody24.coach.tab.ActivityTabMycoach
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:68:9-70:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:70:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:69:13-80
+activity#kr.co.greencomm.ibody24.coach.activity.ActivityMycoach
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:72:9-74:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:74:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:73:13-82
+activity#kr.co.greencomm.ibody24.coach.activity.ActivityVideo
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:76:9-79:74
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:78:13-50
+	android:theme
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:79:13-71
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:77:13-80
+activity#kr.co.greencomm.ibody24.coach.activity.ActivityCoachBasic
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:81:9-83:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:83:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:82:13-85
+activity#kr.co.greencomm.ibody24.coach.activity.ActivityCourse
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:84:9-86:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:86:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:85:13-81
+activity#kr.co.greencomm.ibody24.coach.activity.ActivityFitnessProgram
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:87:9-89:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:89:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:88:13-89
+activity#kr.co.greencomm.ibody24.coach.activity.ActivityTrainer
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:90:9-92:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:92:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:91:13-82
+activity#kr.co.greencomm.ibody24.coach.activity.ActivityTrainerProgram
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:93:9-95:48
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:95:9-45
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:94:13-89
+activity#kr.co.greencomm.ibody24.coach.activity.coach.ActivityHome
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:98:9-100:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:100:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:99:13-85
+activity#kr.co.greencomm.ibody24.coach.activity.fitness.ActivityHomeFitness
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:103:9-105:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:105:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:104:13-94
+activity#kr.co.greencomm.ibody24.coach.activity.fitness.ActivityActList
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:106:9-108:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:108:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:107:13-90
+activity#kr.co.greencomm.ibody24.coach.activity.fitness.ActivityActMeasure
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:109:9-111:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:111:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:110:13-93
+activity#kr.co.greencomm.ibody24.coach.activity.fitness.ActivityActResult
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:112:9-114:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:114:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:113:13-92
+activity#kr.co.greencomm.ibody24.coach.activity.fitness.ActivitySleep
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:115:9-117:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:117:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:116:13-88
+activity#kr.co.greencomm.ibody24.coach.activity.fitness.ActivityStepCount
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:118:9-120:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:120:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:119:13-92
+activity#kr.co.greencomm.ibody24.coach.activity.fitness.ActivityStress
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:121:9-123:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:123:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:122:13-89
+activity#kr.co.greencomm.ibody24.coach.activity.fitness.ActivityToday
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:124:9-126:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:126:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:125:13-88
+activity#kr.co.greencomm.ibody24.coach.activity.ActivitySetting
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:129:9-131:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:131:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:130:13-82
+activity#kr.co.greencomm.ibody24.coach.activity.ActivityRegisterDevice
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:133:9-135:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:135:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:134:13-89
+activity#kr.co.greencomm.ibody24.coach.activity.ActivityDeviceManager
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:137:9-139:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:139:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:138:13-88
+activity#kr.co.greencomm.ibody24.coach.activity.ActivityInformation
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:141:9-143:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:143:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:142:13-86
+activity#kr.co.greencomm.ibody24.coach.activity.ActivityDeviceEdit
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:145:9-147:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:147:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:146:13-85
+activity#kr.co.greencomm.ibody24.coach.tab.ActivityTabSetting
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:149:9-151:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:151:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:150:13-80
+activity#kr.co.greencomm.ibody24.coach.tab.ActivityTabChart
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:154:9-156:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:156:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:155:13-78
+activity#kr.co.greencomm.ibody24.coach.activity.ActivityChartMain
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:157:9-159:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:159:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:158:13-84
+activity#kr.co.greencomm.ibody24.coach.activity.ActivityChartWeek
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:160:9-162:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:162:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:161:13-84
+activity#kr.co.greencomm.ibody24.coach.activity.ActivityChartYear
+ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:163:9-165:52
+	android:screenOrientation
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:165:13-49
+	android:name
+		ADDED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml:164:13-84
+uses-sdk
+INJECTED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [Project:dfu:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/dfu/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [Project:dfu:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/dfu/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:design:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/design/24.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.2.1] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:11:5-68
+MERGED from [Project:dfu:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/dfu/unspecified/AndroidManifest.xml:11:5-68
+MERGED from [Project:dfu:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/dfu/unspecified/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:12:5-74
+MERGED from [Project:dfu:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/dfu/unspecified/AndroidManifest.xml:12:5-74
+MERGED from [Project:dfu:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/dfu/unspecified/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:12:22-71
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:18:22-76
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:19:5-70
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:19:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:20:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:25:5-75
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:25:22-72
+receiver#kr.co.greencomm.middleware.service.MWBroadcastReceiver
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:31:9-83:20
+	android:enabled
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:33:13-35
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:32:13-82
+intent-filter#android.bluetooth.adapter.action.STATE_CHANGED+android.intent.action.BOOT_COMPLETED+android.intent.action.PHONE_STATE+android.intent.action.TIMEZONE_CHANGED+android.provider.Telephony.SMS_RECEIVED+kr.co.greencomm.ibody24.DFUCustomBroadcast.Completed+kr.co.greencomm.ibody24.DFUCustomBroadcast.Progress+kr.co.greencomm.ibody24.coach.Am.appActivityData+kr.co.greencomm.ibody24.coach.Am.appSleepData+kr.co.greencomm.ibody24.coach.Am.appStepCalorie+kr.co.greencomm.ibody24.coach.Am.appStressData+kr.co.greencomm.ibody24.coach.Bm.appAppendBLMessage+kr.co.greencomm.ibody24.coach.Bm.appBlConnect+kr.co.greencomm.ibody24.coach.Bm.appConnectionState+kr.co.greencomm.ibody24.coach.Bm.appDeviceInformation+kr.co.greencomm.ibody24.coach.Bm.appFirmProgress+kr.co.greencomm.ibody24.coach.Bm.appFirmVersion+kr.co.greencomm.ibody24.coach.Bm.appIsBusySender+kr.co.greencomm.ibody24.coach.Bm.appNormalStress+kr.co.greencomm.ibody24.coach.Bm.appPeripheralState+kr.co.greencomm.ibody24.coach.Bm.appSendUserData+kr.co.greencomm.ibody24.coach.Bm.appSetDevice+kr.co.greencomm.ibody24.coach.Bm.appSetScanMode+kr.co.greencomm.ibody24.coach.Bm.appStartFirmUp+kr.co.greencomm.ibody24.coach.Bm.appStartScan+kr.co.greencomm.ibody24.coach.Bm.appStopBluetooth+kr.co.greencomm.ibody24.coach.Bm.appStopScan+kr.co.greencomm.ibody24.coach.Bm.appStress+kr.co.greencomm.ibody24.coach.Bm.appTryConnectionBluetooth+kr.co.greencomm.ibody24.coach.Ec.appBattery+kr.co.greencomm.ibody24.coach.Ec.appGetSelectedProduct+kr.co.greencomm.ibody24.coach.Ec.appLogin+kr.co.greencomm.ibody24.coach.Ec.appLogout+kr.co.greencomm.ibody24.coach.Ec.appSelectProduct+kr.co.greencomm.ibody24.coach.Ec.appUserDietPeriod+kr.co.greencomm.ibody24.coach.Ec.appUserProfile+kr.co.greencomm.ibody24.coach.Mw.checkFirmVersion+kr.co.greencomm.ibody24.coach.Mw.restartService+kr.co.greencomm.ibody24.coach.Mw.wakeLockService+kr.co.greencomm.ibody24.coach.Sm.appIsLiveApplication+kr.co.greencomm.ibody24.coach.Sm.appLoginInformation+kr.co.greencomm.ibody24.coach.Vm.appDownloadXml+kr.co.greencomm.ibody24.coach.Vm.appEnd+kr.co.greencomm.ibody24.coach.Vm.appGetQueryCode+kr.co.greencomm.ibody24.coach.Vm.appPlay+kr.co.greencomm.ibody24.coach.Vm.appSetCurrentTimePosition+kr.co.greencomm.ibody24.coach.Vm.appSetProgramCode
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:34:13-82:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:35:17-79
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:35:25-76
+action#android.bluetooth.adapter.action.STATE_CHANGED
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:36:17-89
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:36:25-86
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:37:25-78
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:38:25-79
+action#android.intent.action.PHONE_STATE
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:39:25-73
+action#kr.co.greencomm.ibody24.coach.Mw.restartService
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:40:17-90
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:40:25-87
+action#kr.co.greencomm.ibody24.coach.Mw.checkFirmVersion
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:41:17-92
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:41:25-89
+action#kr.co.greencomm.ibody24.coach.Mw.wakeLockService
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:42:17-91
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:42:25-88
+action#kr.co.greencomm.ibody24.coach.Vm.appPlay
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:43:17-83
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:43:25-80
+action#kr.co.greencomm.ibody24.coach.Vm.appEnd
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:44:17-82
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:44:25-79
+action#kr.co.greencomm.ibody24.coach.Vm.appSetProgramCode
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:45:17-93
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:45:25-90
+action#kr.co.greencomm.ibody24.coach.Vm.appSetCurrentTimePosition
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:46:17-101
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:46:25-98
+action#kr.co.greencomm.ibody24.coach.Vm.appDownloadXml
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:47:17-90
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:47:25-87
+action#kr.co.greencomm.ibody24.coach.Vm.appGetQueryCode
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:48:17-91
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:48:25-88
+action#kr.co.greencomm.ibody24.coach.Am.appStepCalorie
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:49:17-90
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:49:25-87
+action#kr.co.greencomm.ibody24.coach.Am.appActivityData
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:50:17-91
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:50:25-88
+action#kr.co.greencomm.ibody24.coach.Am.appSleepData
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:51:17-88
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:51:25-85
+action#kr.co.greencomm.ibody24.coach.Am.appStressData
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:52:17-89
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:52:25-86
+action#kr.co.greencomm.ibody24.coach.Ec.appBattery
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:53:17-86
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:53:25-83
+action#kr.co.greencomm.ibody24.coach.Ec.appUserProfile
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:54:17-90
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:54:25-87
+action#kr.co.greencomm.ibody24.coach.Ec.appUserDietPeriod
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:55:17-93
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:55:25-90
+action#kr.co.greencomm.ibody24.coach.Ec.appLogout
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:56:17-85
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:56:25-82
+action#kr.co.greencomm.ibody24.coach.Ec.appLogin
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:57:17-84
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:57:25-81
+action#kr.co.greencomm.ibody24.coach.Ec.appSelectProduct
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:58:17-92
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:58:25-89
+action#kr.co.greencomm.ibody24.coach.Ec.appGetSelectedProduct
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:59:17-97
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:59:25-94
+action#kr.co.greencomm.ibody24.coach.Bm.appTryConnectionBluetooth
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:60:17-101
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:60:25-98
+action#kr.co.greencomm.ibody24.coach.Bm.appConnectionState
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:61:17-94
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:61:25-91
+action#kr.co.greencomm.ibody24.coach.Bm.appDeviceInformation
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:62:17-96
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:62:25-93
+action#kr.co.greencomm.ibody24.coach.Bm.appStartFirmUp
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:63:17-90
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:63:25-87
+action#kr.co.greencomm.ibody24.coach.Bm.appFirmVersion
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:64:17-90
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:64:25-87
+action#kr.co.greencomm.ibody24.coach.Bm.appFirmProgress
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:65:17-91
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:65:25-88
+action#kr.co.greencomm.ibody24.coach.Bm.appSetScanMode
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:66:17-90
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:66:25-87
+action#kr.co.greencomm.ibody24.coach.Bm.appBlConnect
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:67:17-88
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:67:25-85
+action#kr.co.greencomm.ibody24.coach.Bm.appStartScan
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:68:17-88
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:68:25-85
+action#kr.co.greencomm.ibody24.coach.Bm.appStopScan
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:69:17-87
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:69:25-84
+action#kr.co.greencomm.ibody24.coach.Bm.appSetDevice
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:70:17-88
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:70:25-85
+action#kr.co.greencomm.ibody24.coach.Bm.appPeripheralState
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:71:17-94
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:71:25-91
+action#kr.co.greencomm.ibody24.coach.Bm.appAppendBLMessage
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:72:17-94
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:72:25-91
+action#kr.co.greencomm.ibody24.coach.Bm.appStopBluetooth
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:73:17-92
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:73:25-89
+action#kr.co.greencomm.ibody24.coach.Bm.appSendUserData
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:74:17-91
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:74:25-88
+action#kr.co.greencomm.ibody24.coach.Bm.appIsBusySender
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:75:17-91
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:75:25-88
+action#kr.co.greencomm.ibody24.coach.Bm.appNormalStress
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:76:17-91
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:76:25-88
+action#kr.co.greencomm.ibody24.coach.Bm.appStress
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:77:17-85
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:77:25-82
+action#kr.co.greencomm.ibody24.coach.Sm.appIsLiveApplication
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:78:17-96
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:78:25-93
+action#kr.co.greencomm.ibody24.coach.Sm.appLoginInformation
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:79:17-95
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:79:25-92
+action#kr.co.greencomm.ibody24.DFUCustomBroadcast.Progress
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:80:17-94
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:80:25-91
+action#kr.co.greencomm.ibody24.DFUCustomBroadcast.Completed
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:81:17-95
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:81:25-92
+receiver#kr.co.greencomm.middleware.service.PackageBroadcastReceiver
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:84:9-92:20
+	android:enabled
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:86:13-35
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:85:13-87
+intent-filter#android.intent.action.PACKAGE_REPLACED
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:87:13-91:29
+action#android.intent.action.PACKAGE_REPLACED
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:88:17-81
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:88:25-78
+data
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:90:17-50
+	android:scheme
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:90:23-47
+provider#kr.co.greencomm.middleware.provider.IBODY24Provider
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:94:9-99:91
+	android:readPermission
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:98:13-86
+	android:authorities
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:96:13-58
+	android:grantUriPermissions
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:97:13-47
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:95:13-79
+	android:writePermission
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:99:13-88
+service#kr.co.greencomm.middleware.service.MWService
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:101:9-105:19
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:101:18-77
+intent-filter#kr.co.greencomm.ibody24.coach.Mw.startService
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:102:13-104:29
+action#kr.co.greencomm.ibody24.coach.Mw.startService
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:103:17-88
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:103:25-85
+service#kr.co.greencomm.middleware.service.DfuService
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:106:9-110:19
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:106:18-78
+intent-filter#kr.co.greencomm.middleware.service.startDfuService
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:107:13-109:29
+action#kr.co.greencomm.middleware.service.startDfuService
+ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:108:17-93
+	android:name
+		ADDED from [Project:middleware:unspecified] /Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/AndroidManifest.xml:108:25-90

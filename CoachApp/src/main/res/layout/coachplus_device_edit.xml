@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/coach_bluetooth_device_icon"
+            android:layout_gravity="center_horizontal"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:paddingStart="20dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:text="@string/my_register_device"
+            android:textSize="18dp"
+            style="@style/title_text"
+            />
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0.25dp"
+        android:background="#A7A9AC"
+        />
+
+    <LinearLayout
+        android:id="@+id/device_edit_layout_dev_name"
+        android:layout_width="match_parent"
+        android:layout_height="62dp"
+        android:orientation="horizontal"
+        android:paddingStart="20dp"
+        android:gravity="center_vertical"
+        android:background="#F7F7F7"
+        >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/coach_bluetooth_vertical_icon"
+            />
+
+        <TextView
+            android:id="@+id/device_edit_txt_dev_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CO000010"
+            android:textSize="18dp"
+            android:layout_marginStart="10dp"
+            />
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0.25dp"
+        android:background="#A7A9AC"
+        />
+
+</LinearLayout>

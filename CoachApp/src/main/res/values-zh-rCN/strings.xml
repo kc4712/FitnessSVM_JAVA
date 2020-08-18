@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--메인화면-->
+    <string name="main_basic">基础1:1 PT</string>
+    <string name="main_theme">主题 1:1 PT</string>
+    <!--메인화면-->
+
+    <!--수면측정-->
+    <string name="seep_minute">分</string>
+    <string name="seep_Times">次</string>
+    <!--수면측정-->
+
+    <!--알림-->
+    <string name="call">电话提醒</string>
+    <string name="messages">信息提醒</string>
+    <!--알림-->
+
+    <string name="app_name">iBODY24</string>
+    <!-- 추가 부분 -->
+
+    <string name="accuracy">准确度</string>
+    <string name="maximum_heartrate">心率</string>
+    <string name="exercise_number">运动\n次数</string>
+    <string name="consume_calorie">消耗卡路里</string>
+    <string name="support_ibody">iBODY24提供免费运动。\n运动前必须实施\n5分钟热身运动。</string>
+    <string name="prepare_exercise_comment">iBODY24推荐的准备运动。\\n运动前的准备运动是非常重要，\\n一定要实施5分钟以上，\\n准备运动可以防止受伤，\\n点击各项视频开始准备运动。</string>
+    <string name="support_ibody2">iBODY24提供的专业健身运动。\n不限制时间和场所\n可以1:1视频训练。\n</string>
+    <string name="personal_information">个人信息</string>
+    <string name="weight_setting">设定体重</string>
+    <string name="target_weight">目标体重</string>
+    <string name="diet_period">减量期间</string>
+    <string name="week">&#160; 周</string>
+    <string name="day_consume_calorie">每天消耗卡路里</string>
+    <string name="setting">设置</string>
+    <string name="speciality_field">专业领域</string>
+    <string name="trainer_title_1">教练</string>
+    <string name="watch_exercise">查看运动</string>
+    <string name="fitness">健身</string>
+    <string name="trainer_name_1">J.Y.LEE</string>
+    <string name="year">年</string>
+    <string name="month">月 </string>
+    <string name="day">日</string>
+    <string name="input_gender">请输入性别。</string>
+    <string name="input_height">请输入身高。</string>
+    <string name="input_birth">请输入出生年月日</string>
+    <string name="input_name">请输入姓名。</string>
+    <string name="count">次数</string>
+    <string name="yes">是</string>
+    <string name="no">取消</string>
+    <string name="program_001_001">超速完成腹肌普拉提</string>
+    <string name="over_work">过量</string>
+    <string name="fit">适当</string>
+    <string name="enough">充分</string>
+    <string name="BMI_above">标准以上</string>
+    <string name="BMI_below">标准以下</string>
+    <string name="BMI_standard">标准</string>
+    <string name="action_settings">Settings</string>
+    <string name="agree_term">同意使用条款。</string>
+    <string name="coach_basic_title_001">准备运动</string>
+    <string name="coach_basic_title_002">15分钟全身运动</string>
+    <string name="coach_basic_title_003">Matt运动</string>
+    <string name="coach_basic_title_004">活跃运动</string>
+    <string name="email_not_valid">邮箱不正确，请输入正确的邮箱。</string>
+    <string name="enter_email">请输入邮箱地址。</string>
+    <string name="enter_pass">请输入密码。</string>
+    <string name="enter_pass_confirm">再次输入密码。</string>
+    <string name="error_bluetooth">不支持蓝牙，结束应用程序。</string>
+    <string name="error_exists_email">已注册的邮箱。</string>
+    <string name="error_not_account">邮箱或密码不一致。请重新确认。</string>
+    <string name="error_program">预测不到的错误。</string>
+    <string name="find_device">搜索设备</string>
+    <string name="find_id">找回邮箱/密码</string>
+    <!--<string name="find_pw">パスワードを忘れた時</string>-->
+    <string name="joinus">Join us</string>
+    <string name="login">Login</string>
+    <string name="login_check_agreement">同意使用条款。</string>
+    <string name="login_confirm_hint"><font size="9">请确认密码。</font></string>
+    <string name="login_confirm_title">确认密码</string>
+    <string name="login_email_hint"><font size="9">请输入邮箱。</font></string>
+    <string name="login_email_title">邮箱</string>
+    <string name="login_password_hint"><font size="9">密码设为16个字以下。</font></string>
+    <string name="login_password_title">密码</string>
+    <string name="login_read_agreement"><font size="8">使用条款</font></string>
+    <string name="logo_text">The first wearable to be\nyour personal trainer</string>
+    <string name="menu_chart">Chart</string>
+    <string name="menu_coach">My Coach</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_setting">Setting</string>
+    <string name="network_error">未连接网络</string>
+    <string name="ok">确认</string>
+    <string name="pass_not_match">两次输入的密码不一致</string>
+    <string name="pass_not_valid">密码设为英文，数字组合的8~16位</string>
+    <string name="register_complete">已登录iBODY24</string>
+    <string name="register_user">注册成功</string>
+    <string name="select_device_title">选择iBODY24 %s设备</string>
+    <string name="start_app">开始</string>
+    <string name="support_bluetooth_title">iBODY24已连接。</string>
+    <string name="support_msg1">请确认iBODY24电源。</string>
+    <string name="support_msg2">激活蓝牙功能。</string>
+    <string name="support_msg3">iBODY24 和手机放在较近的地方使用。</string>
+    <string name="support_msg4">请确认附近是否有相同的产品。</string>
+    <string name="support_title">未搜到iBODY24？\n请确认以下项目。</string>
+    <string name="total_point">Total Point</string>
+    <string name="comment_accuracy">运动姿势的准确度。准确度越高，运动姿势越正确，消耗卡路里也越多。</string>
+    <string name="comment_consume_calorie">对比目标消耗卡路里，显示今天运动消耗的卡路里量。达到目标卡路里或超过时，体重会减轻，运动认真度为佳。</string>
+    <string name="comment_exercise_number">运动次数的多少用%显示，次数高，运动准确度和体力会提高。</string>
+    <string name="comment_maximum_heartrate">对比用户的最大心率，显示运动时的心率。值越低，心肺功能越好，但消耗卡路里越少。此外，值持续在80%以上时，可能会对身体造成伤害。</string>
+    <string name="comment_total_point">图表上的各数值的平均值。分数越高说明身体健康和运动神经好。</string>
+    <string name="whole_body_comment">iBODY24提供的全身<font color="RED"> 初级 </font>运动。<br /> 10个动作重复2次。<br />在个人身体能力范围内进行。</string>
+    <string name="mat_exercise_comment">刺激平衡中心的<font color= "red">初级</font>运动。<br />运动时，与教练相同的速度执行会提升运动效果!</string>
+    <string name="active_exercise_comment">活动来提高心率，增强耐力和肌肉的<font color="RED">高级</font>运动。快速燃烧脂肪，减轻体重。</string>
+    <string name="program_comment_001_001">J.Y.LEE的腹肌运动是PRO等级运动，以腹部肌肉为主，整体core一起增强的运动。不论男女都可以跟着练，男性练Six pack，女性练11字腹肌非常有效的运动。正确的姿势很重要，跟着教练正确做运动。</string>
+    <string name="program_001_002">完美背影普拉提</string>
+    <string name="program_comment_001_002">J.Y.LEE的腹肌运动是PRO等级运动，对臀部肌肉和竖脊肌增强，非常有效运动。臀部运动不仅能提臀，还有助于身体平衡。姿势不正，会导致身体失衡，请以正确的姿势跟着做。</string>
+    <string name="program_002_001">Total Body Training 1</string>
+    <string name="program_002_002">Total Body Training 2</string>
+    <string name="program_comment_002_001">Total Body Training 1 是使用全身的(<font color="RED">初级</font>) 运动。此运动不分性别，不仅能增强全身肌肉，还有助于脂肪燃烧。听准教练对正确姿势的说明后，请跟着一起做！</string>
+    <string name="program_comment_002_002">Total Body Training 2是PRO(<font color="RED">高级</font>)运动。与TBT1相比，难易度更高。有助于腹部和大腿脂肪燃烧，对全身肌肉增加有益运动。听准教练对正确姿势的说明后，请跟着一起做！</string>
+    <string name="trainer_spec_1">普拉提</string>
+    <string name="trainer_spec_2">Weight Training</string>
+    <string name="trainer_name_2">D.H.HONG</string>
+    <string name="trainer_comment_1">普拉提是伸展运动和肌肉运动并行,\n不仅打造光滑且富有弹力的身材, \n还能锻炼不经常使用的内部肌肉和身体的核心能力。\n矫正在日常生活中，因错误的姿势扭曲的脊椎和骨盆。\n跟我一起普拉提Go Go Go！\n为“腹部，臀部，大腿”富有弹性的身体曲线！\n迷人的背影！塑造美丽而又气质的身材。</string>
+    <string name="trainer_career_1">- 韩国体育大学 社会体育大学院 生活体育学科\n- Line Dance Director Certification\n- University of Nevada,<br />\n   D.K Body Balancing pilates (Mat work)\n    international Certification\n- University of Nevada, \n    D.K Body Balancing pilates(Equipment)\n     international Certification\n- 英国皇室舞蹈 ISTD Dance Sports international Director\n- 普拉提指导师过程 instructor\n- 指导艺人的普拉提（苏有珍， 金晶恩，徐仁英等..）\n- 2015 Muscle Mania 运动模特 第4名\n- 2015 Nava wff 运动模特 top10\n- 2015 Nava wff Bikini top10</string>
+    <string name="trainer_comment_2">我是HOG.DO HAN教练。\n正确运动有利健康，错误运动让你受伤。\nTBT项目是健康活到100岁的解决方案。\n并改善技能和提高体力及耐力，\n以减肥为重点的运动项目。\n摆脱过去错误的健身运动，结合科技正确的运动。</string>
+    <string name="trainer_career_2">- 生活体育指导师 3级（健身运动）\n- 修完韩国人才教育院运动处方师教育过程\n- KINESY-THERAPY SPECIALIST\n   Level 1 职格证\n- TEAM AVERNGERS ACADAMY\n  个人教练职格证\n- 客户管理指导师·1级/ 娱乐指导师 1级\n- 前）韩方充电10分钟摄影\n- 前）京南市体育会全国体育大会\n   朴正洙选手的体能教练\n- 现）LG TWINS 蔡恩成选手的健身教练\n- 现）Body channel 上东店 Supervisor\n- 2013 安阳市健美运动协会会长杯- 75kg获奖\n- 2014 WFF UNIVERSE FITNESS 获奖\n- 2015 2015 京畿道民体育大会- 80kg获奖\n</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="please_all_information">请输入所有信息</string>
+    <string name="select_gender">性别选择</string>
+    <string name="height_input">输入身高</string>
+    <string name="not_connect_band">没有连接设备</string>
+    <string name="not_prepare_video">没有运动视频</string>
+    <string name="not_prepare_wifi">未连接网络或Wi-fi。连接后，请重新执行。</string>
+    <string name="confirm_delete_coach">确定删除视频？</string>
+    <string name="success_connect">已连接</string>
+    <string name="setting_menu1">iBODY24 %s 用语词典</string>
+    <string name="setting_menu2">iBODY24 %s 使用方法</string>
+    <string name="setting_menu3">查看个人信息</string>
+    <string name="setting_menu4">公告事项及活动</string>
+    <string name="setting_menu5">目标体重设定</string>
+    <string name="setting_menu6">双人比赛</string>
+    <string name="setting_menu7">注销</string>
+    <string name="confirm_logout">注销?</string>
+    <string name="confirm_back_close">再按后退即关闭。</string>
+    <string name="BMI_WHO"><font color="#777777">根据WHO BMI公式，以身高为基准，体重应为</font> <font color="#45c383">%1$d ~ %2$d kg</font> <font color="#777777" /></string>
+    <string name="Step_0_2000_1">早上好！每天为10000步，加油！</string>
+    <string name="Step_0_2000_2">步行来开始轻松的一天。</string>
+    <string name="Step_0_2000_3">您知道步行有助于三高症和忧郁症，解压？今天也要坚持步行。</string>
+    <string name="Step_0_2000_4">日行10000步，走向健康。</string>
+    <string name="Step_2001_3000_1">即使没做步行运动，每天日常行走也可以走出2~3000步。\\n我们的目标是10000步。今晚步行30分钟怎么样？</string>
+    <string name="Step_2001_3000_2">好的开始是成功的一半，为10000步加油。</string>
+    <string name="Step_3001_5000_1">如果看这条信息是晚上，现在就出去运动吧！ \\n如果是中午，那今天就是充满活力的一天！</string>
+    <string name="Step_5001_7000_1">还剩一半，出去走走吧！30分钟就能走完5000步。</string>
+    <string name="Step_7001_8000_1">剩下3000步左右，从站点走到回家，明早身体会感到轻快很多。</string>
+    <string name="Step_8001_9000_1">步行来结束这一天，怎么样？10分钟就能走完2000步。</string>
+    <string name="Step_9001_9999_1">1000步只需要5分钟。</string>
+    <string name="Step_9001_9999_2">10000步在眼前了！</string>
+    <string name="Step_9001_9999_3">离目标又靠近一步。</string>
+    <string name="Step_Extra_1">试试快歩，快歩是每分钟消耗3.5 kcal以上热量,对心肺功能好,骨头和肌肉变得更结实!</string>
+    <string name="Step_Extra_2">听说过急步吗？顾名思义,就是匆匆忙忙的步行运动。每分钟消耗4.5kcal的热量。提高有氧运动能力和有效预防及治疗三高症。</string>
+    <string name="Step_Extra_3">强步，每分钟消耗7.5kcal，运动效果非常好。</string>
+    <string name="Step_Extra_4">"步行能减少身体脂肪,改善肥胖、预防和治疗糖尿病、高血压、高脂血症等三高症。努力完成剩下的步数吧！ "</string>
+    <string name="accumulate_calorie">累积卡路里</string>
+    <string name="achievement">达成度</string>
+    <string name="avg_workout_intensity">平均活动强度</string>
+    <string name="awaken">醒来</string>
+    <string name="bad">不好</string>
+    <string name="battery_voltage">电池剩余量</string>
+    <string name="birthday">出生年月</string>
+    <string name="cancel">取消</string>
+    <string name="caution_diet_period">减肥期间要大于0。</string>
+    <string name="caution_weight">目标体重要低于现体重。</string>
+    <string name="chart_title_accuracy">准确度</string>
+    <string name="chart_title_consume_calorie">消耗卡路里</string>
+    <string name="chart_title_exercise_number">运动次数</string>
+    <string name="chart_title_maximum_heartrate">心率</string>
+    <string name="close">取消</string>
+    <string name="complete_step">完成目标</string>
+    <string name="connected_my_device">连接我的设备</string>
+    <string name="connecting_device">连接中</string>
+    <string name="danger">危险</string>
+    <string name="data_sync">同步化中。</string>
+    <string name="delete_device">确定删除设备？</string>
+    <string name="device_charging">充电中</string>
+    <string name="device_connect">连接我的设备</string>
+    <string name="device_connected">已连接设备</string>
+    <string name="device_connecting">设备连接中</string>
+    <string name="device_disconnect">未连接</string>
+    <string name="device_initial_waiting">同步化中，请稍等。</string>
+    <string name="device_not_connected">设备未连接。</string>
+    <string name="eight_week">8周</string>
+    <string name="empty_stress_index">测一测压力指数。</string>
+    <string name="error_measure">测定失败，请重新测定。</string>
+    <string name="error_permission">权限不支持，结束。</string>
+    <string name="exer1">Neck Stretch</string>
+    <string name="exer10">俯卧撑</string>
+    <string name="exer11">Standing High Jump</string>
+    <string name="exer12">Squats</string>
+    <string name="exer13">Running in Space</string>
+    <string name="exer14">Crunches</string>
+    <string name="exer15">Side Kicks</string>
+    <string name="exer16">Side Lunges</string>
+    <string name="exer17">Jumping Jacks</string>
+    <string name="exer18">Abs and back Workout</string>
+    <string name="exer2">Wrist Stretch</string>
+    <string name="exer3">Waist and Biceps Stretch</string>
+    <string name="exer4">Side Stretch</string>
+    <string name="exer5">Shoulder Stretch 1</string>
+    <string name="exer6">Shoulder Stretch 2</string>
+    <string name="exer7">Arm Circles</string>
+    <string name="exer8">Bending at the Waist</string>
+    <string name="exer9">Wrist and Ankle Circles</string>
+    <string name="fail_connect_device_confirm">连接失败，请确认设备。</string>
+    <string name="expected_consumption_of_calories">预测消耗卡路里</string>
+    <string name="fail_connect_device_retry">连接失败，请稍后再试。</string>
+    <string name="failed_firmup">固件更新失败，请重新连接。</string>
+    <string name="few">少</string>
+    <string name="find_account_title">找回邮箱/密码</string>
+    <string name="find_account_url">http://www.ibody24.com/en/idfind.asp</string>
+    <string name="firm_progress">固件更新中。</string>
+    <string name="firm_update">固件更新</string>
+    <string name="four_week">4周</string>
+    <string name="good">好</string>
+    <string name="graph_legend_activity">活动</string>
+    <string name="graph_legend_coach">Coach运动</string>
+    <string name="graph_legend_daily">日常生活</string>
+    <string name="graph_legend_sleep">睡眠</string>
+    <string name="graph_title_accuracy">准确度图表</string>
+    <string name="graph_title_calorie">卡路里图表</string>
+    <string name="graph_title_exer_count">运动次数图表</string>
+    <string name="graph_title_heartrate">心率图表</string>
+    <string name="graph_title_total">总分图表</string>
+    <string name="height">身高</string>
+    <string name="high">强</string>
+    <string name="html_15min">exer_15min_zh</string>
+    <string name="html_abdominal_muscles">lee_joo_young_abdominal_muscles_zh</string>
+    <string name="html_active">active_zh</string>
+    <string name="html_baby_1">kwon_do_ye_baby_1_zh</string>
+    <string name="html_baby_2">kwon_do_ye_baby_2_zh</string>
+    <string name="html_backside">lee_joo_young_backside_zh</string>
+    <string name="html_hong_doo_han_profile_name">hong_doo_han_profile_zh</string>
+    <string name="html_kwon_do_ye_profile_name">kwon_do_ye_profile_zh</string>
+    <string name="html_lee_joo_young_profile_name">lee_joo_young_profile_zh</string>
+    <string name="html_mat">mat_zh</string>
+    <string name="html_name_glossary">glossary_zh</string>
+    <string name="html_name_glossary_fit">glossary_fit_zh</string>
+    <string name="html_name_graph_comment_accuracy">graph_comment_accuracy_zh</string>
+    <string name="html_name_graph_comment_calorie">graph_comment_calorie_zh</string>
+    <string name="html_name_graph_comment_exer_count">graph_comment_exercount_zh</string>
+    <string name="html_name_graph_comment_heartrate">graph_comment_heartrate_zh</string>
+    <string name="html_name_graph_comment_total">graph_comment_total_zh</string>
+    <string name="html_name_manual">manual_zh</string>
+    <string name="html_name_manual_fit">manual_fit_zh</string>
+    <string name="html_name_terms">terms_zh</string>
+    <string name="html_name_terms_fit">terms_fit_zh</string>
+    <string name="html_name_workout_measure">workout_measure_zh</string>
+    <string name="html_prepare_exer">prepare_zh</string>
+    <string name="html_tbt1">hong_doo_han_tbt1_zh</string>
+    <string name="html_tbt2">hong_doo_han_tbt2_zh</string>
+    <string name="input_confirm_password">请输入密码</string>
+    <string name="input_email">请输入邮箱</string>
+    <string name="input_password">请输入密码</string>
+    <string name="input_weight">请输入体重。</string>
+    <string name="lack">不足</string>
+    <string name="loading_stress_index">测定中。</string>
+    <string name="low">弱</string>
+    <string name="measure_cancel">测定取消</string>
+    <string name="measure_end">测定结束</string>
+    <string name="measure_start">测定开始</string>
+    <string name="mid">一般</string>
+    <string name="minute">分</string>
+    <string name="my_level">我的等级</string>
+    <string name="my_register_device">我登录的设备</string>
+    <string name="name">姓名</string>
+    <string name="next_year_chart">年间</string>
+    <string name="normal">一般</string>
+    <string name="notice_firm_update">最新版本</string>
+    <string name="notice_firmup">需要更新固件，现在执行吗？</string>
+    <string name="notice_status_sleep">测定睡眠状态</string>
+    <string name="notice_stress_index">测定压力指数</string>
+    <string name="notice_work_out">测定运动量</string>
+    <string name="now_weight">现体重</string>
+    <string name="permision_available_contacts">Permissions have been granted.</string>
+    <string name="permission_contacts_rationale">permissions are needed to demonstrate access.</string>
+    <string name="permissions_not_granted">Permissions were not granted.</string>
+    <string name="point_title_small">Pts</string>
+    <string name="pointis">Point</string>
+    <string name="program_003_001">产后运动1</string>
+    <string name="program_003_002">产后运动2</string>
+    <string name="program_name_abdominal_muscles">超速完成腹肌普拉提</string>
+    <string name="program_name_baby_1">产后运动1</string>
+    <string name="program_name_baby_2">产后运动2</string>
+    <string name="program_name_backside">完美背影普拉提</string>
+    <string name="program_name_tbt1">Total Body Training 1</string>
+    <string name="program_name_tbt2">Total Body Training 2</string>
+    <string name="raise_disconnect">连接中断</string>
+    <string name="recommend_calorie_comment"><font color="#777777">一天需要消耗卡路里量是</font><font color="#45c383">%1$d kcal</font><font color="#777777"></font></string>
+    <string name="register_device">登录设备</string>
+    <string name="remain_step">剩余步数</string>
+    <string name="rolled">翻身</string>
+    <string name="stability_heartrate">稳定心率</string>
+    <string name="start_firm_warnning">开始更新，未保存的测定数据会删除。</string>
+    <string name="state_not_idle">测定其他数据</string>
+    <string name="status_sleep">睡眠状态</string>
+    <string name="step_count">步数</string>
+    <string name="step_format">%d 步数</string>
+    <string name="stress_index">压力指数</string>
+    <string name="stress_measure_exit">测定结束。</string>
+    <string name="success_firmup">更新成功。</string>
+    <string name="terms">使用条款</string>
+    <string name="terms_of_use">iBODY24使用条款</string>
+    <string name="terms_text">同意。</string>
+    <string name="thisset">这次分数是</string>
+    <string name="today_goal">今天的目标</string>
+    <string name="total_sleep_time">总睡眠时间</string>
+
+
+    <string name="trainer_spec_3">Yoga, Weight Training</string>
+    <string name="trainer_title_3">Eagleship</string>
+    <string name="very_good">非常好</string>
+    <string name="warnning_download">消耗大量流量，建议WI-FI条件下下载，要继续？</string>
+    <string name="warnning_stress_index">(测定时不要移动)</string>
+    <string name="web_event">http://ibody24.com/cn/03_update.asp</string>
+    <string name="weight">体重</string>
+    <string name="weight_input">输入体重</string>
+    <string name="work_out">活动测定</string>
+    <string name="work_out_time">运动时间</string>
+    <string name="workout_avg_heartrate">平均心率</string>
+    <string name="workout_consume_calorie">消耗卡路里</string>
+    <string name="workout_graph_danger">最大强度运动</string>
+    <string name="workout_graph_high">有氧运动</string>
+    <string name="workout_graph_low">准备运动</string>
+    <string name="workout_graph_mid">脂肪燃烧运动</string>
+    <string name="workout_heartrate">心率</string>
+    <string name="workout_heartrate_warnning">警告：心率在危险区间，\n对心脏有危害，请注意。</string>
+    <string name="workout_max_heartrate">最高心率</string>
+    <string name="workout_min_heartrate">最低心率</string>
+    <string name="workout_ratio_heartrate">平均/最大心率</string>
+    <string name="workout_time">活动时间</string>
+
+    <!--출산 후 운동 번역본-->
+    <string name="program_comment_003_001">
+        <![CDATA[
+        出産後約1~4週間から可能な出産後専用運動です。<br/>
+        出産後体の回復状態によって優しく始めるのが重要です。<br/>
+        出産後運動Step.1は、 ヨガとウェートトレーニング(体の全体的なバランスを作ってくれる運動法)
+        合わせた運動で特に出産後曲がった骨盤の矯正と弱くなった腹部の筋肉を発達させるのに良い運動です。<br/>
+
+        運動を始める前に十分なストレッチングをしてください。
+        無理に実行するよりは少しずつ習って行くという考えで初めてください。<br /><br />
+
+        <font color=red>帝王切開分娩産婦は約2ヵ月後から実行してください。<br />
+        また、自然分娩の場合も体の回復状態によって運動を始めてください。<br />
+       *iBODY24の出産後運動は、産婦人科専門医の監修を受けた専用運動であることをお知らせいたします。</font>
+        ]]>
+    </string>
+
+    <string name="program_comment_003_002">
+        <![CDATA[
+        出産後約５~８週間から可能な出産後専用運動です。<br/>
+        Step.１よりももっとアクティブで、全身の筋肉発達及び<br/>
+        バランス向上に重点を持つ運動です。<br/>
+        特に下半身脊椎起立筋、腹部の筋肉の発達に<br/>
+        いい運動で構成されています。
+        完全な回復期に入った産婦が、美しいボディーラインを作るに、効果的な運動です。<br /><br />
+
+        運動を始める前に十分なストレッチグをしてください。出産前の美しい体を取り戻してください!<br /><br />
+
+        <font color=red>帝王切開分娩産婦は約３～４ヵ月後から実行してください。
+        また、自然分娩の場合も体の回復状態によって運動を始めてください。<br />
+       *iBODY24の出産後運動は、産婦人科専門医の監修を受けた専用運動であることをお知らせいたします。</font>
+        ]]>
+    </string>
+    <string name="trainer_career_3">‐ 2013 Musclemania 世界大赛\n   Universal fitness model 健身模特大奖\n- 2013 Musclemania 世界大赛\n   Universe Miss Bikini大奖\n- 2013 bbmc选定年度最佳选手奖\n- 2014 monster gym all-star best class 奖项\n- 2015 ismc 健美 韩国Miss Bikini 1等奖\n   获得女子选手Grand prix\n- 2015 第23届大韩民国文化\n   综艺节目颁奖典礼上健身模特奖项\n‐ 2015 命名为亚洲模特协会Fitness模特 委员长\n- 2015 新韩流文化事业团健身模特奖项\n- 2015 获得京畿道南京弼道知事感谢牌（女子健身）\n</string>
+
+    <string name="trainer_comment_3">因产后变形的身材担忧和苦恼吧~结合充足的休息和均衡的饮食，\n能够更快恢复身材的最好的方法就是产后运动！\n1.消除产后忧郁症。\n2.刺激产后松弛的肌肉。\n3.排出体内堆积的“垃圾“。\n4.塑造完美身体曲线的运动是产后运动，\n能解除产妇们的担忧和苦恼。\n将成为各位私人教练的iBODY24一起，\n在家轻松自如跟着做，\n与KWON DO YE一起的产后运动。\n现在就开始吧！</string>
+    <string name="trainer_name_3">D.Y.KWON</string>
+    <string name="setting_device_manager">设备管理</string>
+    <string name="setting_edit_device">设置设备</string>
+    <string name="setting_logout">注销</string>
+    <string name="select_device">选择设备</string>
+    <string name="setting_notice">公告事项及活动</string>
+    <string name="setting_profile">查看个人信息</string>
+    <string name="setting_weight">目标体重设定</string>
+    <string name="sex">性别</string>
+    <!--까지-->
+</resources>

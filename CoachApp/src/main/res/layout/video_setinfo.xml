@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/video_set_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/transparent"
+    android:visibility="visible">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0px"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginStart="30dp">
+
+                <TextView
+                    android:id="@+id/set_title_count"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/count"
+                    android:textSize="13dp"
+                    android:textStyle="bold"
+                    android:textColor="@color/set_title_color1" />
+
+                <TextView
+                    android:id="@+id/set_title_percent"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/accuracy"
+                    android:layout_marginTop="10dp"
+                    android:textSize="13dp"
+                    android:textStyle="bold"
+                    android:textColor="@color/set_title_color1" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="30dp">
+
+                <ImageView
+                    android:id="@+id/set_image_count"
+                    android:layout_width="match_parent"
+                    android:layout_height="18dp"
+                    android:background="@color/set_image_count_color" />
+
+                <ImageView
+                    android:id="@+id/set_image_percent"
+                    android:layout_width="match_parent"
+                    android:layout_height="18dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@color/set_image_percent_color" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/line_1"
+            android:layout_width="2px"
+            android:layout_height="match_parent"
+            android:background="#000000" />
+
+        <LinearLayout
+            android:layout_width="0px"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/set_text_info21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/thisset"
+                android:layout_marginStart="30dp"
+                android:textSize="13dp"
+                android:textStyle="bold"
+                android:textColor="@color/set_title_color2" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="right"
+                android:layout_marginEnd="30dp">
+
+                <TextView
+                    android:id="@+id/set_text_point"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="42"
+                    android:textSize="89sp"
+                    android:textColor="@color/set_text_point_color" />
+
+                <TextView
+                    android:id="@+id/set_text_info22"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/pointis"
+                    android:layout_marginStart="5dp"
+                    android:textSize="13dp"
+                    android:textStyle="bold"
+                    android:textColor="@color/set_title_color2" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/line_2"
+        android:layout_width="match_parent"
+        android:layout_height="2px"
+        android:background="#000000" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:id="@+id/set_zone_3"
+            android:layout_width="0px"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/set_text_desc"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="정확도는 매우 좋은데 횟수가 부족하시네요\n반복된 연습을 통하여 운동을 끝까지 해보세요!\n점점 더 좋아질 수 있어요"
+                android:layout_marginStart="30dp"
+                android:layout_marginEnd="20dp"
+                android:textSize="13dp"
+                android:textStyle="bold"
+                android:textColor="@color/set_text_desc_color" />
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/line_3"
+            android:layout_width="2px"
+            android:layout_height="match_parent"
+            android:background="#000000" />
+
+        <FrameLayout
+            android:layout_width="0px"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+</LinearLayout>

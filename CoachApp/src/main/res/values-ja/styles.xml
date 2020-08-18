@@ -1,0 +1,35 @@
+<resources>
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#EC6C2C</item>
+        <item name="colorPrimaryDark">#EC6C2C</item>
+        <item name="colorAccent">#EC6C2C</item>
+        <item name="colorControlActivated">#EC6C2C</item>
+    </style>
+
+    <style name="grcomm_button_large" parent="android:Widget.Button">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">14dp</item>
+    </style>
+
+    <style name="device_list" parent="android:Widget.ListView">
+    </style>
+
+    <style name="select_text_001_p">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="select_text_001_n">
+        <item name="android:textStyle">normal</item>
+    </style>
+
+</resources>

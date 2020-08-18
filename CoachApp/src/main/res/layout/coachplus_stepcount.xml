@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:orientation="vertical"
+                android:gravity="center" >
+
+                <TextView
+                    android:id="@+id/stepcount_txt_comment"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/Step_9001_9999_1"
+                    android:gravity="center"
+                    />
+
+                <TextView
+                    android:id="@+id/stepcount_txt_complete"
+                    android:visibility="gone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/complete_step"
+                    android:textColor="#EC6C2C"
+                    android:textSize="32dp"
+                    android:gravity="center"
+                    />
+
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="#A7A9AC"
+                />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:paddingStart="20dp"
+                android:paddingEnd="40dp"
+                >
+
+                <ImageView
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:src="@drawable/coachplus_step"
+                    />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    >
+
+                    <TextView
+                        android:id="@+id/stepcount_txt_remain"
+                        android:layout_width="220dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="end"
+                        android:text="@string/remain_step"
+                        style="@style/title_text"
+                        />
+
+                    <TextView
+                        android:id="@+id/stepcount_txt_step"
+                        android:layout_width="220dp"
+                        android:layout_height="wrap_content"
+                        android:text="0"
+                        android:textColor="#EC6C2C"
+                        android:textSize="32dp"
+                        android:gravity="end"
+                        />
+
+                    <TextView
+                        android:layout_width="220dp"
+                        android:layout_height="wrap_content"
+                        android:text="@string/expected_consumption_of_calories"
+                        android:gravity="end"
+                        style="@style/title_text"
+                        android:layout_marginTop="20dp"
+                        />
+
+                    <TextView
+                        android:id="@+id/stepcount_txt_calculateCal"
+                        android:layout_width="220dp"
+                        android:layout_height="wrap_content"
+                        android:text="0"
+                        android:textColor="#EC6C2C"
+                        android:textSize="32dp"
+                        android:gravity="end"
+                        />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:orientation="vertical"
+                android:background="#EC6C2C"
+                android:gravity="center"
+                >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/step_count"
+                    android:textColor="#FFFFFF"
+                    android:textSize="16dp"
+                    />
+
+            </LinearLayout>
+
+            <com.github.mikephil.charting.charts.BarChart
+                android:id="@+id/stepcount_chart"
+                android:layout_width="match_parent"
+                android:layout_height="280dp"
+                >
+
+            </com.github.mikephil.charting.charts.BarChart>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:background="#F7F7F7"
+                android:paddingStart="20dp"
+                android:paddingEnd="40dp"
+                >
+
+                <TextView
+                    android:id="@+id/stepcount_txt_selected_date"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="18dp"
+                    />
+
+                <TextView
+                    android:id="@+id/stepcount_txt_selected_step"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="32dp"
+                    />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

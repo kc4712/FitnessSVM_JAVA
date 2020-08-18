@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="44dp"
+                android:background="#EC6C2C"
+                android:orientation="horizontal"
+                android:gravity="center"
+                >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="140dp"
+                    android:src="@drawable/coachplus_main_logo"
+                    android:layout_gravity="center"
+                    />
+
+                <Space
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="match_parent"
+                    />
+
+                <Button
+                    android:layout_width="65dp"
+                    android:layout_height="26.5dp"
+                    android:layout_marginEnd="10dp"
+                    android:background="@drawable/button_bt_connect_change"
+                    android:id="@+id/button_bt_connect_change" />
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:orientation="horizontal"
+                android:layout_marginTop="20dp"
+                android:paddingStart="20dp"
+                android:paddingEnd="20dp"
+                android:gravity="center"
+                >
+
+                <Button
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:background="@drawable/coachplus_main_icon_01_change"
+                    android:id="@+id/main_fitness_basicProgram_1" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    />
+
+                <Button
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:background="@drawable/coachplus_main_icon_02_change"
+                    android:id="@+id/main_fitness_trainerProgram_1" />
+
+
+            </LinearLayout>
+
+            <!--메인 상단 버튼 시작-->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingStart="20dp"
+                android:paddingEnd="20dp"
+                android:gravity="center"
+                >
+
+                <Button
+                    android:id="@+id/main_fitness_basicProgram_2"
+                    android:layout_width="94dp"
+                    android:layout_height="25dp"
+                    android:background="@drawable/coachplus_main_basic_icon_change"
+                    android:text="@string/main_basic"
+                    android:textColor="#EC6C2C"
+                    android:textSize="10dp"
+                    android:textStyle="bold"
+                    />
+
+                <ImageView
+                    android:layout_width="70dp"
+                    android:layout_height="wrap_content"
+                    />
+
+                <Button
+                    android:id="@+id/main_fitness_trainerProgram_2"
+                    android:layout_width="94dp"
+                    android:layout_height="25dp"
+                    android:background="@drawable/coachplus_main_theme_icon_change"
+                    android:text="@string/main_theme"
+                    android:textColor="#59C0C4"
+                    android:textSize="10dp"
+                    android:textStyle="bold"
+                    />
+
+            </LinearLayout>
+
+            <!--메인 상단 버튼 끝-->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center_horizontal"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/main_fitness_img_line"
+                    android:visibility="gone"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#A7A9AC" />
+
+                <LinearLayout
+                    android:id="@+id/main_fitness_layout_sync"
+                    android:visibility="gone"
+                    android:layout_width="match_parent"
+                    android:layout_height="52dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingEnd="30dp"
+                    android:paddingStart="10dp">
+
+                    <ProgressBar
+                        android:layout_width="55dp"
+                        android:layout_height="55dp" />
+
+                    <TextView
+                        style="@style/title_text"
+                        android:layout_marginStart="30dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="52dp"
+                        android:gravity="center_vertical"
+                        android:text="@string/data_sync" />
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#DCDCDD"
+                    />
+
+                <LinearLayout
+                    android:onClick="onClick"
+                    android:id="@+id/main_fitness_layout_stepcount"
+                    android:layout_width="match_parent"
+                    android:layout_height="54dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingEnd="20dp"
+                    android:paddingStart="10dp"
+                    android:background="@drawable/linear_sel_back"
+                    >
+
+                    <ImageView
+                        android:layout_width="45dp"
+                        android:layout_height="45dp"
+                        android:src="@drawable/coachplus_main_pic_01" />
+
+                    <TextView
+                        style="@style/title_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="30dp"
+                        android:layout_weight="1"
+                        android:text="@string/step_count" />
+
+                    <TextView
+                        android:id="@+id/main_fitness_txt_stepcount"
+                        style="@style/velue_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="0"
+                        android:textColor="#EC6C2C" />
+
+
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="0.25dp"
+                    android:background="#DCDCDD"
+                    />
+
+                <LinearLayout
+                    android:onClick="onClick"
+                    android:id="@+id/main_fitness_layout_calorie"
+                    android:layout_width="match_parent"
+                    android:layout_height="54dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingEnd="20dp"
+                    android:paddingStart="10dp"
+                    android:background="@drawable/linear_sel_back"
+                    >
+
+                    <ImageView
+                        android:layout_width="45dp"
+                        android:layout_height="45dp"
+                        android:src="@drawable/coachplus_main_pic_02" />
+
+                    <TextView
+                        style="@style/title_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="30dp"
+                        android:layout_weight="1"
+                        android:text="@string/accumulate_calorie" />
+
+                    <TextView
+                        android:id="@+id/main_fitness_txt_calorie"
+                        style="@style/velue_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="0"
+                        android:textColor="#EC6C2C" />
+
+
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="0.25dp"
+                    android:background="#DCDCDD"
+                    />
+
+                <LinearLayout
+                    android:onClick="onClick"
+                    android:id="@+id/main_fitness_layout_act"
+                    android:layout_width="match_parent"
+                    android:layout_height="54dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingEnd="20dp"
+                    android:paddingStart="10dp"
+                    android:background="@drawable/linear_sel_back"
+                    >
+
+                    <ImageView
+                        android:layout_width="45dp"
+                        android:layout_height="45dp"
+                        android:src="@drawable/coachplus_main_pic_03" />
+
+                    <TextView
+                        style="@style/title_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="30dp"
+                        android:layout_weight="1"
+                        android:text="@string/work_out" />
+
+                    <TextView
+                        android:id="@+id/main_fitness_txt_act_desc"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="right"
+                        android:text="@string/notice_work_out"
+                        android:textColor="#808284"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:visibility="gone"
+                        android:id="@+id/main_fitness_txt_act"
+                        style="@style/velue_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="0"
+                        android:textColor="#EC6C2C" />
+
+
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="0.25dp"
+                    android:background="#DCDCDD"
+                    />
+
+                <LinearLayout
+                    android:onClick="onClick"
+                    android:id="@+id/main_fitness_layout_sleep"
+                    android:layout_width="match_parent"
+                    android:layout_height="54dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingEnd="20dp"
+                    android:paddingStart="10dp"
+                    android:background="@drawable/linear_sel_back"
+                    >
+
+                    <ImageView
+                        android:layout_width="45dp"
+                        android:layout_height="45dp"
+                        android:src="@drawable/coachplus_main_pic_04" />
+
+                    <TextView
+                        style="@style/title_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="30dp"
+                        android:layout_weight="1"
+                        android:text="@string/status_sleep" />
+
+                    <TextView
+                        android:id="@+id/main_fitness_txt_sleep_desc"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="right"
+                        android:text="@string/notice_status_sleep"
+                        android:textColor="#808284"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:visibility="gone"
+                        android:id="@+id/main_fitness_txt_sleep"
+                        style="@style/velue_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="0"
+                        android:textColor="#EC6C2C" />
+
+
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="0.25dp"
+                    android:background="#DCDCDD"
+                    />
+
+                <LinearLayout
+                    android:onClick="onClick"
+                    android:id="@+id/main_fitness_layout_stress"
+                    android:layout_width="match_parent"
+                    android:layout_height="54dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingEnd="20dp"
+                    android:paddingStart="10dp"
+                    android:background="@drawable/linear_sel_back"
+                    >
+
+                    <ImageView
+                        android:layout_width="45dp"
+                        android:layout_height="45dp"
+                        android:src="@drawable/coachplus_main_pic_05" />
+
+                    <TextView
+                        style="@style/title_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="30dp"
+                        android:layout_weight="1"
+                        android:text="@string/stress_index" />
+
+                    <TextView
+                        android:id="@+id/main_fitness_txt_stress_desc"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="right"
+                        android:text="@string/notice_stress_index"
+                        android:textColor="#808284"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:visibility="gone"
+                        android:id="@+id/main_fitness_txt_stress"
+                        style="@style/velue_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="0"
+                        android:textColor="#EC6C2C" />
+
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="0.25dp"
+                    android:background="#DCDCDD"
+                    />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

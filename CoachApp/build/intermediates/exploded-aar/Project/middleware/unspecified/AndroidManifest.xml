@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="kr.co.greencomm.middleware"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="kr.co.greencomm.ibody24.permission.READ_PROVIDER" />
+    <uses-permission android:name="kr.co.greencomm.ibody24.permission.WRITE_PROVIDER" />
+
+    <!-- 폰 정보 읽어오기 펌웨어업데이트시 BLE 캐쉬를 지워도 밴드가 연결 거부하는 경우.. 삼성 외... -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true" >
+        <receiver
+            android:name="kr.co.greencomm.middleware.service.MWBroadcastReceiver"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.bluetooth.adapter.action.STATE_CHANGED" />
+                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+                <action android:name="android.intent.action.PHONE_STATE" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Mw.restartService" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Mw.checkFirmVersion" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Mw.wakeLockService" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Vm.appPlay" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Vm.appEnd" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Vm.appSetProgramCode" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Vm.appSetCurrentTimePosition" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Vm.appDownloadXml" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Vm.appGetQueryCode" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Am.appStepCalorie" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Am.appActivityData" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Am.appSleepData" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Am.appStressData" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Ec.appBattery" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Ec.appUserProfile" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Ec.appUserDietPeriod" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Ec.appLogout" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Ec.appLogin" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Ec.appSelectProduct" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Ec.appGetSelectedProduct" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Bm.appTryConnectionBluetooth" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Bm.appConnectionState" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Bm.appDeviceInformation" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Bm.appStartFirmUp" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Bm.appFirmVersion" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Bm.appFirmProgress" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Bm.appSetScanMode" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Bm.appBlConnect" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Bm.appStartScan" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Bm.appStopScan" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Bm.appSetDevice" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Bm.appPeripheralState" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Bm.appAppendBLMessage" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Bm.appStopBluetooth" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Bm.appSendUserData" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Bm.appIsBusySender" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Bm.appNormalStress" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Bm.appStress" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Sm.appIsLiveApplication" />
+                <action android:name="kr.co.greencomm.ibody24.coach.Sm.appLoginInformation" />
+                <action android:name="kr.co.greencomm.ibody24.DFUCustomBroadcast.Progress" />
+                <action android:name="kr.co.greencomm.ibody24.DFUCustomBroadcast.Completed" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="kr.co.greencomm.middleware.service.PackageBroadcastReceiver"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REPLACED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+
+        <provider
+            android:name="kr.co.greencomm.middleware.provider.IBODY24Provider"
+            android:authorities="kr.co.greencomm.ibody24"
+            android:grantUriPermissions="true"
+            android:readPermission="kr.co.greencomm.ibody24.permission.READ_PROVIDER"
+            android:writePermission="kr.co.greencomm.ibody24.permission.WRITE_PROVIDER" />
+
+        <service android:name="kr.co.greencomm.middleware.service.MWService" >
+            <intent-filter>
+                <action android:name="kr.co.greencomm.ibody24.coach.Mw.startService" />
+            </intent-filter>
+        </service>
+        <service android:name="kr.co.greencomm.middleware.service.DfuService" >
+            <intent-filter>
+                <action android:name="kr.co.greencomm.middleware.service.startDfuService" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>

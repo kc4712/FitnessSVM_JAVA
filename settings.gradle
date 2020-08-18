@@ -1,0 +1,2 @@
+include ':CoachApp', ':libxml_aart', ':middleware', ':dfu', ':svm_engine'
+project(':dfu').projectDir = new File('DFULibrary/dfu')

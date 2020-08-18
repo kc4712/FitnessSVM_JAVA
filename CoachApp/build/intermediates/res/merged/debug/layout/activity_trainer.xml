@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="#FFFFFF"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            >
+
+            <AdapterViewFlipper
+                android:id="@+id/trainer_photoView"
+                android:layout_width="167dp"
+                android:layout_height="207dp"
+                android:layout_marginTop="27dp"
+                android:flipInterval="2000"
+                />
+
+            <LinearLayout
+                android:id="@+id/trainer_dotPanel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal"
+                android:layout_gravity="center"
+                >
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:layout_marginTop="10dp"
+                >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/speciality_field"
+                    />
+
+                <TextView
+                    android:id="@+id/trainer_partText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="24dp"
+                    android:textSize="15dp"
+                    android:gravity="center"
+                    android:layout_marginLeft="8dp"
+                    android:textStyle="bold"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:padding="5dp"
+                android:background="#f7f7f7"
+                >
+
+                <TextView
+                    android:id="@+id/trainer_nameText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="@dimen/trainer_name"
+                    android:gravity="center"
+                    />
+
+                <TextView
+                    android:id="@+id/trainer_titleText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:textSize="20dp"
+                    android:text="@string/trainer_title_1"
+                    android:gravity="center"
+                    />
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/trainer_btn_program"
+                android:layout_width="150dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="20dp"
+                android:text="@string/watch_exercise"
+                style="@style/grcomm_button_large"
+                android:textSize="20dp"
+                android:background="@drawable/button_integrated"
+                />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="20dp"
+                >
+
+                <!--트레이너 코맨트-->
+                <TextView
+                    android:id="@+id/trainer_trainerComment"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="14dp"
+                    android:lineSpacingExtra="6dp"
+                    android:padding="10dp"
+                    android:background="#F7F7F7"
+                    />
+
+                <!--트레이너 연혁-->
+                <TextView
+                    android:id="@+id/trainer_trainerHistory"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:textSize="12dp"
+                    android:lineSpacingExtra="6dp"
+                    android:padding="10dp"
+                    android:background="#F7F7F7"
+                    />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

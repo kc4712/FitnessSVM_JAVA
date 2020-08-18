@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/BLOOD/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.5/686c608d1805b6d4d425ec4459e88164ffc85870/gson-2.5.jar"
+        revision="24.0.2"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/jill/debug/packaged/gson-2.5-5fb17046818b5a6dc186d6fa5dd9256b03c79142.jar" />
+    </item>
+    <item
+        jar="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/dfu/unspecified/jars/classes.jar"
+        revision="24.0.2"
+        sha1="6cf779b7de78d9d89d2f1491778d143b72b2c73a">
+        <dex dex="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/jill/debug/packaged/classes-b8c1be223e87d0ef0b80b73bacb8bf2538b5e4ea.jar" />
+    </item>
+    <item
+        jar="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/jill/debug/packaged/internal_impl-24.2.1-a16a8b21483f39352b0f8f55411d76479f92ec3d.jar" />
+    </item>
+    <item
+        jar="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/jill/debug/packaged/internal_impl-24.2.1-e845185c7e94d0703cfebd9fca54e129902f6d3c.jar" />
+    </item>
+    <item
+        jar="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/jill/debug/packaged/internal_impl-24.2.1-f8855f5865b013dc4e9da704ed0382f54a65eb46.jar" />
+    </item>
+    <item
+        jar="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/jill/debug/packaged/classes-a85f0fd56f57ab636280b459532858a015580655.jar" />
+    </item>
+    <item
+        jar="/Users/BLOOD/Desktop/FitnessSVM/Project/libxml_aart/build/libs/libxml_aart.jar"
+        revision="24.0.2"
+        sha1="d41fc70f7ade23e9bcbfd3b50033f27bb98f5ae7">
+        <dex dex="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/jill/debug/packaged/libxml_aart-b41a59de4a2af162f94deef258effddd4a4b2e23.jar" />
+    </item>
+    <item
+        jar="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/jill/debug/packaged/internal_impl-24.2.1-7e754725a1deb26438ca862fe5e0df5d4be1022a.jar" />
+    </item>
+    <item
+        jar="/Users/BLOOD/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/jill/debug/packaged/support-annotations-24.2.1-389fed2a9f75ec9f550512cc48abe8fbd696b950.jar" />
+    </item>
+    <item
+        jar="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/jill/debug/packaged/classes-b4f14d0f8ccd130f64e46e998f8539676ca5b91e.jar" />
+    </item>
+    <item
+        jar="/Users/BLOOD/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v2.1.3/a3bd5f9dd0a98914faee607d51e22ae172cad4a/MPAndroidChart-v2.1.3.jar"
+        revision="24.0.2"
+        sha1="0a3bd5f9dd0a98914faee607d51e22ae172cad4a">
+        <dex dex="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/jill/debug/packaged/MPAndroidChart-v2.1.3-fbc188c8fc10598cca3a3ea89035786313824f3e.jar" />
+    </item>
+    <item
+        jar="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/jill/debug/packaged/classes-b85424fdf72dc9edd58414897906011a30c032cc.jar" />
+    </item>
+    <item
+        jar="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/jill/debug/packaged/classes-9bf2ce3c6a3f43267b24deede28ca24a50a6f887.jar" />
+    </item>
+    <item
+        jar="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/jill/debug/packaged/classes-f53db27240c695d3c44e5e888af5b29c95987a95.jar" />
+    </item>
+    <item
+        jar="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/jill/debug/packaged/classes-89bf94bfbceb594b61f9e2e97ae607ed56899eff.jar" />
+    </item>
+    <item
+        jar="/Users/BLOOD/Library/Android/sdk/platforms/android-24/android.jar"
+        revision="24.0.2"
+        sha1="d49cc0972df7adf495d3ad3d0cf71c0ec517ace4">
+        <dex dex="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/jill/debug/runtime/android-8b046ea8e22503b043ceb6ef93373e06d4e9f33c.jar" />
+    </item>
+    <item
+        jar="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/jill/debug/packaged/classes-781a0de3d75ccc951734bf250671ff1d5d437117.jar" />
+    </item>
+    <item
+        jar="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/jill/debug/packaged/classes-5da139908b42b854dd8cc80a1935605dd6a0f7e0.jar" />
+    </item>
+    <item
+        jar="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/jill/debug/packaged/classes-c632f8cb32d737f615fa0b6276bbf4ccad4974bf.jar" />
+    </item>
+    <item
+        jar="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/Project/middleware/unspecified/jars/classes.jar"
+        revision="24.0.2"
+        sha1="7ad7170c965a6360441cdfa88d822648c25db2be">
+        <dex dex="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/jill/debug/packaged/classes-638c22396223cca2a38bd97a570afe3e2cab56d1.jar" />
+    </item>
+    <item
+        jar="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/jill/debug/packaged/classes-2672ee13eb88b7d4105dfa4999ccd005afabb236.jar" />
+    </item>
+    <item
+        jar="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/jill/debug/packaged/classes-2a2f00f3ad90b94ce3fc47ee88da32e680aa5257.jar" />
+    </item>
+    <item
+        jar="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/jill/debug/packaged/internal_impl-24.2.1-e6a538f8adef6f2729f5f1ae65a255adaf621052.jar" />
+    </item>
+
+</items>

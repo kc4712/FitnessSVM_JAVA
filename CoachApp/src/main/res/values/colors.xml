@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="list_device_row_normal_bg">#ffffff</color>
+    <color name="list_device_row_select_bg">#ebebeb</color>
+
+    <color name="main_menu_select_divider_color">#ff9046</color>
+    <color name="main_menu_normal_divider_color">#b9b9b9</color>
+
+    <color name="trainer_program_background_nor">#ffffff</color>
+    <color name="trainer_program_background_sel">#bbbbbb</color>
+
+    <color name="item_setting_menu_back_nor">#ffffff</color>
+    <color name="item_setting_menu_back_sel">#eeeeee</color>
+
+    <color name="item_setting_menu_text_color_enable">#000000</color>
+    <color name="item_setting_menu_text_color_disable">#777777</color>
+
+    <color name="video_infomation_message_disable">#00000000</color>
+
+    <color name="trans">#00000000</color>
+
+    <color name="set_title_color1">#222222</color>
+    <color name="set_image_count_color">#5b69a9</color>
+    <color name="set_image_percent_color">#bec4da</color>
+
+    <color name="set_title_color2">#222222</color>
+    <color name="set_text_point_color">#E26C0E</color>
+
+    <color name="set_text_desc_color">#222222</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorStepComplete">#EC6C2C</color>
+
+    <color name="colorWeekYear">#65b2e9</color>
+    <color name="colorStep">#f0a47e</color>
+
+    <color name="color_pie_act">#b6d88e</color>
+    <color name="color_pie_coach">#59bfc4</color>
+    <color name="color_pie_sleep">#f5e584</color>
+    <color name="color_pie_daily">#e76066</color>
+
+    <color name="color_cup">#41b6b2</color>
+
+    <color name="linear_nor_color">#FFFFFF</color>
+    <color name="linear_prs_color">#B4B5B5</color>
+
+</resources>

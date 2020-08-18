@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="5"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/coachplus_main_logo_02"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="5"
+        android:gravity="center">
+
+        <ImageView
+            android:layout_width="220dp"
+            android:layout_height="46dp"
+            android:background="@drawable/coach_intro_text"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="7"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/start_btn_login"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:background="@drawable/button_large_orange"
+            android:text="Login"
+            style="@style/grcomm_button_large"
+            />
+
+        <Button
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:background="@drawable/button_large_sky"
+            android:text="Join us"
+            style="@style/grcomm_button_large"
+            android:layout_marginTop="30dp"
+            android:id="@+id/start_btn_join" />
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

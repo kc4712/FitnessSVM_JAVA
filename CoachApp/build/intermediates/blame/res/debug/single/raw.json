@@ -1,0 +1,442 @@
+[
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/manual_en.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/manual_en.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/graph_comment_calorie_en.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/graph_comment_calorie_en.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/hong_doo_han_profile.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/hong_doo_han_profile.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/video_004.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/video_004.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/coach03_jp.jpg",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/coach03_jp.jpg"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/graph_comment_accuracy_jp.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/graph_comment_accuracy_jp.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/lee_joo_young_backside_zh.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/lee_joo_young_backside_zh.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/mat_en.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/mat_en.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/lee_joo_young_backside_jp.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/lee_joo_young_backside_jp.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/graph_comment_accuracy_zh.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/graph_comment_accuracy_zh.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/graph_comment_calorie.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/graph_comment_calorie.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/graph_comment_total_en.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/graph_comment_total_en.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/hong_doo_han_tbt1_en.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/hong_doo_han_tbt1_en.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/video_302.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/video_302.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/kwon_do_ye_baby_1_jp.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/kwon_do_ye_baby_1_jp.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/kwon_do_ye_profile_jp.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/kwon_do_ye_profile_jp.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/lee_joo_young_profile_jp.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/lee_joo_young_profile_jp.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/manual_fit.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/manual_fit.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/kwon_do_ye_baby_2_jp.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/kwon_do_ye_baby_2_jp.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/active_en.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/active_en.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/lee_joo_young_profile_en.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/lee_joo_young_profile_en.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/hong_doo_han_profile_zh.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/hong_doo_han_profile_zh.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/video_003.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/video_003.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/graph_comment_total_zh.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/graph_comment_total_zh.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/exer_15min_zh.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/exer_15min_zh.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/video_101.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/video_101.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/terms.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/terms.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/exer_15min.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/exer_15min.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/prepare_en.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/prepare_en.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/glossary_en.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/glossary_en.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/graph_comment_exercount_en.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/graph_comment_exercount_en.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/glossary_fit_jp.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/glossary_fit_jp.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/lee_joo_young_abdominal_muscles_zh.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/lee_joo_young_abdominal_muscles_zh.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/kwon_do_ye_profile_zh.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/kwon_do_ye_profile_zh.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/kwon_do_ye_baby_1.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/kwon_do_ye_baby_1.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/video_102.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/video_102.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/lee_joo_young_abdominal_muscles_jp.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/lee_joo_young_abdominal_muscles_jp.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/kwon_do_ye_baby_2_en.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/kwon_do_ye_baby_2_en.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/workout_measure_en.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/workout_measure_en.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/manual_fit_jp.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/manual_fit_jp.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/glossary_fit_en.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/glossary_fit_en.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/hong_doo_han_tbt2_zh.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/hong_doo_han_tbt2_zh.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/coach03_zh.jpg",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/coach03_zh.jpg"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/lee_joo_young_backside.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/lee_joo_young_backside.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/graph_comment_exercount_zh.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/graph_comment_exercount_zh.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/video_202.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/video_202.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/hong_doo_han_tbt2_jp.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/hong_doo_han_tbt2_jp.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/hong_doo_han_profile_jp.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/hong_doo_han_profile_jp.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/workout_measure_jp.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/workout_measure_jp.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/prepare_zh.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/prepare_zh.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/terms_en.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/terms_en.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/coach03.jpg",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/coach03.jpg"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/graph_comment_accuracy.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/graph_comment_accuracy.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/active.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/active.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/hong_doo_han_tbt2_en.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/hong_doo_han_tbt2_en.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/glossary_zh.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/glossary_zh.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/kwon_do_ye_baby_2_zh.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/kwon_do_ye_baby_2_zh.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/glossary_fit_zh.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/glossary_fit_zh.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/active_zh.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/active_zh.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/glossary_fit.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/glossary_fit.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/hong_doo_han_profile_en.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/hong_doo_han_profile_en.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/kwon_do_ye_profile_en.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/kwon_do_ye_profile_en.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/terms_zh.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/terms_zh.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/lee_joo_young_abdominal_muscles_en.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/lee_joo_young_abdominal_muscles_en.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/terms_jp.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/terms_jp.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/hong_doo_han_tbt2.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/hong_doo_han_tbt2.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/workout_measure.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/workout_measure.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/active_jp.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/active_jp.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/coach03_en.jpg",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/coach03_en.jpg"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/graph_comment_heartrate_en.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/graph_comment_heartrate_en.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/manual.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/manual.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/fitness_led_img.png",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/fitness_led_img.png"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/prepare_jp.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/prepare_jp.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/kwon_do_ye_profile.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/kwon_do_ye_profile.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/graph_comment_calorie_jp.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/graph_comment_calorie_jp.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/manual_fit_en.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/manual_fit_en.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/mat.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/mat.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/workout_measure_zh.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/workout_measure_zh.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/kwon_do_ye_baby_1_en.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/kwon_do_ye_baby_1_en.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/graph_comment_exercount_jp.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/graph_comment_exercount_jp.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/glossary_jp.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/glossary_jp.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/kwon_do_ye_baby_2.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/kwon_do_ye_baby_2.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/mat_zh.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/mat_zh.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/lee_joo_young_backside_en.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/lee_joo_young_backside_en.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/graph_comment_total_jp.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/graph_comment_total_jp.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/graph_comment_heartrate_jp.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/graph_comment_heartrate_jp.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/graph_comment_heartrate_zh.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/graph_comment_heartrate_zh.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/graph_comment_accuracy_en.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/graph_comment_accuracy_en.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/graph_comment_heartrate.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/graph_comment_heartrate.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/video_301.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/video_301.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/video_201.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/video_201.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/manual_zh.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/manual_zh.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/hong_doo_han_tbt1_jp.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/hong_doo_han_tbt1_jp.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/manual_fit_zh.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/manual_fit_zh.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/video_002.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/video_002.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/manual_jp.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/manual_jp.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/lee_joo_young_profile.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/lee_joo_young_profile.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/kwon_do_ye_baby_1_zh.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/kwon_do_ye_baby_1_zh.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/exer_15min_en.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/exer_15min_en.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/lee_joo_young_profile_zh.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/lee_joo_young_profile_zh.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/prepare.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/prepare.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/mat_jp.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/mat_jp.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/graph_comment_total.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/graph_comment_total.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/glossary.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/glossary.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/graph_comment_exercount.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/graph_comment_exercount.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/hong_doo_han_tbt1_zh.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/hong_doo_han_tbt1_zh.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/exer_15min_jp.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/exer_15min_jp.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/graph_comment_calorie_zh.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/graph_comment_calorie_zh.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/lee_joo_young_abdominal_muscles.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/lee_joo_young_abdominal_muscles.html"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/raw/hong_doo_han_tbt1.html",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/raw/hong_doo_han_tbt1.html"
+    }
+]

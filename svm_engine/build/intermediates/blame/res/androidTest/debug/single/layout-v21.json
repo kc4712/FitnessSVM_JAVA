@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/BLOOD/Desktop/AndroidFit_SVM/Project/svm_engine/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/BLOOD/Desktop/AndroidFit_SVM/Project/svm_engine/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/AndroidFit_SVM/Project/svm_engine/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/BLOOD/Desktop/AndroidFit_SVM/Project/svm_engine/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/AndroidFit_SVM/Project/svm_engine/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action.xml",
+        "source": "/Users/BLOOD/Desktop/AndroidFit_SVM/Project/svm_engine/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/AndroidFit_SVM/Project/svm_engine/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/BLOOD/Desktop/AndroidFit_SVM/Project/svm_engine/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

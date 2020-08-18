@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/middleware/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_stat_notify_dfu.png",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/middleware/build/intermediates/exploded-aar/Project/dfu/unspecified/res/drawable-hdpi-v4/ic_stat_notify_dfu.png"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/middleware/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_notify_cancel.png",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/middleware/build/intermediates/exploded-aar/Project/dfu/unspecified/res/drawable-hdpi-v4/ic_action_notify_cancel.png"
+    }
+]

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CoachApp/CoachApp.iml" filepath="$PROJECT_DIR$/CoachApp/CoachApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project.iml" filepath="$PROJECT_DIR$/Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DFULibrary/dfu/dfu.iml" filepath="$PROJECT_DIR$/DFULibrary/dfu/dfu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libxml_aart/libxml_aart.iml" filepath="$PROJECT_DIR$/libxml_aart/libxml_aart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/middleware/middleware.iml" filepath="$PROJECT_DIR$/middleware/middleware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/svm_engine/svm_engine.iml" filepath="$PROJECT_DIR$/svm_engine/svm_engine.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <kr.co.greencomm.ibody24.coach.widget.FillVideoView
+            android:id="@+id/video_VideoView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clickable="true"
+            android:fitsSystemWindows="true"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            >
+
+            <TextView
+                android:id="@+id/video_txt_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1234"
+                android:background="#333333"
+                android:textSize="18sp"
+                android:textColor="#FFFFFF"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:gravity="center_horizontal"
+                />
+
+        </LinearLayout>
+
+        <!-- 세트 정보 -->
+        <include layout="@layout/video_setinfo" />
+
+        <!-- 하단 및 우측의 실시간 운동 정보 -->
+        <LinearLayout
+            android:id="@+id/video_info_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:orientation="vertical"
+            android:visibility="visible">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_gravity="end"
+                android:layout_marginEnd="20dp"
+                android:layout_marginBottom="0dp"
+                android:gravity="right"
+                >
+
+                <GridLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:columnCount="3"
+                    android:rowCount="4"
+                    >
+
+                    <TextView
+                        android:id="@+id/video_txt_acc_warning"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="12345"
+                        android:padding="3dp"
+                        android:layout_gravity="center_vertical|start"
+                        android:background="#FFFFFF"
+                        android:textColor="#C30D23"
+                        android:layout_column="0"
+                        android:layout_row="2"
+                        android:layout_marginStart="10dp"
+                        />
+
+                    <TextView
+                        android:id="@+id/video_txt_pts"
+                        android:layout_width="70dp"
+                        android:layout_height="20dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_column="1"
+                        android:layout_row="0"
+                        android:textColor="#FFFFFF"
+                        android:gravity="center"
+                        android:background="@drawable/video_info_background"
+                        />
+
+                    <TextView
+                        android:id="@+id/video_txt_cal"
+                        android:layout_width="70dp"
+                        android:layout_height="20dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_column="1"
+                        android:layout_row="1"
+                        android:textColor="#FFFFFF"
+                        android:gravity="center"
+                        android:background="@drawable/video_info_background"
+                        />
+
+                    <TextView
+                        android:id="@+id/video_txt_heart"
+                        android:layout_width="70dp"
+                        android:layout_height="20dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_column="1"
+                        android:layout_row="2"
+                        android:textColor="#FFFFFF"
+                        android:gravity="center"
+                        android:background="@drawable/video_info_background"
+                        />
+
+                    <TextView
+                        android:id="@+id/video_txt_cnt"
+                        android:layout_width="70dp"
+                        android:layout_height="20dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_column="1"
+                        android:layout_row="3"
+                        android:textColor="#FFFFFF"
+                        android:gravity="center"
+                        android:background="@drawable/video_info_background"
+                        />
+
+                    <TextView
+                        android:layout_width="50dp"
+                        android:layout_height="20dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginStart="5dp"
+                        android:layout_column="2"
+                        android:layout_row="0"
+                        android:text="Pts"
+                        android:textColor="#FFFFFF"
+                        android:gravity="center"
+                        android:background="@drawable/video_info_background"
+                        />
+
+                    <TextView
+                        android:layout_width="50dp"
+                        android:layout_height="20dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginStart="5dp"
+                        android:layout_column="2"
+                        android:layout_row="1"
+                        android:text="kcal"
+                        android:textColor="#FFFFFF"
+                        android:gravity="center"
+                        android:background="@drawable/video_info_background"
+                        />
+
+                    <TextView
+                        android:layout_width="50dp"
+                        android:layout_height="20dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginStart="5dp"
+                        android:layout_column="2"
+                        android:layout_row="2"
+                        android:text="%"
+                        android:textColor="#FFFFFF"
+                        android:gravity="center"
+                        android:background="@drawable/video_info_background"
+                        />
+
+                    <TextView
+                        android:layout_width="50dp"
+                        android:layout_height="20dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginStart="5dp"
+                        android:layout_column="2"
+                        android:layout_row="3"
+                        android:text="@string/count"
+                        android:textColor="#FFFFFF"
+                        android:gravity="center"
+                        android:background="@drawable/video_info_background"
+                        />
+
+                </GridLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginBottom="5dp"
+                    android:orientation="horizontal">
+
+                    <!--
+                    android:layout_width="404px"
+                    android:layout_height="340px"
+                    -->
+
+                    <TextView
+                        android:id="@+id/video_txt_acc"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="12345"
+                        android:padding="3dp"
+                        android:layout_gravity="center_vertical|right"
+                        android:background="#333333"
+                        android:textSize="18sp"
+                        android:textColor="#FFFFFF"
+                        />
+
+                    <ImageView
+                        android:id="@+id/video_bar_graph"
+                        android:layout_width="100px"
+                        android:layout_height="300px"
+                        android:layout_marginStart="20dp"
+                        android:src="@drawable/video_precision_00"
+                        android:layout_gravity="end"
+                        android:orientation="horizontal"
+                        />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/video_txt_info"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="양손을 허리에 둔 채 다리를 대각선으로 최대한 옆으로 내밀면서 무릎을 구부려주세요"
+                android:background="#333333"
+                android:textSize="18sp"
+                android:textColor="#FFFFFF"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:gravity="center_horizontal"
+                />
+
+        </LinearLayout>
+
+        <ProgressBar
+            android:id="@+id/video_ProgressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            />
+
+    </FrameLayout>
+
+</LinearLayout>

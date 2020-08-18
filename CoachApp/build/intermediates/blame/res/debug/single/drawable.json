@@ -1,0 +1,286 @@
+[
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/button_chart_002.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/button_chart_002.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/round_rect.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/round_rect.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/button_list.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/button_list.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/button_integrated.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/button_integrated.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/coach_basic_icon_04.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/coach_basic_icon_04.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/button_chart_001.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/button_chart_001.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/coachplus_selectdevice_icon_change_01.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/coachplus_selectdevice_icon_change_01.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/button_bt_connect_change.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/button_bt_connect_change.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/coachplus_main_basic_icon_change.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/coachplus_main_basic_icon_change.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/main_menu_divider.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/main_menu_divider.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/item_setting_menu_back.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/item_setting_menu_back.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/video_info_background.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/video_info_background.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/trainer_program_background.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/trainer_program_background.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/main_menu_coach.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/main_menu_coach.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/coach_basic_icon_03.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/coach_basic_icon_03.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/main_menu_home.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/main_menu_home.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/coach_basic_icon_01.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/coach_basic_icon_01.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/list_device_selector.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/list_device_selector.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/trainer_003.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/trainer_003.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/trainer_001.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/trainer_001.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/coach_basic_icon_02.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/coach_basic_icon_02.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/main_menu_chart.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/main_menu_chart.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/main_menu_setting.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/main_menu_setting.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/button_activity_question_icon_change.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/button_activity_question_icon_change.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/trainer_002.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/trainer_002.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/coachplus_main_theme_icon_change.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/coachplus_main_theme_icon_change.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/design_ic_visibility.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/coachplus_main_icon_02_change.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/coachplus_main_icon_02_change.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/widget_weight_border.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/widget_weight_border.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/coachplus_selectdevice_icon_change_02.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/coachplus_selectdevice_icon_change_02.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/round_rect_orange.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/round_rect_orange.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/coachplus_main_icon_01_change.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/coachplus_main_icon_01_change.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/back_circle.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/back_circle.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/button_coachplus_c_change.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/src/main/res/drawable/button_coachplus_c_change.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/BLOOD/Desktop/FitnessSVM/Project/CoachApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_indicator_material.xml"
+    }
+]

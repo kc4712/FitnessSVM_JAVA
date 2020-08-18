@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#DCDCDD"
+                />
+
+            <Button
+                android:id="@+id/setting_glossary"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/scroll_child_height"
+                android:text="@string/setting_menu1"
+                android:textSize="16dp"
+                android:background="@drawable/linear_sel_back"
+                android:gravity="start|center_vertical"
+                android:paddingStart="20dp"
+                android:paddingEnd="20dp"
+                android:textAllCaps="false"
+                />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="0.25dp"
+                android:background="#DCDCDD"
+                />
+
+            <Button
+                android:id="@+id/setting_manual"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/scroll_child_height"
+                android:text="@string/setting_menu2"
+                android:textSize="16dp"
+                android:background="@drawable/linear_sel_back"
+                android:gravity="start|center_vertical"
+                android:paddingStart="20dp"
+                android:paddingEnd="20dp"
+                android:textAllCaps="false"
+                />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="0.25dp"
+                android:background="#DCDCDD"
+                />
+
+            <Button
+                android:id="@+id/setting_profile"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/scroll_child_height"
+                android:text="@string/setting_profile"
+                android:textSize="16dp"
+                android:background="@drawable/linear_sel_back"
+                android:gravity="start|center_vertical"
+                android:paddingStart="20dp"
+                android:paddingEnd="20dp"
+                />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="0.25dp"
+                android:background="#DCDCDD"
+                />
+
+            <Button
+                android:id="@+id/setting_notice"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/scroll_child_height"
+                android:text="@string/setting_notice"
+                android:textSize="16dp"
+                android:background="@drawable/linear_sel_back"
+                android:gravity="start|center_vertical"
+                android:paddingStart="20dp"
+                android:paddingEnd="20dp"
+                />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="0.25dp"
+                android:background="#DCDCDD"
+                />
+
+            <Button
+                android:id="@+id/setting_weight"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/scroll_child_height"
+                android:text="@string/setting_weight"
+                android:textSize="16dp"
+                android:background="@drawable/linear_sel_back"
+                android:gravity="start|center_vertical"
+                android:paddingStart="20dp"
+                android:paddingEnd="20dp"
+                />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="0.25dp"
+                android:background="#DCDCDD"
+                />
+
+            <Button
+                android:id="@+id/setting_device_manager"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/scroll_child_height"
+                android:text="@string/setting_device_manager"
+                android:textSize="16dp"
+                android:background="@drawable/linear_sel_back"
+                android:gravity="start|center_vertical"
+                android:paddingStart="20dp"
+                android:paddingEnd="20dp"
+                />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="0.25dp"
+                android:background="#DCDCDD"
+                />
+
+            <Button
+                android:id="@+id/setting_register_device"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/scroll_child_height"
+                android:text="@string/setting_edit_device"
+                android:textSize="16dp"
+                android:background="@drawable/linear_sel_back"
+                android:gravity="start|center_vertical"
+                android:paddingStart="20dp"
+                android:paddingEnd="20dp"
+                />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="0.25dp"
+                android:background="#DCDCDD"
+                />
+
+            <Button
+                android:id="@+id/setting_logout"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/scroll_child_height"
+                android:text="@string/setting_logout"
+                android:textSize="16dp"
+                android:background="@drawable/linear_sel_back"
+                android:gravity="start|center_vertical"
+                android:paddingStart="20dp"
+                android:paddingEnd="20dp"
+                />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="0.25dp"
+                android:background="#DCDCDD"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

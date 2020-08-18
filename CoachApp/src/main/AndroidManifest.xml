@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="kr.co.greencomm.ibody24.coach">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="kr.co.greencomm.ibody24.permission.READ_PROVIDER" />
+    <uses-permission android:name="kr.co.greencomm.ibody24.permission.WRITE_PROVIDER" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/appicon"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.ActivityIntro"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- 회원 가입 / 로그인 / 장치 설정 -->
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.ActivityStart"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.register.ActivityRegisterMember"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.register.ActivityRegisterComplete"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.register.ActivityLogin"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.register.ActivitySelectDevice"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.register.ActivityConnectionFailed"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.register.ActivitySettingProfile"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.register.ActivitySettingWeight"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.register.ActivityProductSelect"
+            android:screenOrientation="portrait" />
+
+        <!-- 메인 화면 -->
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.ActivityMain"
+            android:screenOrientation="portrait" />
+
+        <!-- 탭 (홈) -->
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.tab.ActivityTabHome"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.tab.ActivityTabMycoach"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.ActivityMycoach"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.ActivityVideo"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.ActivityCoachBasic"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.ActivityCourse"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.ActivityFitnessProgram"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.ActivityTrainer"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.ActivityTrainerProgram"
+        android:screenOrientation="portrait" />
+
+        <!-- 탭 (홈 coach) -->
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.coach.ActivityHome"
+            android:screenOrientation="portrait" />
+
+        <!-- 탭 (홈 fitness) -->
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.fitness.ActivityHomeFitness"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.fitness.ActivityActList"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.fitness.ActivityActMeasure"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.fitness.ActivityActResult"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.fitness.ActivitySleep"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.fitness.ActivityStepCount"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.fitness.ActivityStress"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.fitness.ActivityToday"
+            android:screenOrientation="portrait" />
+
+        <!-- 탭 (설정) -->
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.ActivitySetting"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.ActivityRegisterDevice"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.ActivityDeviceManager"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.ActivityInformation"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.ActivityDeviceEdit"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.tab.ActivityTabSetting"
+            android:screenOrientation="portrait" />
+
+        <!-- 탭 (챠트) -->
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.tab.ActivityTabChart"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.ActivityChartMain"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.ActivityChartWeek"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="kr.co.greencomm.ibody24.coach.activity.ActivityChartYear"
+            android:screenOrientation="portrait" />
+
+    </application>
+
+</manifest>

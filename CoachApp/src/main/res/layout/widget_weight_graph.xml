@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/widget_weight_border"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="bottom|center_horizontal"
+            android:layout_marginStart="6dp"
+            android:layout_marginEnd="6dp">
+
+            <Space
+                android:layout_width="0dp"
+                android:layout_weight="7"
+                android:layout_height="10dp" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="20"
+                android:layout_height="wrap_content"
+                android:text="@string/BMI_below"
+                android:textColor="#575757"
+                android:gravity="center_horizontal"
+                android:textSize="12dp" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_weight="14"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center_horizontal">
+
+                <TextView
+                    android:id="@+id/minText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="12kg"
+                    android:textSize="12dp"
+                    android:textColor="#3E3E3E" />
+
+                <ImageView
+                    android:layout_width="1dp"
+                    android:layout_height="16dp"
+                    android:background="#929292" />
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="20"
+                android:layout_height="wrap_content"
+                android:text="@string/BMI_standard"
+                android:textSize="12dp"
+                android:gravity="center_horizontal"
+                android:textColor="#575757" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_weight="14"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center_horizontal">
+
+                <TextView
+                    android:id="@+id/maxText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="34kg"
+                    android:textSize="12dp"
+                    android:textColor="#3E3E3E" />
+
+                <ImageView
+                    android:layout_width="1dp"
+                    android:layout_height="16dp"
+                    android:background="#929292" />
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="20"
+                android:layout_height="wrap_content"
+                android:text="@string/BMI_above"
+                android:textSize="12dp"
+                android:gravity="center_horizontal"
+                android:textColor="#575757" />
+
+            <Space
+                android:layout_width="0dp"
+                android:layout_weight="7"
+                android:layout_height="10dp" />
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/backImage"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/widget_weight_back" />
+
+            <ImageView
+                android:id="@+id/graphImage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/widget_weight_red" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

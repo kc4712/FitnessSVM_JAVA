@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:background="#FFFFFF"
+    >
+
+    <TextView
+        android:id="@+id/chartweek_txt_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="12345"
+        android:textSize="20dp"
+        />
+
+    <Button
+        android:id="@+id/chartweek_btn_year"
+        android:layout_width="60dp"
+        android:layout_height="40dp"
+        android:text="Year"
+        android:textColor="#000000"
+        android:padding="4dp"
+        android:textSize="14dp"
+        android:background="@drawable/round_rect"
+        android:layout_marginEnd="10dp"
+        android:layout_gravity="right"
+        />
+
+    <com.github.mikephil.charting.charts.BarChart
+        android:id="@+id/chartweek_bar_chart"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="6dp"
+        android:layout_weight="1"
+        />
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="15dp"
+        android:text="COMMENT"
+        android:gravity="center"
+        android:textSize="18dp"
+        android:background="@drawable/round_rect_orange"
+        android:textColor="#FFFFFF"
+        />
+
+    <TextView
+        android:id="@+id/chartweek_txt_comment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="15dp"
+        android:padding="5dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="#F7F7F7"
+        android:textSize="12sp"
+        android:text="1234567"
+        android:gravity="center"
+        />
+
+</LinearLayout>

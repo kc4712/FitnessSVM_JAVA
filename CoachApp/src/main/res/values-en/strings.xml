@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--메인화면-->
+    <string name="main_basic">Basic\nExercise</string>
+    <string name="main_theme">Advanced\nExercise</string>
+    <!--메인화면-->
+
+    <!--수면측정-->
+    <string name="seep_minute">Mins</string>
+    <string name="seep_Times">Times</string>
+    <!--수면측정-->
+
+    <!--알림-->
+    <string name="call">Call\nnotification</string>
+    <string name="messages">Messages\nnotification</string>
+    <!--알림-->
+
+
+    <string name="app_name">iBODY24</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="action_settings">Settings</string>
+    <string name="chart_title_accuracy">Accuracy</string>
+    <string name="chart_title_maximum_heartrate">Heart rate</string>
+    <string name="close">Close</string>
+    <string name="coach_basic_title_001">Warm up</string>
+    <string name="coach_basic_title_002">15 mins wholebody exercise</string>
+    <string name="coach_basic_title_003">Matress exercise</string>
+    <string name="day">Day</string>
+    <string name="enough">Enough</string>
+    <string name="yes">Yes</string>
+    <string name="year">Year</string>
+    <string name="watch_exercise">View</string>
+    <string name="week">&#160;week</string>
+    <string name="trainer_title_1">Trainer</string>
+    <string name="trainer_spec_1">Pilates</string>
+    <string name="trainer_name_1">J.Y.LEE</string>
+    <string name="trainer_name_2">D.H.HONG</string>
+    <string name="trainer_name_3"> D.Y.KWON</string>
+    <string name="trainer_spec_3">Yoga, Weight Training</string>
+    <string name="trainer_spec_2">Weight Training</string>
+    <string name="trainer_title_3">Team Eagleship</string>
+    <string name="total_point">Total point </string>
+    <string name="thisset">Pts of this session</string>
+    <string name="target_weight">Target weight</string>
+    <string name="start_app">Start</string>
+    <string name="setting_menu7">Log out</string>
+    <string name="setting_menu4">Events/Announcement</string>
+    <string name="setting_menu5">Set average weight</string>
+    <string name="setting_menu3">Edit your profile</string>
+    <string name="select_gender">Choose Gender</string>
+    <string name="program_002_001">Total Body Training1</string>
+    <string name="program_002_002">Total Body Training2</string>
+    <string name="pointis">Point</string>
+    <string name="point_title_small">Pts</string>
+    <string name="BMI_WHO"><![CDATA[<font color="#777777">On the official method of WHO BMI, Your average weight with using a profile of you height is</font> <font color="#45c383">%1$d ~ %2$d kg</font> <font color="#777777"></font>]]></string>
+    <string name="BMI_above">Above average</string>
+    <string name="BMI_below">Below the mark</string>
+    <string name="BMI_standard">Standard</string>
+    <string name="active_exercise_comment">This exercise is the best workout to do energetic movement to raise the heartbeats and also the endurance and muscular strength. <br />It is best for the reducing fat  as soon as possible.</string>
+    <string name="agree_term">Click the agreement button</string>
+    <string name="caution_diet_period">The period of the workout time  has to be bigger than "0"</string>
+    <string name="caution_weight">Put your target weight ,lower than your weight</string>
+    <string name="chart_title_exercise_number">Number of exercise</string>
+    <string name="coach_basic_title_004">Hard exercise </string>
+    <string name="comment_accuracy">This is the Accuracy of the posture movement. If you do the exercise correctly , it will show you that you are doing right posture and had burn more calorie.</string>
+    <string name="comment_consume_calorie">It shows the comparison between today\'s calories and target calories. If you go over the target calories , It will consider that you have done perfectly and correctly.</string>
+    <string name="comment_exercise_number">It shows how many time you have done it perfectly with using percentages. Increase the number of exercise will power up the exercise accuracy and strength.</string>
+    <string name="comment_total_point">The numberical value of averages will shows the points on the graph chart. High point would concluded the users to be high physical movement and healthy.</string>
+    <string name="confirm_back_close">Press the back button again to CLOSE.</string>
+    <string name="confirm_delete_coach">Are you sure you want to delete this video? (once you\'ve deleted the video it wouldn\'t restored again)</string>
+    <string name="confirm_logout">Continue to Logout? </string>
+    <string name="consume_calorie">Kcal</string>
+    <string name="count">Count</string>
+    <string name="day_consume_calorie">Daily calorie consumption</string>
+    <string name="diet_period">Period of exercise</string>
+    <string name="eight_week">8 weeks</string>
+    <string name="email_not_valid">You\'ve entered non-existence email. Please type it again.</string>
+    <string name="enter_email">Enter E-mail</string>
+    <string name="enter_pass">Enter password</string>
+    <string name="enter_pass_confirm">Please type your password again </string>
+    <string name="error_bluetooth">If the  bluetooth is nonpermissive , It will close automatically</string>
+    <string name="error_exists_email"> This  E-mail address is already been registered .</string>
+    <string name="error_not_account">E-mail address and passwords does not exist . Please check it again.</string>
+    <string name="error_program">Unexpected Error</string>
+    <string name="exer1">Neck stretching </string>
+    <string name="exer10">Push -up</string>
+    <string name="exer11">Standing high jump</string>
+    <string name="exer12">Squats</string>
+    <string name="exer13">Running in Space</string>
+    <string name="exer14">Crunches</string>
+    <string name="exer15">Side Kicks</string>
+    <string name="exer16">Side Lunges</string>
+    <string name="exer17">Jumping Jacks</string>
+    <string name="exer18">Abs and back Workout</string>
+    <string name="exer2">Wrist stretch</string>
+    <string name="exer3">Waist and Biceps Stretch</string>
+    <string name="exer4">Side stretching</string>
+    <string name="exer5">Shoulder stretching 1</string>
+    <string name="exer6">Shoulder stretching 2</string>
+    <string name="exer7">Arm circles</string>
+    <string name="exer8">Bending at the Waist </string>
+    <string name="exer9">Wrist and Ankle Circles </string>
+    <string name="female">Female</string>
+    <string name="find_device">Search device</string>
+    <string name="find_id">Search ID/Password</string>
+    <string name="fit">Suitable</string>
+    <string name="fitness">Fitness</string>
+    <string name="four_week">4 weeks</string>
+    <string name="height_input">Please type your Height</string>
+    <string name="input_birth">Please type your birth</string>
+    <string name="input_height">Please type your Height</string>
+    <string name="input_gender">Please choose your gender</string>
+    <string name="input_name">Please type your Name</string>
+    <string name="joinus">Join us </string>
+    <string name="login">Login</string>
+    <string name="login_check_agreement">Agreement of utilization</string>
+    <string name="login_confirm_hint">Retype the password </string>
+    <string name="login_confirm_title">Type it again</string>
+    <string name="login_email_hint">Type an E-mail address</string>
+    <string name="login_email_title">E-mail</string>
+    <string name="login_password_hint">No less than 16words</string>
+    <string name="login_password_title">Password</string>
+    <string name="login_read_agreement">Read agreement</string>
+    <string name="logo_text">The first wearable to be your personal trainer</string>
+    <string name="male">Male</string>
+    <string name="mat_exercise_comment">It is the Basic balance-exercise to stimulate part of your core. Try to follow the trainer and will have positive results.</string>
+    <string name="maximum_heartrate">Heart rate</string>
+    <string name="menu_chart">Chart</string>
+    <string name="menu_coach">My coach</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_setting">Setting</string>
+    <string name="minute">Min</string>
+    <string name="month">Months</string>
+    <string name="network_error">Not connected with the network.</string>
+    <string name="no">No</string>
+    <string name="not_connect_band">Not connected with the wearable device.</string>
+    <string name="not_prepare_video">Still loading for the video to play.</string>
+    <string name="not_prepare_wifi">The network and Wifi are not connected . Try It again.</string>
+    <string name="now_weight">Weight</string>
+    <string name="ok">Ok</string>
+    <string name="over_work">Over work</string>
+    <string name="pass_not_match">It is different with the first password please check it again .</string>
+    <string name="pass_not_valid">Please type the password no less than 8~16 words with combination of letters and numbers.</string>
+    <string name="personal_information">The privacy policy </string>
+    <string name="please_all_information">Type all of your information.</string>
+    <string name="prepare_exercise_comment">It is the recommendation pre-exercise of iBODY24. Pre- exercise is really important, must do more than 5 mins before the proper exercise.\nAlso it pre vent from injury.\nClick the video clip, it will start pre- exercise.</string>
+    <string name="program_001_001">Making abdominal muscles</string>
+    <string name="program_001_002">Making perfect backside</string>
+    <string name="program_003_001">After Birth Exercise 1</string>
+    <string name="program_003_002">After Birth Exercise 2</string>
+    <string name="program_comment_001_001">The program of Making abdominal muscles from LEE.J.Y trainer is PRO- level exercise that not only the abdominal muscles but also all of the body of core can be develop at the same time. All of people can follow the this program , the male can get six-pack , and the female can get perfectly shape abdominal muscles. the most important part of this exercise is posture so keep the eye on the trainer. </string>
+    <string name="program_comment_001_002">The program of  Hip-up workout from LEE.J.Y trainer is PRO-Level exercise, which are very beneficial for the development of Gluteus and Backbone erector. Hip-up workout is not only good for the visual part but also helps to balance whole body structure. Please keep try to follow the coach to make sure not to break the body-balance.</string>
+    <string name="program_comment_002_001">The Total Body Training 1 is basic exercise to use whole body for amateur, all of people can make muscle or reduce the weight. Please follow the trainer.</string>
+    <string name="program_comment_002_002">The Total Body Training 2 is PRO- level exercise and its much harder than TBT1. TBT2 helps to reduce the fat of Thigh, Abdomen and can also increase the muscle. Please follow the trainer.</string>
+    <string name="recommend_calorie_comment"><font color="#777777">The daily consumption average is</font><font color="#45c383">%1$d kcal</font>.</string>
+    <string name="register_complete">You\'ve joined the iBODY24.</string>
+    <string name="select_device_title">Click the iBODY24 %s device.</string>
+    <string name="setting">Setting</string>
+    <string name="setting_menu1">iBODY24 %s (Word dictionary )</string>
+    <string name="setting_menu2">iBODY24 %s (Instruction)</string>
+    <string name="setting_menu6">Multi-Play</string>
+    <string name="speciality_field">Area of expertise </string>
+    <string name="register_user">Joined</string>
+    <string name="success_connect">Connection completed </string>
+    <string name="support_bluetooth_title">Connect with iBODY24.</string>
+    <string name="support_ibody">It is free exercise session from iBODY24.\nBefore the proper exercise\nplease do Pre-exercise for 5mins.</string>
+    <string name="support_ibody2">It is the PR0-exercise program from iBODY24,\nanywhere, anyplace, anytime\nyou can follow the personal trainers.</string>
+    <string name="support_msg1">Check the on sign signal before starting the iBODY24.</string>
+    <string name="support_msg2">Activate the bluetooth of Smartphone.</string>
+    <string name="support_msg3">Press the start button with putting iBODY24 device and Smartphone near by you.</string>
+    <string name="support_msg4">"Check the similar device near by you. "</string>
+    <string name="support_title">Check blow chart to find the iBODY24</string>
+    <string name="terms_of_use">Agreement of utilization (iBODY24)</string>
+    <string name="trainer_comment_1">Pilates is not only give stretching and muscle making but also gives a perfect body with having non-use muscle to power up, so this can help all of people to fix the right posture and straighten the back-bone and pelvis. Let us make perfect body shape with me doing fun pilates and become beautiful body.</string>
+    <string name="trainer_comment_2">Hello, this is KOREHONG, HONG.DO HAN trainer. The most important part of exercise is the right posture, if you do not follow the rule of posture you may get injury. TBT program is for all of people even who are aged 100 to get healthy.Also this program can improve the function, strength the duration, and focused on the diet. why don\'t we throw all of the exercise you\'ve known, just follow me with using scientific method of basic exercise. </string>
+    <string name="trainer_comment_3">Hi, this is perfect body shape! Trainer KWON DO YEA. Most of the women has worries of how to do the exercise after giving a birth. What you have to do is try to have enough resting, and balanced eating habit!! Also if you add the after birth exercise you will able to double up those. With after birth exercise, you will going to take out the postpartum depression, bodily waste also can have perfect and nice body shape for the mothers. Then let us do the after birth exercise with me with using iBODY24.</string>
+    <string name="weight_setting">Set weight</string>
+    <string name="whole_body_comment">It is the session of basic exercise for whole by with using iBODY24. It has 10 different movement with 2 sets. Do not try to get over your physical ability.</string>
+    <string name="trainer_career_1"> - Korea National Sport University, Social physical education department ,physical education of a degree. \n- Line Dance Director Certification  \n- University of Nevada D.K Body Blancing Pilates \n- (Matwork)international Certification  \n- University of Nevada, D.K C149 Balancing pilates  \n- (Equipment) international Certification \n- UK Imperial estate dance ISTD C155 Sports international Director  \n- Balancing pilates Certification instructor  \n- 2015 4th place for the muscle mania \n- 2015 Nava WFF Sports model top 10 \n- 2015 Nave WFF bikini top 10 </string>
+    <string name="trainer_career_2"> \n- Living sport Leader (Class 3)  \n- Korea talented  education - exercise prescript(graudated) \n- KINESY-THERAPY SPECIALIST LEVEL 1  \n- TEMA AVENGERS ACADEMY Personal trainer \n- Customer instructor (Class 1)/ Recreation certificate (Class 1) \n- Pre)HANBANG Tv -10 minds of video clip \n- Pre)Gyunnam athletic association (condition trainer for Park jung su player) \n- Now)LG TWINS baseball player personal physical trainer \n- Now)Body channel Supervisor in SANGDONG  \n- 2013 Won the prize on 78 kg at Anyang -si body building 75kg   \n- 2014 WFF UNIVERSE FITNESS(2014) \n- 2015 Gyeonggi-do athletic competition -80kg </string>
+    <string name="trainer_career_3">- 2013 World Muscle mania won the prize  \n- Universal fitness model Grand prize  \n- 2013 World Muscle mania won the prize on the bikini part  \n- 2013 bbmc chose to the one of the best players  \n- 2014 monster gym all-star best class  \n- 2015 ismc muscle body korea won 1st on bikini part \n- 2015 23rd korea culture celebration won the fitness model part  \n- 2015 Asia model corporation, selected to be chairman of fitness model \n- 2015 new korea-wave won the fitness model part. \n- 2015 Gyeonggi-do governor  certification of thanks   </string>
+
+    <string name="program_comment_003_001">
+        <![CDATA[
+        This exercise is for the women who has gave a afterbirth 1~4 weeks.
+        The most important part of this exercise is to start at the slow time.
+        Step.1 Yoga and weight training (it is exercise that balances the whole body structure) it helps to make a corrective pelvic osteotomy and strength the abdominal.
+        Before starting the exercise, needs to give enough stretching, without doing too much exercise. Also needs to think to learn step by step.
+        Mother who has done cesarean recommended to start exercise after the 2 months. Also with the mother who has give a normal birth need to take a enough resting before starting this exercise.
+        iBODY24 is the exercise which has been certificated from the obstetrics gynecology.
+        ]]>
+    </string>
+    <string name="program_comment_003_002">
+        <![CDATA[
+        This exercise is for the mother who has gave an afterbirth 5~8 weeks.
+        It is ungraded version of Step.1; this exercise is more focus on the making whole body muscle with also focusing on the balance.
+        Especially, its very good for the backbone erector.
+        Before starting the exercise, please do enough stretching to get beautiful body
+        other who has done cesarean recommended to start exercise after the 3~4 months. Also with the mother who has give a normal birth need to take a enough resting before starting this exercise.
+        iBODY24 is the exercise which has been certificated from the obstetrics gynecology.
+        ]]>
+    </string>
+    <string name="chart_title_consume_calorie">Calorie consumption</string>
+    <string name="Step_0_2000_1">Good morning, we can do a 10,000 steps right?</string>
+    <string name="Step_0_2000_2">Starting a fresh day by walking!</string>
+    <string name="Step_0_2000_3">Did you know walking can prevent from the adult disease, depression, Stress? It\'s fantastic day let us do a walking!</string>
+    <string name="Step_0_2000_4">If you walk 10,000 steps a day, you will get healthier body.</string>
+    <string name="Step_2001_3000_1">You can able to fulfill the minimum of 2000~3000 steps by walking in daily time. Our plan for today is 10,000 steps. Why don’t you walk about 30mins today’s night time?</string>
+    <string name="Step_2001_3000_2">Starting is really important. You’ve walked a few. Let’s focus to fulfill 10,000 steps.</string>
+    <string name="Step_3001_5000_1">If this message has appeared at night time, you should do the exercise right now.  But if not, you’ve done it well today!</string>
+    <string name="Step_5001_7000_1">Half way to go, why don’t you do a walking exercise? You can fulfill the 5000 steps only by 30mins in minimum.</string>
+    <string name="Step_7001_8000_1">3000 steps left to go. Why don’t you walk from the bus station or subway station to your house? Tomorrow’s morning will be more fresh than today.</string>
+    <string name="Step_8001_9000_1">Why don’t you finish your day by doing walking exercise? You can fulfill the 2000 steps only by 10mins in minimum.</string>
+    <string name="Step_9001_9999_1">ou can fulfill the 1000 steps only by 5mins in minimum.</string>
+    <string name="Step_9001_9999_2">Almost to complete 10,000 steps.</string>
+    <string name="Step_9001_9999_3">You’ve almost finish your daily aiming point.</string>
+    <string name="Step_Extra_1">Will you start on speed walking? Speed walking can consume 3.5 kcal per mins and will make your lung’s function healthy and muscle to be stronger.</string>
+    <string name="Step_Extra_2">Ever heard of rash waling? It’s literally rash walking can consume your energy in 4.5 kcal per mins. Also helps your aerobic exercise ability prevent from the adult disease and cure your body.</string>
+    <string name="Step_Extra_3">Let us do the power walking. This walking can help to consume energy in 7.5 kcal per mins and also very effective to reduce the weight.</string>
+    <string name="Step_Extra_4">Walking exercise can reduce your inner-fat to help to refine diabetes with preventing from the adult disease and cure try to fulfill your left over walking to get healthy body.</string>
+    <string name="accumulate_calorie">Accumulate calories</string>
+    <string name="achievement">Achievement</string>
+    <string name="avg_workout_intensity">The average workout intensity</string>
+    <string name="bad">Bad</string>
+    <string name="complete_step">Completed</string>
+    <string name="awaken">Waken</string>
+    <string name="connected_my_device">onnecting to the device</string>
+    <string name="battery_voltage">Battery</string>
+    <string name="connecting_device">Connecting.</string>
+    <string name="data_sync">On synchronization.</string>
+    <string name="delete_device">Are you sure delete this device?</string>
+    <string name="device_initial_waiting">On synchronization, please wait.</string>
+    <string name="device_not_connected">Device is not connected.</string>
+    <string name="empty_stress_index">Estimate your stress index</string>
+    <string name="fail_connect_device_confirm">Connection failures have appeared / please do it again in few mins.</string>
+    <string name="fail_connect_device_retry">Connection failures have appeared / please do it again in few mins.</string>
+    <string name="find_account_url">http://www.ibody24.com/en/idfind.asp</string>
+    <string name="good">Good</string>
+    <string name="graph_legend_activity">Act</string>
+    <string name="graph_legend_coach">Coach Act</string>
+    <string name="graph_legend_daily">Daily Act</string>
+    <string name="graph_legend_sleep">Sleep</string>
+    <string name="graph_title_exer_count">Count graph</string>
+    <string name="graph_title_calorie">Calorie graph</string>
+    <string name="graph_title_accuracy">Accuracy graph</string>
+    <string name="graph_title_total">PTS graph</string>
+    <string name="graph_title_heartrate">Heart rate graph</string>
+    <string name="height">Height</string>
+    <string name="input_confirm_password">Confirm password</string>
+    <string name="input_email">Enter e-mail</string>
+    <string name="input_password">Enter your password</string>
+    <string name="input_weight">Enter your weihgt</string>
+    <string name="firm_update">Firmware update</string>
+    <string name="loading_stress_index">Estimating</string>
+    <string name="measure_cancel">Cancel</string>
+    <string name="measure_start">Start</string>
+    <string name="measure_end">Stop</string>
+    <string name="my_level">My level</string>
+    <string name="my_register_device">My device</string>
+    <string name="name">Name</string>
+    <string name="next_year_chart">Year</string>
+    <string name="device_disconnect">Non connected</string>
+    <string name="normal">Normal</string>
+    <string name="notice_firm_update">Your sofrware is up to date.</string>
+    <string name="notice_work_out">Estimate your\nactivity rate</string>
+    <string name="notice_status_sleep">Estimate your\nsleeping status</string>
+    <string name="notice_stress_index">Estimate your\nstress index</string>
+    <string name="program_name_tbt2">Total Body Training 2</string>
+    <string name="program_name_tbt1">Total Body Training 1</string>
+    <string name="raise_disconnect">Connection failure has appeared.</string>
+    <string name="register_device">To register device</string>
+    <string name="remain_step">The left over steps</string>
+    <string name="expected_consumption_of_calories">Expected consumption\nof calories</string>
+    <string name="rolled">Toss and turn</string>
+    <string name="select_device">Please select your device.</string>
+    <string name="setting_device_manager">Device manager</string>
+    <string name="setting_edit_device">Setting the device</string>
+    <string name="setting_logout">Log out</string>
+    <string name="setting_notice">Events/Announcement</string>
+    <string name="setting_profile">Edit your profile</string>
+    <string name="setting_weight">Set target weight</string>
+    <string name="sex">Gender</string>
+    <string name="stability_heartrate">Stability of heart rate</string>
+    <string name="status_sleep">Sleep condition</string>
+    <string name="step_count">Step</string>
+    <string name="stress_index">Stress index</string>
+    <string name="terms">Terms of use</string>
+    <string name="terms_text">Yes, I agree</string>
+    <string name="today_goal">Today’s Goal</string>
+    <string name="very_good">Very good</string>
+    <string name="warnning_download">Additional 3G data charge may apply, recommended to use WIFI, Continue?</string>
+    <string name="warnning_stress_index">(Don’t move your body  while doing the estimation)</string>
+    <string name="web_event">http://ibody24.com/en/03_update.asp</string>
+    <string name="state_not_idle">Doing other estimation.</string>
+    <string name="stress_measure_exit">Estimation is finish.</string>
+    <string name="total_sleep_time">Total sleeping time</string>
+    <string name="weight">Weight</string>
+    <string name="weight_input">Enter your weight</string>
+    <string name="work_out">Work out</string>
+    <string name="work_out_time">Exercise time</string>
+    <string name="workout_consume_calorie">Calorie consumption</string>
+    <string name="workout_graph_danger">Anaerobic/high intensity</string>
+    <string name="workout_graph_high">Target heart rate</string>
+    <string name="workout_graph_mid">Fat burning</string>
+    <string name="workout_graph_low">Warm-up/Cool-down</string>
+    <string name="workout_heartrate">Heart rate</string>
+    <string name="workout_heartrate_warnning">Warning : Be careful if you do the to much exercise it can touches the risky period of heart rate and harm your heart.</string>
+    <string name="workout_max_heartrate">The maxium heart rate</string>
+    <string name="workout_min_heartrate">The lowest heart rate</string>
+    <string name="workout_avg_heartrate">"The average heart rate "</string>
+    <string name="workout_time">"Workout time "</string>
+    <string name="program_name_baby_1">After Birth Exercise 1</string>
+    <string name="program_name_baby_2">After Birth Exercise 2</string>
+    <string name="program_name_abdominal_muscles">Making abdominal muscles</string>
+    <string name="program_name_backside">Making perfect backside</string>
+    <string name="html_15min">exer_15min_en</string>
+    <string name="html_abdominal_muscles">lee_joo_young_abdominal_muscles_en</string>
+    <string name="html_active">active_en</string>
+    <string name="html_baby_1">kwon_do_ye_baby_1_en</string>
+    <string name="html_baby_2">kwon_do_ye_baby_2_en</string>
+    <string name="html_backside">lee_joo_young_backside_en</string>
+    <string name="html_hong_doo_han_profile_name">hong_doo_han_profile_en</string>
+    <string name="html_kwon_do_ye_profile_name">kwon_do_ye_profile_en</string>
+    <string name="html_lee_joo_young_profile_name">lee_joo_young_profile_en</string>
+    <string name="html_mat">mat_en</string>
+    <string name="html_name_glossary">glossary_en</string>
+    <string name="html_name_graph_comment_accuracy">graph_comment_accuracy_en</string>
+    <string name="html_name_graph_comment_calorie">graph_comment_calorie_en</string>
+    <string name="html_name_graph_comment_exer_count">graph_comment_exercount_en</string>
+    <string name="html_name_graph_comment_heartrate">graph_comment_heartrate_en</string>
+    <string name="html_name_graph_comment_total">graph_comment_total_en</string>
+    <string name="html_name_manual">manual_en</string>
+    <string name="html_name_terms">terms_en</string>
+    <string name="html_prepare_exer">prepare_en</string>
+    <string name="html_tbt1">hong_doo_han_tbt1_en</string>
+    <string name="html_tbt2">hong_doo_han_tbt2_en</string>
+    <string name="birthday">Birth</string>
+    <string name="find_account_title">Find e-mail/password</string>
+    <string name="step_format">%d step</string>
+    <string name="danger">Danger</string>
+    <string name="device_charging">Charging</string>
+    <string name="device_connect">To connect my device</string>
+    <string name="permission_contacts_rationale">permissions are needed to demonstrate access.</string>
+    <string name="permision_available_contacts">Permissions have been granted.</string>
+    <string name="permissions_not_granted">Permissions were not granted.</string>
+    <string name="high">Strong</string>
+    <string name="device_connected">Device connected</string>
+    <string name="device_connecting">Connecting to the device</string>
+    <string name="error_permission">Do not allow the necessary permissions will be quit.</string>
+    <string name="few">Few</string>
+    <string name="lack">Lack</string>
+    <string name="low">Weak</string>
+    <string name="mid">Normal</string>
+    <string name="workout_ratio_heartrate">The average/\nhigest heart rate</string>
+    <string name="html_name_glossary_fit">glossary_fit_en</string>
+    <string name="html_name_manual_fit">manual_fit_en</string>
+    <string name="html_name_terms_fit">terms_fit_en</string>
+    <string name="notice_firmup">Firmware update is needed. Are you sure you want to proceed?</string>
+    <string name="error_measure">The estimate failed. The device exactly to wear and estimate again.</string>
+    <string name="start_firm_warnning">To start the firmware update. Not yet saved measurement data will be deleted.</string>
+    <string name="firm_progress">Firmware updating..</string>
+    <string name="success_firmup">Firmware update was successful.</string>
+    <string name="failed_firmup">Firmware update failed. The next connection retry.</string>
+    <string name="html_name_workout_measure">workout_measure_en</string>
+    <string name="comment_maximum_heartrate">It shows on doing exercise maximal heart rate with comparison of the users currently　heart rate. If this value is low quality, the better the cardiopulmonary function improves, reducing the consumption of calories. Also if the value 80 % and more it would appear physical excess.</string>
+    <string name="cancel">CANCEL</string>
+    <string name="exercise_number">Count</string>
+
+</resources>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/coachplus_join_03_mail"
+            />
+
+        <EditText
+            android:id="@+id/register_edit_email"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textColorHint="#B5B5B6"
+            android:drawableTint="#EC6C2C"
+            android:textSize="14dp"
+            android:layout_height="wrap_content"
+            android:hint="@string/input_email"
+            android:layout_marginStart="20dp"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="2"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:paddingStart="20dp"
+    android:paddingEnd="20dp"
+    >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/coachplus_join_04_pw"
+        />
+
+    <EditText
+        android:id="@+id/register_edit_password"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:textColorHint="#B5B5B6"
+        android:drawableTint="#EC6C2C"
+        android:textSize="14dp"
+        android:hint="@string/input_password"
+        android:layout_marginStart="20dp"
+        android:inputType="textPassword"
+
+        />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/coachplus_join_04_pw"
+            />
+
+        <EditText
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:hint="@string/input_confirm_password"
+            android:textColorHint="#B5B5B6"
+            android:drawableTint="#EC6C2C"
+            android:layout_marginStart="20dp"
+            android:inputType="textPassword"
+            android:id="@+id/register_edit_confirm" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:orientation="horizontal"
+        android:gravity="center"
+        >
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingEnd="16dp"
+            android:checked="false"
+            android:id="@+id/register_check_agreement" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/terms"
+            android:textSize="16dp"
+            android:textColor="@color/button_text_color"
+            android:textStyle="bold"
+            android:background="@null"
+            android:id="@+id/register_btn_read_agreement" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/terms_text"
+            android:textSize="16dp"
+            android:layout_marginStart="8dp"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+
+        <Button
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:background="@drawable/button_integrated"
+        android:text="@string/register_user"
+        style="@style/grcomm_button_large"
+            android:id="@+id/register_btn_register_user" />
+
+    </LinearLayout>
+
+</LinearLayout>

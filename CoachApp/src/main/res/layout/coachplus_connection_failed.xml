@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="#FFFFFF"
+	>
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_weight="3"
+		android:layout_height="wrap_content"
+		android:orientation="vertical"
+		android:gravity="center"
+		>
+
+		<ImageView
+		android:layout_marginTop="162px"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:src="@drawable/icon_notice"
+		/>
+
+		<TextView
+			android:layout_width="match_parent"
+			android:layout_height="280px"
+			android:layout_marginTop="100px"
+			android:text="@string/support_title"
+			android:gravity="center_horizontal"
+			android:textSize="18dp"
+			/>
+
+	</LinearLayout>
+
+	<ImageView
+		android:layout_width="match_parent"
+		android:layout_height="1dp"
+		android:background="#A7A9AC"
+		/>
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="60dp"
+		android:orientation="horizontal"
+		android:gravity="center_vertical"
+		android:paddingStart="20dp"
+		android:paddingEnd="20dp"
+		>
+
+		<TextView
+			android:layout_width="24dp"
+			android:layout_height="24dp"
+			android:text="1"
+			android:background="@drawable/back_circle"
+			android:gravity="center"
+			android:textSize="16dp"
+			android:textColor="#FFFFFF"
+			/>
+
+		<TextView
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginStart="20dp"
+			android:text="@string/support_msg1"
+			android:textSize="16dp"
+			/>
+
+	</LinearLayout>
+
+	<ImageView
+		android:layout_width="match_parent"
+		android:layout_height="1dp"
+		android:background="#A7A9AC"
+		/>
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="60dp"
+		android:orientation="horizontal"
+		android:gravity="center_vertical"
+		android:paddingStart="20dp"
+		android:paddingEnd="20dp"
+		>
+
+		<TextView
+			android:layout_width="24dp"
+			android:layout_height="24dp"
+			android:text="2"
+			android:background="@drawable/back_circle"
+			android:gravity="center"
+			android:textSize="16dp"
+			android:textColor="#FFFFFF"
+			/>
+
+		<TextView
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginStart="20dp"
+			android:text="@string/support_msg2"
+			android:textSize="16dp"
+			/>
+
+	</LinearLayout>
+
+	<ImageView
+		android:layout_width="match_parent"
+		android:layout_height="1dp"
+		android:background="#A7A9AC"
+		/>
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="60dp"
+		android:orientation="horizontal"
+		android:gravity="center_vertical"
+		android:paddingStart="20dp"
+		android:paddingEnd="20dp"
+		>
+
+		<TextView
+			android:layout_width="24dp"
+			android:layout_height="24dp"
+			android:text="3"
+			android:background="@drawable/back_circle"
+			android:gravity="center"
+			android:textSize="16dp"
+			android:textColor="#FFFFFF"
+			/>
+
+		<TextView
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginStart="20dp"
+			android:text="@string/support_msg3"
+			android:textSize="16dp"
+			/>
+
+	</LinearLayout>
+
+	<ImageView
+		android:layout_width="match_parent"
+		android:layout_height="1dp"
+		android:background="#A7A9AC"
+		/>
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_weight="3"
+		android:layout_height="60dp"
+		android:background="@android:color/white"
+		android:orientation="horizontal"
+		android:gravity="center|center_vertical|center_horizontal"
+		>
+
+		<Button
+			android:id="@+id/connectionfailed_btn_next"
+			android:layout_width="100dp"
+			android:layout_height="40dp"
+			android:background="@drawable/button_integrated"
+			android:text="Next"
+			style="@style/grcomm_button_large"
+			android:gravity="center"
+			/>
+
+	</LinearLayout>
+
+</LinearLayout>

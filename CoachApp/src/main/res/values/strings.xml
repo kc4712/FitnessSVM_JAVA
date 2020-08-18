@@ -1,0 +1,441 @@
+<resources>
+
+    <!--메인화면-->
+    <string name="main_basic">기초 1:1 PT</string>
+    <string name="main_theme">테마 1:1 PT</string>
+    <!--메인화면-->
+
+    <!--수면측정-->
+    <string name="seep_minute">분</string>
+    <string name="seep_Times">회</string>
+    <!--수면측정-->
+
+    <!--알림-->
+    <string name="call">전화 알림</string>
+    <string name="messages">메시지 알림</string>
+    <!--알림-->
+
+    <string name="app_name">iBODY24</string>
+
+    <string name="permission_contacts_rationale">permissions are needed to demonstrate access.</string>
+    <string name="permision_available_contacts">Permissions have been granted.</string>
+    <string name="permissions_not_granted">Permissions were not granted.</string>
+
+    <string name="ok">확인</string>
+    <string name="cancel">취소</string>
+
+    <string name="register_user">가입완료</string>
+    <string name="register_complete">iBODY24에 가입 되셨습니다.</string>
+
+    <string name="error_bluetooth">블루투스 장치를 허용하지 않아 종료합니다.</string>
+
+    <string name="error_permission">필요한 권한을 허용하지 않아 종료됩니다.</string>
+
+    <string name="network_error">네트워크에 연결되어 있지 않습니다.</string>
+    <string name="agree_term">약관에 동의 해주세요.</string>
+    <string name="enter_email">이메일을 입력 해주세요.</string>
+    <string name="enter_pass">패스워드를 입력 해주세요.</string>
+    <string name="enter_pass_confirm">패스워드 확인을 입력 해주세요.</string>
+    <string name="email_not_valid">잘못된 이메일 입니다. 올바른 이메일로 다시 입력해 주세요.</string>
+    <string name="pass_not_valid">패스워드는 영문 숫자 혼합 8~16자리로 설정 하여야 합니다.</string>
+    <string name="pass_not_match">비밀번호와 비밀번호 확인이 다릅니다.</string>
+
+    <string name="error_program">예상치 못한 오류입니다.</string>
+    <string name="error_exists_email">이미 등록된 이메일 주소입니다.</string>
+    <string name="error_not_account">이메일 주소 또는 비밀번호가 일치하지 않습니다.\n다시 한번 확인하여 주시기 바랍니다.</string>
+
+    <string name="find_id">아이디/비밀번호 찾기</string>
+    <!--<string name="find_pw">비밀번호 찾기</string>-->
+
+    <string name="select_device_title">iBODY24 %s 기기를 선택해주세요.</string>
+    <string name="find_device">+ 기기검색하기</string>
+
+    <string name="support_title">iBODY24를 찾지 못하셨나요?\n아래 항목을 확인하여 주세요.</string>
+    <string name="support_msg1">iBODY24 제품의 전원이 제대로 켜져 있는지\n확인하여 주세요.</string>
+    <string name="support_msg2">스마트폰의 블루투스 기능을 활성화 시켜주세요.</string>
+    <string name="support_msg3">iBODY24 제품을 스마트폰과 가까운 곳에 놓고\n실행하여 주세요.</string>
+
+    <string name="BMI_below">표준이하</string>
+    <string name="BMI_standard">표준</string>
+    <string name="BMI_above">표준이상</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_chart">Chart</string>
+    <string name="menu_coach">My Coach</string>
+    <string name="menu_setting">Setting</string>
+
+    <string name="coach_basic_title_001">준비 운동</string>
+    <string name="coach_basic_title_002">15분 전신 운동</string>
+    <string name="coach_basic_title_003">매트 운동</string>
+    <string name="coach_basic_title_004">액티브 운동</string>
+
+
+    <!--추가사항-->
+    <string name="accuracy">정확도</string>
+    <string name="exercise_number">운동\n횟수</string>
+    <string name="consume_calorie">소모\n칼로리</string>
+    <string name="maximum_heartrate">심박수</string>
+    <string name="total_point">Total Point</string>
+    <string name="support_ibody">iBODY24가 제공하는 무료 운동입니다.\n운동 전 꼭 5분 이상 준비운동을\n실시하여 주시기 바랍니다.</string>
+    <string name="prepare_exercise_comment">iBODY24가 추천하는 준비운동 입니다.\n운동에 있어서 준비운동은 매우 중요합니다.\n반드시 5분 이상 실시하여 주세요.\n준비운동은 부상을 방지 할 수 있습니다.\n각 영상을 클릭하시면 준비운동이 시작됩니다.</string>
+    <string name="support_ibody2">iBODY24가 제공하는 전문 피트니스 운동입니다.\n시간과 장소에 제약 없이 트레이너와\n1대1 영상  트레이닝이 가능합니다.</string>
+    <string name="personal_information">개인정보 취급</string>
+    <string name="weight_setting">몸무게 설정</string>
+    <string name="now_weight">현재 몸무게</string>
+    <string name="target_weight">목표 몸무게</string>
+    <string name="diet_period">감량 기간</string>
+    <string name="week">주</string>
+    <string name="day_consume_calorie">일일 소비칼로리</string>
+    <string name="setting">설정</string>
+    <string name="speciality_field">전문분야</string>
+    <string name="trainer_title_1">트레이너</string>
+    <string name="trainer_title_3">이글쉽팀 레이디즈</string>
+    <string name="watch_exercise">운동 보기</string>
+    <string name="fitness">피트니스</string>
+    <string name="trainer_name_1">이주영</string>
+    <string name="input_name">이름을 입력해 주세요.</string>
+    <string name="input_birth">생년월일을 입력해 주세요.</string>
+    <string name="month">월</string>
+    <string name="input_gender">성별을 입력해 주세요.</string>
+    <string name="input_height">신장을 입력해 주세요.</string>
+    <string name="count">횟수</string>
+    <string name="yes">예</string>
+    <string name="no">아니오</string>
+    <string name="program_001_001">초고속 복근 완성 필라테스</string>
+    <string name="over_work">무리</string>
+    <string name="fit">적당</string>
+    <string name="enough">충분</string>
+    <string name="comment_accuracy">운동 자세에 대한 정확도입니다. 정확도가 높을수록 운동 중 올바른 자세를 취했다고 판단되며, 칼로리 소비량도 늘어난다고 볼 수 있습니다.</string>
+    <string name="comment_exercise_number">얼마만큼 운동 횟수를 성공시켰는지를 %로 나타냅니다. 횟수가 높아질수록 운동 정확도와 체력이 증진되고 있다고 판단합니다.</string>
+    <string name="comment_consume_calorie">목표 소비 칼로리 대비 오늘 소비한 칼로리양을 나타냅니다. 목표 칼로리 수치에 도달하거나 넘어설 경우 체중감량 및 운동 성실도가 좋다고 판단합니다.</string>
+    <string name="comment_total_point">그래프에서 나타내는 각 수치들을 평균으로 점수화하여 나타냅니다. 점수가 높을수록 신체 건강과 운동신경이 좋다고 판단합니다.</string>
+    <string name="whole_body_comment">iBODY24가 제공하는 전신 &lt;font color = "RED"&gt; 초급 &lt;/font&gt; 운동입니다. &lt;br /&gt; 10가지 동작을  2세트 반복합니다. &lt;br /&gt; 다치지 않게 개인 신체능력 범위 내에서 실시하여주세요!</string>
+    <string name="mat_exercise_comment">Core를 자극하는 밸런스 중심의 &lt;font color="RED"&gt;초급&lt;/font&gt; 운동입니다.&lt;br /&gt;운동 실행 시 트레이너와 동일한 속도로 실행하여 주시면 운동효과가 더 상승됩니다!</string>
+    <string name="active_exercise_comment">활동적인 움직임으로 심박수를 상승시키는 지구력 상승과 근력 증가에 좋은 &lt;font color="RED"&gt;고급&lt;/font&gt; 운동입니다.&lt;br /&gt;빠른 지방 연소에 많은 도움이 되며 체중감량에 탁월합니다.</string>
+    <string name="program_comment_001_001">이주영의 복근 운동은 PRO 레벨의 운동으로써, 복근 운동 위주로 전체적인 코어도 같이 발달 시킬 수 있는 프로그램입니다. 남녀 구분 없이 모두 따라 할 수 있어 남성은 Six pack, 여성은 11자 복근을 만들기에 매우 효율적인 프로그램입니다. 정확한 자세가 중요하므로 트레이너의 올바른 자세를 정확히 따라하여 주세요.</string>
+    <string name="program_001_002">완벽 뒤태 만들기 필라테스</string>
+    <string name="program_comment_001_002">이주영의 힙업 운동은 PRO 레벨의 운동으로써, 둔근과 척추 기립근 발달에 매우 좋은 운동입니다. 힙 운동은 시각적인 부분의 향상뿐만 아니라 전체적인 신체 밸런스에 많은 도움을 줍니다. 정확하지 않은 자세로 운동 시 바디 밸런스가 불균형 해질 수 있음으로 정확하게 따라해 주시기 바랍니다.</string>
+    <string name="program_002_001">Total Body Training 1</string>
+    <string name="program_002_002">Total Body Training 2</string>
+    <string name="program_comment_002_001">Total Body Training 1 은 전신을 모두 사용하는 아마추어&#40;&lt;font color="RED"&gt;초급&lt;/font&gt;&#41; 운동으로서, 성별에 상관없이 전체 근육 증가뿐만 아니라 지방 연소에도 많은 도움이 됩니다. 트레이너의 올바른 자세 설명을 정확하게 듣고 따라 하여 주세요!</string>
+    <string name="program_comment_002_002">Total Body Training 2는 PRO&#40;&lt;font color="RED"&gt;고급&lt;/font&gt;&#41; 운동으로서, TBT 1 보다 높은 난이도로 설정 되어 있습니다. 복부 와 허벅지 지방 연소를 도와주며 전신 근육 증가에 좋은 운동입니다. 트레이너의 올바른 자세 설명을 정확하게 듣고 따라 하여 주세요!</string>
+    <string name="trainer_spec_1">필라테스</string>
+    <string name="trainer_spec_2">머슬</string>
+    <string name="trainer_name_2">홍두한</string>
+    <string name="trainer_comment_1">필라테스는 스트레칭과 근력운동이 함께 되어 매끈하고 탄력 있는 몸매를 가꿔줄 뿐만 아니라, 잘 사용하지 않는 속 근육과 몸의 중심인 파워하우스를 단련하여 일상적인 생활에서 잘못된 자세로 삐뚤어진 척추와 골반을 바로잡아줍니다. 저와 함께 필라테스를 Go Go Go! 복부, 엉덩이, 허벅지”의 탄력 있는 몸매 라인! 뒤태 미녀!로 아름답고 당당한 몸매를 만들어 보아요</string>
+    <string name="trainer_career_1">- 한국체육대학교 사회체육대학원 생활체육학과 석사학위 \n- Line Dance Director Certification \n- University of Nevada, D.K Body Balancing pilates \n   (Mat work) international Certification \n- University of Nevada, D.K Body Balancing pilates \n (Equipment) international Certification \n- 영국 황실 무용 ISTD Dance Sports international Director \n- 필라테스 지도자 과정 instructor \n- 다수 연예인 필라테스 지도(소유진 ,김정은, 서인영 등..) \n- 2015 머슬매니아 스포츠 모델 4위 \n- 2015 나바 wff 스포츠 모델 top10 \n- 2015 나바 wff 비키니 top10</string>
+    <string name="trainer_comment_2">안녕하세요 코리홍 홍두한 트레이너입니다. 올바른 운동으로 건강을 얻게 되지만, 잘못된 운동으로 부상을 입게 됩니다. TBT 프로그램은은 100세까지 건강하게 살 수 있는 해결방안입니다. 또한 기능개선과 근력 및 근지구력 향상과 다이어트에 초점을 맞춘 프로그램입니다. 그 동안 잘못된 피트니스 운동에서 벗어나 과학을 기초로 둔 올바른 운동을 하시길 바랍니다.</string>
+    <string name="trainer_career_2">- 생활체육지도자3급 (보디빌딩) \n- 한국인재교육원 운동처방사 과정 교육 수료 \n- KINESY-THERAPY SPECIALIST Level 1 자격 취득 \n- TEAM AVERNGERS ACADAMY 퍼스널 트레이너 \n &#160; 자격 취득\n- 고객 관리 지도자 1급 / 레크레이션 지도자 1급 \n- 전) 한방충전 10minutes 촬영 \n- 전) 경남시체육회 전국체전 박정수 선수 컨디셔닝 트레이너 \n- 현) LG TWINS 채은성 선수 피지컬 트레이너 \n- 현) 바디채널 상동점 Supervisor \n- 2013 안양시 보디빌딩 협회 회장배 -75kg 입상 \n- 2014 WFF UNIVERSE FITNESS 입상 \n- 2015 경기도민체전 -80kg 입상</string>
+    <string name="male">남성</string>
+    <string name="female">여성</string>
+    <string name="please_all_information">모든 정보를 입력하여 주세요</string>
+    <string name="select_gender">성별 선택</string>
+    <string name="height_input">신장 입력</string>
+    <string name="weight_input">몸무게 입력</string>
+    <string name="not_connect_band">밴드와 연결이 되지 않았습니다.</string>
+    <string name="not_prepare_video">운동용 비디오 파일이 준비되지 않았습니다.</string>
+    <string name="not_prepare_wifi">통신망 혹은 Wi-fi가 연결 되어 있지 않습니다. 연결 후 다시 실행하여주시기 바랍니다.</string>
+    <string name="setting_menu1">iBODY24 %s 용어사전</string>
+    <string name="setting_menu2">iBODY24 %s 사용법</string>
+    <string name="setting_menu4">공지사항 및 이벤트</string>
+    <string name="confirm_logout">로그아웃 하시겠습니까?</string>
+    <string name="confirm_back_close">뒤로 버튼을 한번 더 누르시면 종료됩니다</string>
+    <string name="BMI_WHO">&lt;font color="#777777"&gt;WHO BMI 공식에 따르면 당신의 키를 기준으로한  적정 몸무게는&lt;/font&gt; &lt;font color="#45c383"&gt;%1$d ~ %2$d kg&lt;/font&gt; &lt;font color="#777777"&gt;입니다.&lt;/font&gt;</string>
+    <string name="chart_title_accuracy">정확도</string>
+    <string name="chart_title_exercise_number">운동횟수</string>
+    <string name="chart_title_maximum_heartrate">심박수</string>
+    <string name="chart_title_consume_calorie">소모칼로리</string>
+    <string name="caution_diet_period">다이어트 기간은 0보다 커야합니다.</string>
+    <string name="caution_weight">목표 몸무게는 현재 몸무게보다 낮게 설정하여 주세요.</string>
+    <string name="terms_of_use">iBODY24 이용약관</string>
+    <string name="close">닫기</string>
+    <string name="exer1">목 스트레칭</string>
+    <string name="exer2">손목 스트레칭</string>
+    <string name="exer3">팔 뒤로 허리 숙이기</string>
+    <string name="exer4">옆구리 스트레칭</string>
+    <string name="exer5">어깨 스트레칭1</string>
+    <string name="exer6">어깨 스트레칭2</string>
+    <string name="exer7">풍차 돌리기</string>
+    <string name="exer8">허리 숙이기</string>
+    <string name="exer9">손발 털기</string>
+    <string name="exer10">팔 굽혀 펴기</string>
+    <string name="exer11">제자리 높이 뛰기</string>
+    <string name="exer12">스쿼트</string>
+    <string name="exer13">제자리 뛰기</string>
+    <string name="exer14">크런치</string>
+    <string name="exer15">사이드 킥</string>
+    <string name="exer16">사이드 런지</string>
+    <string name="exer17">팔 벌려 뛰기</string>
+    <string name="exer18">등배 운동</string>
+    <string name="recommend_calorie_comment">&lt;font color="#777777"&gt;적절한 일일 칼로리 소모량은&lt;/font&gt;&lt;font color="#45c383&gt;%1$d kcal&lt;font&gt;&lt;font color="#777777"입니다.&lt;/font&gt;</string>
+    <string name="four_week">4주</string>
+    <string name="eight_week">8주</string>
+    <!--까지-->
+
+    <!--160212-->
+    <string name="thisset">이번 셋트 점수는</string>
+    <string name="trainer_name_3">권도예</string>
+    <string name="trainer_spec_3">요가, 웨이트 트레이닝</string>
+    <string name="trainer_comment_3">안녕하세요~ 몸매 도예가 권도예입니다. 출산 후에 많이 달라진 몸매 때문에 걱정과 고민이 많으실 텐데요~ 먼저 충분한 휴식과 균형 잡힌 식사와 함께 몸의 회복을 더욱 빠르게 도와줄 수 있는 가장 좋은 방법은 바로! 출산 후 운동입니다.\n1. 산후우울증도 없애주고\n2. 출산 후에 약해진 근육들을 자극 시켜주며\n3. 몸에 쌓여있는 노폐물들을 제거해주고\n4. 멋진 바디라인을 잡아주는 운동이 출산 후 산모님들의 걱정과 고민을 덜어줄 것입니다. 이제 여러분의 개인 코치가 되어줄 iBODY24와 함께, 집에서 가볍고 손쉽게 따라 할 수 있는 권도예와 함께하는 출산 후 운동!\n지금 바로 시작하세요!</string>
+    <string name="trainer_career_3">- 2013 머슬마니아 세계대회\n &#160;유니버스 피트니스모델 그랑프리\n- 2013 머슬마니아 세계대회 유니버스 미스 비키니 그랑프리\n- 2013 bbmc 선정 올해 최우수 선수상\n- 2014 몬스터짐 올스타 클래식 베스트 쉐이브상 수상\n- 2015 ismc 머슬바디 코리아 미스비키니 1위\n- 여자선수 부분 그랑프리 수상\n- 2015 제23회 대한민국 문화 ,연예대상 시상식\n &#160;피트니스모델 부분 수상\n- 2015 아시아모델 협회 피트니스모델부분 위원장 임명\n- 2015 신한류 문화사업단 피트니스모델 부분 수상\n- 2015 경기도 남경필 도지사 감사패 수상 (여성피트니스)</string>
+
+    <string name="program_003_001">출산 후 운동 Step. 1</string>
+    <string name="program_003_002">출산 후 운동 Step. 2</string>
+
+    <string name="program_comment_003_001">
+        <![CDATA[
+        출산 후 약 1~4주부터 가능한 출산 후 전용 운동입니다.
+        출산 후 몸의 회복 상태에 따라서 천천히 시작하는 것이 중요합니다.
+        출산 후 운동 Step.1은 요가와 웨이트 트레이닝(몸매의 전체적인 균형과 라인을 만들어주는 운동법) 접목한 운동으로서
+        특히 출산 후 틀어진 골반교정과 약해진 복부근육을 발달 시키는데 좋은 운동입니다.<br/><br/>
+
+        운동을 시작하시기 전 충분한 스트레칭을 해주시고
+        무리하게 실행하기 보다는 조금씩 배워간다는 생각으로 실행 하시는 것이 중요합니다.<br /><br />
+
+        <font color=red>*제왕절개 분만을 하신 산모께서는 약 2달뒤부터 실행하시는 것이 좋습니다.
+        또한 자연분만의 경우도 몸의 회복도 여부에 따라서 무리하지 않도록 운동을 하시기 바랍니다.<br />
+        *iBODY24의 출산 후 운동은 산부인과 전문의의 감수를 받은 전용 운동임을 알려드립니다.</font>
+        ]]>
+    </string>
+
+    <string name="program_comment_003_002">
+        <![CDATA[
+        출산 후 약 5~8주부터 가능한 출산 후 전용 운동입니다.
+        Step.1보다는 조금 더 액티브하면 전신 근육 발달 및 밸런스 향상에 중점을 둔 운동입니다.
+        특히 하체 척추기립근 복부 근육 발달에 좋은 운동으로 구성되어 있습니다.
+        완연한 회복기에 접어든 산모께서 아름다운 몸매를 다시 찾는데 효과적인 운동입니다.<br /><br />
+
+        운동을 시작하시기 전 충분한 스트레칭을 해주시고 출산 전의 날씬한 몸매를 되찾으세요!<br /><br />
+
+        <font color=red>*제왕절개 분만을 하신 산모께서는 약 3~4달 뒤부터 실행하시는 것이 좋습니다.
+        또한 자연분만의 경우도 몸의 회복도 여부에 따라서 무리하지 않도록 운동을 하시기 바랍니다.<br />
+        *iBODY24의 출산 후 운동은 산부인과 전문의의 감수를 받은 전용 운동임을 알려드립니다.</font>
+        ]]>
+    </string>
+
+    <string name="pointis">point 입니다.</string>
+
+    <!--테스트중입니다-->
+    <string name="achievement">달성도</string>
+    <string name="accumulate_calorie">누적 칼로리</string>
+    <string name="data_sync">동기화 중입니다</string>
+    <string name="step_count">걸음수</string>
+    <string name="work_out">활동 측정</string>
+    <string name="status_sleep">수면 상태</string>
+    <string name="stress_index">스트레스 지수</string>
+    <string name="notice_work_out">당신의 운동량을\n지금 측정해보세요</string>
+    <string name="notice_status_sleep">당신의 수면상태를\n지금 측정해보세요</string>
+    <string name="notice_stress_index">당신의 스트레스 지수를\n지금 측정해보세요</string>
+    <string name="battery_voltage">배터리 잔여량</string>
+    <string name="device_disconnect">미연결</string>
+    <string name="device_connected">기기 연결됨</string>
+    <string name="device_connecting">기기 연결중</string>
+    <string name="device_connect">내 기기 연결하기</string>
+    <string name="device_charging">충전중</string>
+    <string name="connected_my_device">내 기기 연결하기</string>
+    <string name="firm_update">펌웨어 업데이트</string>
+    <string name="notice_firm_update">현재 최신 버전을\n사용하고 있습니다</string>
+    <string name="select_device">디바이스를 선택해주세요.</string>
+    <string name="total_sleep_time">총 수면 시간</string>
+    <string name="rolled">뒤척임</string>
+    <string name="awaken">깨어남</string>
+    <string name="register_device">기기 등록하기</string>
+    <string name="stability_heartrate">안정 심박수</string>
+    <string name="input_email">이메일 입력</string>
+    <string name="input_password">비밀번호 입력</string>
+    <string name="input_confirm_password">비밀번호 입력 확인</string>
+    <string name="terms">이용약관</string>
+    <string name="terms_text">에 동의합니다.</string>
+    <string name="work_out_time">운동 시간</string>
+    <string name="my_level">나의 레벨</string>
+    <string name="remain_step">잔여 걸음수</string>
+    <string name="expected_consumption_of_calories">기대 소모 칼로리</string>
+    <string name="complete_step">달성완료</string>
+    <string name="today_goal">오늘의 목표</string>
+    <string name="setting_profile">내 프로필 보기</string>
+    <string name="setting_notice">공지사항 및 이벤트</string>
+    <string name="setting_weight">목표 체중 설정하기</string>
+    <string name="setting_device_manager">장치 관리자</string>
+    <string name="setting_edit_device">기기 설정하기</string>
+    <string name="setting_logout">로그아웃</string>
+
+    <!--스트레스지수-->
+    <string name="bad">나쁨</string>
+    <string name="normal">보통</string>
+    <string name="good">좋음</string>
+    <string name="very_good">매우 좋음</string>
+    <string name="empty_stress_index">당신의 스트레스 지수를 측정해보세요.</string>
+    <string name="loading_stress_index">측정중 입니다.</string>
+    <string name="warnning_stress_index">( 측정시엔 움직이지 마세요 )</string>
+    <string name="measure_start">측정 시작</string>
+    <string name="measure_end">측정 종료</string>
+    <string name="measure_cancel">측정 취소</string>
+
+    <!--수면-->
+    <string name="lack">부족함</string>
+    <string name="few">적음</string>
+
+    <!--활동측정-->
+    <string name="workout_consume_calorie">소모 칼로리</string>
+    <string name="avg_workout_intensity">평균 활동 강도</string>
+    <string name="workout_time">활동 시간</string>
+    <string name="workout_heartrate">심박수</string>
+    <string name="workout_heartrate_warnning">경고 : 심박수 위험구간의 비율이 높으면\n심장에 무리가 갈 수 있으니 조심하세요.</string>
+    <string name="workout_graph_low">준비 운동</string> 
+    <string name="workout_graph_mid">지방 연소 운동</string>
+     <string name="workout_graph_high">유산소 운동</string> 
+    <string name="workout_graph_danger">최대 강도 운동</string>
+    <string name="workout_max_heartrate">최고 심박수</string>
+    <string name="workout_min_heartrate">최저 심박수</string>
+    <string name="workout_avg_heartrate">평균 심박수</string>
+    <string name="workout_ratio_heartrate">평균 / 최대 심박수</string>
+
+    <!--걸음 코멘트-->
+    <string name="Step_9001_9999_1">1000 보는 약 5분만 걸으셔도 채울 수 있어요.</string>
+    <string name="Step_9001_9999_2">10000보가 눈앞이에요!</string>
+    <string name="Step_9001_9999_3">오늘도 목표를 향해 한발짝 성큼 다가오셨네요.</string>
+    <string name="Step_8001_9000_1">하루를 마무리 하는 의미로 가볍게 걸어보는것은 어떨까요? \n2000보는 약 10분만 걸으셔도 채울 수 있어요.</string>
+    <string name="Step_7001_8000_1">3000보 정도 남으셨어요. 오늘은 정류장 혹은 역에서 집까지 걸어가 보시는 게 어떨까요? \n내일 아침이 더 가벼우실 거예요.</string>
+    <string name="Step_5001_7000_1">반정도 남으셨어요. 오늘은 걷기 운동을 한번 해보는 것은 어떨까요? \n5000보는 약 30분 정도의 걷기 운동을 채우실 수 있어요.</string>
+    <string name="Step_3001_5000_1">지금 이 메시지를 보고 있는 게 밤이시라면 지금 당장 운동하러 가시는게 좋을 것 같아요. \n만약에 오전 중이시라면 오늘 정말 활기차게 시작하셨습니다!</string>
+    <string name="Step_2001_3000_1">걷기 운동을 하지 않더라도 일상적인 걸음으로 하루에 약 2~3000 보를 채울 수 있어요. \n우리의 목표는 10000 보입니다. 오늘 저녁에 30분 정도 걸으시는 건 어떨까요?</string>
+    <string name="Step_2001_3000_2">시작이 반이다! 사실 아직 반도 못 걸으신거 아시죠? 힘내서 10000보까지 오늘도 힘내 보아요.</string>
+    <string name="Step_0_2000_1">좋은 아침입니다! 오늘도 10000보를 향해서 화이팅!</string>
+    <string name="Step_0_2000_2">걷기 운동으로 시작하는 가벼운 하루!</string>
+    <string name="Step_0_2000_3">걷는 것이 성인병과 우울증, 스트레스에 도움이 된다는 사실 알고 계시나요? \n오늘도 힘차게 걸어봅시다.</string>
+    <string name="Step_0_2000_4">하루에 10000 걸음이면 잃어버린 건강을 되찾을 수 있어요.</string>
+    <string name="Step_Extra_1">속보로 걸어보시겠어요? 속보는 분당 3.5kcal 이상의 에너지가 소비되며, \n심폐 기능이 좋아지고 뼈와 근육이 튼튼해진다고 합니다!</string>
+    <string name="Step_Extra_2">급보라고 들어보셨나요? 말 그대로 급하게 걷는 운동입니다. 분당 4.5kcal정도 에너지 소비가 되며, \n유산소성 운동능력의 향상을 극대화하여 성인병 예방 및 치료에 효과적인 걷기입니다.</string>
+    <string name="Step_Extra_3">강보로 힘차게 걸어보세요! 강보는 분당 7.5kcal의 에너지가 소비되며, 운동 효과가 매우 높습니다.</string>
+    <string name="Step_Extra_4">걷기 운동은 체지방을 감소시켜 비만을 개선하고 당뇨, 고혈압, 고지혈증 등 성인병을 예방하고 치료하는데 도움 준다네요. \n남은 걸음도 열심히 채워서 건강에 한 발짝 다가가보세요.</string>
+
+    <!--프로필-->
+    <string name="name">이름</string>
+    <string name="birthday">생년월일</string>
+    <string name="height">신장</string>
+    <string name="weight">몸무게</string>
+    <string name="sex">성별</string>
+    <string name="input_weight">몸무게를 입력해 주세요.</string>
+
+    <string name="program_name_abdominal_muscles">초고속 복근 완성 필라테스</string>
+    <string name="program_name_backside">완벽 뒤태 만들기 필라테스</string>
+    <string name="program_name_tbt1">Total Body Training 1</string>
+    <string name="program_name_tbt2">Total Body Training 2</string>
+    <string name="program_name_baby_1">출산 후 운동 Step. 1</string>
+    <string name="program_name_baby_2">출산 후 운동 Step. 2</string>
+
+    <string name="html_lee_joo_young_profile_name">lee_joo_young_profile</string>
+    <string name="html_hong_doo_han_profile_name">hong_doo_han_profile</string>
+    <string name="html_kwon_do_ye_profile_name">kwon_do_ye_profile</string>
+
+    <string name="html_prepare_exer">prepare</string>
+    <string name="html_mat">mat</string>
+    <string name="html_active">active</string>
+    <string name="html_15min">exer_15min</string>
+    <string name="html_abdominal_muscles">lee_joo_young_abdominal_muscles</string>
+    <string name="html_backside">lee_joo_young_backside</string>
+    <string name="html_tbt1">hong_doo_han_tbt1</string>
+    <string name="html_tbt2">hong_doo_han_tbt2</string>
+    <string name="html_baby_1">kwon_do_ye_baby_1</string>
+    <string name="html_baby_2">kwon_do_ye_baby_2</string>
+
+    <string name="html_name_graph_comment_accuracy">graph_comment_accuracy</string>
+    <string name="html_name_graph_comment_heartrate">graph_comment_heartrate</string>
+    <string name="html_name_graph_comment_exer_count">graph_comment_exercount</string>
+    <string name="html_name_graph_comment_calorie">graph_comment_calorie</string>
+    <string name="html_name_graph_comment_total">graph_comment_total</string>
+
+    <string name="html_name_glossary">glossary</string>
+    <string name="html_name_manual">manual</string>
+    <string name="html_name_terms">terms</string>
+
+    <string name="html_name_workout_measure">workout_measure</string>
+
+    <string name="html_name_glossary_fit">glossary_fit</string>
+    <string name="html_name_manual_fit">manual_fit</string>
+    <string name="html_name_terms_fit">terms_fit</string>
+
+    <string name="device_not_connected">기기가 연결이 되지 않았습니다.</string>
+
+    <!--기기 설정하-->
+    <string name="my_register_device">나의 등록된 기기</string>
+
+    <!--활동 측정-->
+    <string name="tmp">2016년 05월 31일 01:03</string>
+
+    <string name="Workout_time">2016년 05월 31일 01:03</string>
+
+
+    <string name="state_not_idle">이미 다른 측정을 수행중 입니다.</string>
+    <string name="stress_measure_exit">측정이 종료되었습니다.</string>
+    <string name="device_initial_waiting">동기화중 입니다. 잠시만 기다려주세요.</string>
+
+    <string name="graph_legend_activity">활동</string>
+    <string name="graph_legend_coach">코치 운동</string>
+    <string name="graph_legend_sleep">수면</string>
+    <string name="graph_legend_daily">일상 생활</string>
+
+    <string name="raise_disconnect">연결이 끊어졌습니다.</string>
+
+    <string name="next_year_chart">연간</string>
+
+    <string name="web_event">http://ibody24.com/kr/03_update.asp</string>
+    <string name="find_account_url">http://www.ibody24.com/kr/idfind.asp</string>
+    <string name="find_account_title">아이디/비밀번호 찾기</string>
+
+    <!-- 필요없을지도 모름 -->
+    <string name="graph_title_accuracy">정확도 그래프</string>
+    <string name="graph_title_heartrate">심박수 그래프</string>
+    <string name="graph_title_exer_count">운동 횟수 그래프</string>
+    <string name="graph_title_calorie">칼로리 그래프</string>
+    <string name="graph_title_total">총점 그래프</string>
+    <!-- -->
+
+    <string name="warnning_download">대용량의 데이터를 소모하므로, WI-FI 환경에서 다운로드를 권장합니다. 계속하시겠습니까?</string>
+    <string name="fail_connect_device_confirm">연결에 실패하였습니다. 잠시 후, 다시 시도해주세요.</string>
+    <string name="fail_connect_device_retry">연결에 실패하였습니다. 잠시 후, 다시 시도해주세요.</string>
+    <string name="connecting_device">장치 연결 중입니다.</string>
+    <string name="success_connect">연결되었습니다.</string>
+
+    <string name="delete_device">정말 기기를 삭제하시겠습니까?</string>
+    <string name="login">Login</string>
+    <string name="action_settings">Settings</string>
+    <string name="confirm_delete_coach">정말 비디오를 삭제 하시겠습니까?</string>
+    <string name="day">일</string>
+    <string name="minute">분</string>
+    <string name="point_title_small">Pts</string>
+    <string name="setting_menu6">2인 플레이</string>
+    <string name="setting_menu3">내 프로필 보기</string>
+    <string name="setting_menu5">목표 체중 설정하기</string>
+    <string name="setting_menu7">로그아웃</string>
+    <string name="start_app">시작</string>
+    <string name="support_bluetooth_title">iBODY24가 연결 되었습니다</string>
+    <string name="year">년</string>
+    <string name="joinus">Join us</string>
+    <string name="login_password_title">비밀번호</string>
+    <string name="login_read_agreement">이용약관</string>
+    <string name="logo_text">The first wearable to be your personal trainer</string>
+    <string name="login_password_hint">패스워드는 16글자 이하로 설정해주세요.</string>
+    <string name="login_email_title">이메일</string>
+    <string name="login_email_hint">이메일을 입력해주세요.</string>
+    <string name="login_confirm_title">비밀번호 확인.</string>
+    <string name="login_confirm_hint">비밀번호를 확인해주세요.</string>
+    <string name="login_check_agreement">이용약관에 동의 합니다.</string>
+
+    <string name="step_format">%d 걸음</string>
+
+    <string name="low">약함</string>
+    <string name="mid">보통</string>
+    <string name="high">강함</string>
+    <string name="danger">위험</string>
+
+    <string name="error_measure">측정이 제대로 이루어지지 않았습니다. 장치를 정확히 착용하고 다시 측정해주세요.</string>
+
+    <string name="notice_firmup">펌웨어 업데이트가 필요합니다. 진행 하시겠습니까?</string>
+    <string name="start_firm_warnning">펌웨어 업데이트를 시작합니다. 아직 저장되지 않은 측정 데이터는 삭제됩니다.</string>
+    <string name="firm_progress">펌웨어 업데이트 중입니다.</string>
+    <string name="failed_firmup">펌웨어 업데이트에 실패했습니다. 다음 연결에 재시도합니다.</string>
+    <string name="success_firmup">펌웨어 업데이트에 성공했습니다.</string>
+    <string name="comment_maximum_heartrate">사용자의 최대 심박수 대비 운동 시의 현재 심박수를 나타냅니다. 이 값이 낮아질수록 심폐기능은 향상되지만, 칼로리 소비량은 줄어듭니다. 또한 이 값이 최대 80% 이상으로 유지될 경우 신체에 무리가 가해질 수도 있습니다.</string>
+    <string name="support_msg4">가까이에 같은 iBODY24 기기가 있는지 확인 부탁드립니다</string>
+</resources>

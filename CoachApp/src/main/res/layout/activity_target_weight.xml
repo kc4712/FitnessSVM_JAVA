@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical">
+
+    <!-- 몸무게 설정 -->
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:layout_marginStart="10dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:layout_width="12dp"
+            android:layout_height="17dp"
+            android:scaleType="fitXY"
+            android:background="@drawable/triangle_orange"
+            android:layout_gravity="center"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:text="@string/weight_setting"
+            android:textSize="18dp"
+            android:layout_gravity="center"
+            />
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/line_orange" />
+
+    <!-- 현재 몸무게 / 12, 140, FULL, 55 -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        >
+
+        <ImageView
+            android:layout_width="12dp"
+            android:layout_height="12dp"
+            android:src="@drawable/arrow_blue"
+            android:scaleType="fitXY" />
+
+        <TextView
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:text="@string/now_weight"
+            android:textSize="15dp"
+            android:textColor="#616161" />
+
+        <EditText
+            android:id="@+id/setting_weight_current_weight"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:textColor="#7da883"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
+            android:paddingBottom="3dp"
+            android:background="@drawable/edit_line_gray"
+            android:inputType="numberDecimal" />
+
+        <TextView
+            android:layout_width="55dp"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text="kg"
+            android:textColor="#526359"
+            android:textSize="13dp" />
+
+    </LinearLayout>
+
+    <kr.co.greencomm.ibody24.coach.widget.WeightGraph
+        android:id="@+id/setting_weight_current_weight_graph"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp" />
+
+    <!-- 목표 몸무게 / 12, 140, FULL, 55 -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:layout_width="12dp"
+            android:layout_height="12dp"
+            android:src="@drawable/arrow_blue"
+            android:scaleType="fitXY" />
+
+        <TextView
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:text="@string/target_weight"
+            android:textSize="15dp"
+            android:textColor="#616161" />
+
+        <EditText
+            android:id="@+id/setting_weight_target_weight"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:textColor="#7da883"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
+            android:paddingBottom="3dp"
+            android:background="@drawable/edit_line_gray"
+            android:inputType="numberDecimal" />
+
+        <TextView
+            android:layout_width="55dp"
+            android:layout_height="wrap_content"
+            android:gravity="end"
+            android:text="kg"
+            android:textColor="#526359"
+            android:textSize="13dp" />
+
+    </LinearLayout>
+
+    <kr.co.greencomm.ibody24.coach.widget.WeightGraph
+        android:id="@+id/setting_weight_target_weight_graph"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp" />
+
+    <TextView
+        android:id="@+id/setting_weight_weight_comment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:textColor="#777777"
+        android:textSize="13dp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="5dp"
+        android:background="#eeeeee" />
+
+    <!-- 감량 기간 / 12, 140, FULL, 55 -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:layout_width="12dp"
+            android:layout_height="12dp"
+            android:src="@drawable/arrow_blue"
+            android:scaleType="fitXY" />
+
+        <TextView
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:text="@string/day_consume_calorie"
+            android:textSize="15dp"
+            android:textColor="#616161" />
+
+        <EditText
+            android:id="@+id/setting_weight_day_calorie"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:textColor="#7da883"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
+            android:paddingBottom="3dp"
+            android:background="@drawable/edit_line_gray"
+            android:inputType="numberDecimal"
+            android:focusable="false" />
+
+        <TextView
+            android:layout_width="55dp"
+            android:layout_height="wrap_content"
+            android:text="Kcal"
+            android:textColor="#526359"
+            android:textSize="13dp"
+            android:gravity="end" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:layout_width="12dp"
+            android:layout_height="12dp"
+            android:src="@drawable/arrow_blue"
+            android:scaleType="fitXY" />
+
+        <TextView
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:text="@string/diet_period"
+            android:textSize="15dp"
+            android:textColor="#616161" />
+
+        <EditText
+            android:id="@+id/setting_weight_diet_period"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:textColor="#7da883"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
+            android:paddingBottom="3dp"
+            android:background="@drawable/edit_line_gray"
+            android:inputType="numberDecimal" />
+
+        <TextView
+            android:layout_width="55dp"
+            android:layout_height="wrap_content"
+            android:gravity="end"
+            android:text="@string/week"
+            android:textColor="#526359"
+            android:textSize="13dp" />
+
+    </LinearLayout>
+
+    <!-- 일일 소비 칼로리 / 12, 140, FULL, 55 -->
+
+    <kr.co.greencomm.ibody24.coach.widget.PeriodGraph
+        android:id="@+id/setting_weight_target_dietPeriod"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        />
+
+    <TextView
+        android:id="@+id/setting_weight_period_comment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:textColor="#777777"
+        android:textSize="13dp" />
+
+    <Button
+        android:id="@+id/setting_weight_btn_next"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:background="@drawable/button_integrated"
+        style="@style/grcomm_button_large"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/setting"
+        android:layout_marginEnd="15dp"
+        android:layout_gravity="right" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
+
